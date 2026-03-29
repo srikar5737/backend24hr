@@ -1,0 +1,3359 @@
+{
+  "visualization": {
+    "type": "bar_chart",
+    "title": "Recruiting Trials by Country for Alzheimer's",
+    "encoding": {
+      "x": {
+        "field": "country",
+        "label": null,
+        "data_type": "nominal",
+        "aggregate": null,
+        "time_granularity": null,
+        "unit": null
+      },
+      "y": {
+        "field": "trial_count",
+        "label": null,
+        "data_type": "quantitative",
+        "aggregate": "count",
+        "time_granularity": null,
+        "unit": null
+      },
+      "color": null,
+      "series": null,
+      "size": null,
+      "label": null,
+      "node_id": null,
+      "node_label": null,
+      "node_group": null,
+      "source": null,
+      "target": null,
+      "weight": null,
+      "tooltip": []
+    },
+    "data": [
+      {
+        "citations": [
+          {
+            "nct_id": "NCT05733520",
+            "excerpt": "United States: I-CARE 2: Mobile Telehealth to Reduce Alzheimer'S-related Symptoms"
+          },
+          {
+            "nct_id": "NCT07260253",
+            "excerpt": "United States: Remotely-supervised Neuromodulation in PPA"
+          },
+          {
+            "nct_id": "NCT06052254",
+            "excerpt": "United States: Dexmedetomidine Transdermal Systems (DMTS) Treatment for Agitation Associated With Dementia of the Alzheimer's Type"
+          },
+          {
+            "nct_id": "NCT04800588",
+            "excerpt": "United States: Computerized Tests of Cognitive Decline in Presymptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06094192",
+            "excerpt": "United States: Improving Memory in Alzheimer's Disease With Noninvasive Brain Stimulation"
+          },
+          {
+            "nct_id": "NCT06708182",
+            "excerpt": "United States: SAGE LEAF 2: An Online Program to Reduce Dementia Caregiver Burden"
+          },
+          {
+            "nct_id": "NCT06230783",
+            "excerpt": "United States: Speech Pattern Evaluation and Analysis for Knowledge of AD"
+          },
+          {
+            "nct_id": "NCT05877196",
+            "excerpt": "United States: A SMART Trial of Adaptive Exercises to Optimize Aerobic-Fitness Responses"
+          },
+          {
+            "nct_id": "NCT07284472",
+            "excerpt": "United States: Safety and Efficacy of EXV-802 and EXV-801 in the Treatment of Agitation in Alzheimer's Disease Dementia"
+          },
+          {
+            "nct_id": "NCT07306065",
+            "excerpt": "United States: University of Central Florida Music Study"
+          },
+          {
+            "nct_id": "NCT06887192",
+            "excerpt": "United States: A Study to Assess the Efficacy and Safety of ML-007C-MA for the Treatment of Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT03140865",
+            "excerpt": "United States: Wake Forest Alzheimer's Disease Clinical Core"
+          },
+          {
+            "nct_id": "NCT06057909",
+            "excerpt": "United States: A Study of Neurodegeneration and Neuronal Fluctuations in Lewy Body Disease and Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06540833",
+            "excerpt": "United States: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Psychosis Associated With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05925621",
+            "excerpt": "United States: Cognitive Neurology Unit Clinical Registry"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "United States: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT03671889",
+            "excerpt": "United States: ExAblate Blood-Brain Barrier (BBB) Disruption for the Treatment of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06052163",
+            "excerpt": "United States: Bumetanide in Patients With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05949047",
+            "excerpt": "United States: Smartphone-based Cognitive Emotion Regulation Training for Unpaid Primary Caregivers of Persons With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05795634",
+            "excerpt": "United States: Cognitive Vulnerability to Stress in Individuals at Risk for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06538311",
+            "excerpt": "United States: Transcranial Magnetic Stimulation Treatment for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05151562",
+            "excerpt": "United States: Music Therapy for Patients With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05822362",
+            "excerpt": "United States: CBD for Individuals at Risk for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05081596",
+            "excerpt": "United States: A Primary Care-Based Psychosocial Intervention To Improve Cognitive & Depression Outcomes in Older Adults With MCI & Early Stage AD"
+          },
+          {
+            "nct_id": "NCT06835283",
+            "excerpt": "United States: Novel Brain Stimulation Treatment for Neuropsychiatric Symptoms in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06338774",
+            "excerpt": "United States: Cognitive Control to Boost Physical Activity Adherence"
+          },
+          {
+            "nct_id": "NCT05462106",
+            "excerpt": "United States: A Study to Assess the Effects of ACI-24.060 in Alzheimer's Disease and in Down Syndrome (ABATE Study)"
+          },
+          {
+            "nct_id": "NCT06511752",
+            "excerpt": "United States: Educational Support Group Program for Bilingual and Spanish-speaking Carepartners and People With Progressive Aphasia"
+          },
+          {
+            "nct_id": "NCT07224607",
+            "excerpt": "United States: Transcranial Photobiomodulation (tPBM) in Alzheimer's Disease Study"
+          },
+          {
+            "nct_id": "NCT06956300",
+            "excerpt": "United States: TMS for Cognitive Decline in Aging and Preclinical AD"
+          },
+          {
+            "nct_id": "NCT05534607",
+            "excerpt": "United States: Natives Engaged in Alzheimers Research - 'Ike Kupuna"
+          },
+          {
+            "nct_id": "NCT06862557",
+            "excerpt": "United States: Pulsed Electromagnetic Field Treatment With Dementia Patients"
+          },
+          {
+            "nct_id": "NCT07303998",
+            "excerpt": "United States: Remote tDCS and Chair Yoga for Chronic Knee Pain in Alzheimer's Patients"
+          },
+          {
+            "nct_id": "NCT05295615",
+            "excerpt": "United States: Pulsed Electromagnetic Field Treatment In Patients With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06174038",
+            "excerpt": "United States: Early Age-Related Hearing Loss Investigation (EARHLI)"
+          },
+          {
+            "nct_id": "NCT06514001",
+            "excerpt": "United States: A Study of AMDX-2011P in Participants With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05661084",
+            "excerpt": "United States: Non-invasive Brain Stimulation for Cognitive and Motor Dysfunction in Dementia"
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "United States: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT06309147",
+            "excerpt": "United States: A Study to Assess the Safety of BMS-984923 Compared to Placebo, in People With Parkinson's"
+          },
+          {
+            "nct_id": "NCT06411561",
+            "excerpt": "United States: A Multi-Modal Combination Intervention to Promote Cognitive Function in Older Intensive Care Unit Survivors"
+          },
+          {
+            "nct_id": "NCT05004987",
+            "excerpt": "United States: Aβ Dynamics in LLMD"
+          },
+          {
+            "nct_id": "NCT05592678",
+            "excerpt": "United States: δ in Dementia Clinical Trials"
+          },
+          {
+            "nct_id": "NCT05040217",
+            "excerpt": "United States: A Clinical Trial of AAV2-BDNF Gene Therapy in Early Alzheimer's Disease and Mild Cognitive Impairment"
+          },
+          {
+            "nct_id": "NCT05331144",
+            "excerpt": "United States: Impact of Intensive Treatment of SBP on Brain Perfusion, Amyloid, and Tau (IPAT Study)"
+          },
+          {
+            "nct_id": "NCT05667649",
+            "excerpt": "United States: Autologous Activated Adipose-derived Stem Cells (RB-ADSC) Injected Directly Into the Brain for Mild to Moderate Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT03761381",
+            "excerpt": "United States: OCT Angiography and NRAI in Dementia"
+          },
+          {
+            "nct_id": "NCT03890861",
+            "excerpt": "United States: Reducing African Americans' Alzheimer's Disease Risk Through Exercise (RAATE)\""
+          },
+          {
+            "nct_id": "NCT06313853",
+            "excerpt": "United States: Enhancing Triadic Communication About Cognition for Older Adults With Alzheimer's Disease or Related Dementias Facing a Cancer Management Decision"
+          },
+          {
+            "nct_id": "NCT04855630",
+            "excerpt": "United States: Combating Alzheimer's Through Sleep and Exercise"
+          },
+          {
+            "nct_id": "NCT06326424",
+            "excerpt": "United States: Delirium Identification in Older Patients With Alzheimer's and Other Related Dementias In the Emergency Department"
+          },
+          {
+            "nct_id": "NCT06709014",
+            "excerpt": "United States: A Double-blind Dual Study Assessing Safety and Efficacy of Buntanetap in Participants With Early AD"
+          },
+          {
+            "nct_id": "NCT06999434",
+            "excerpt": "United States: Exploring the Utility of [18F]3F4AP for Demyelination Imaging"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "United States: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT03875638",
+            "excerpt": "United States: Treating Hyperexcitability in AD With Levetiracetam"
+          },
+          {
+            "nct_id": "NCT05599425",
+            "excerpt": "United States: Health Behavior Change in Midlife Adults at Risk for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06254469",
+            "excerpt": "United States: Visualizing Brain Proteinopathies Using [F-18]Flornaptitril-PET in the Prediction of Clinical Progression of Mild Cognitive Impairment With Either Suspected Chronic Traumatic Encephalopathy or Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07033494",
+            "excerpt": "United States: A Clinical Study of MK-2214 in People With Early Alzheimer's Disease (MK-2214-004)"
+          },
+          {
+            "nct_id": "NCT04840979",
+            "excerpt": "United States: Discovery and Validation of Genetic Variants Affecting Microglial Activation in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07142954",
+            "excerpt": "United States: Epidemiology and Biomarker Study in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06297590",
+            "excerpt": "United States: A First-In-Human Study of LY3954068 in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06400368",
+            "excerpt": "United States: Effect of LEQEMBI on Cerebral and Retinal Amyloid in Mild Cognitive Impairment Due to Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06722352",
+            "excerpt": "United States: Palliative Care Education in Assisted Living for Dementia Care Providers (PCEAL-DCP)"
+          },
+          {
+            "nct_id": "NCT06096090",
+            "excerpt": "United States: Phase II Clinical Trial of Interleukin-2 in AD"
+          },
+          {
+            "nct_id": "NCT03233646",
+            "excerpt": "United States: Retinal Imaging in Neurodegenerative Disease"
+          },
+          {
+            "nct_id": "NCT04240561",
+            "excerpt": "United States: Characterizing Variability in Hearing Aid Outcomes in Among Older Adults With Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT03809351",
+            "excerpt": "United States: UAB Alzheimer's Disease Center Core Cohort - Tau Imaging Substudy"
+          },
+          {
+            "nct_id": "NCT07105709",
+            "excerpt": "United States: Open-label Extension Study in Participants With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT04576793",
+            "excerpt": "United States: Longitudinal Imaging of Microglial Activation in Different Clinical Variants of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06850870",
+            "excerpt": "United States: Door-Through-Door Companion Rideshare Technology for Individuals With Alzheimer's Disease and Related Dementias (AD/ADRD)"
+          },
+          {
+            "nct_id": "NCT04740580",
+            "excerpt": "United States: Glutathione, Brain Metabolism and Inflammation in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05573490",
+            "excerpt": "United States: Lifestyle Interventions for the Treatment of Early Onset Alzheimer's Disease Study"
+          },
+          {
+            "nct_id": "NCT00064870",
+            "excerpt": "United States: Alzheimer's Disease Genetics Study"
+          },
+          {
+            "nct_id": "NCT05748613",
+            "excerpt": "United States: Anxiety Sensitivity Treatment to Reduce Anxiety in Alzheimer's"
+          },
+          {
+            "nct_id": "NCT05658913",
+            "excerpt": "United States: Tau PET/CT Imaging in the Mismatch Prospective Cohort Study (MPC-TAU)"
+          },
+          {
+            "nct_id": "NCT05984524",
+            "excerpt": "United States: Gamma-Music Based Intervention for Mild Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06223360",
+            "excerpt": "United States: A Trial to Evaluate the Safety and Efficacy of Benfotiamine in Patients With Early Alzheimer's Disease (BenfoTeam)"
+          },
+          {
+            "nct_id": "NCT04165109",
+            "excerpt": "United States: Trial-Ready Cohort-Down Syndrome (TRC-DS)"
+          },
+          {
+            "nct_id": "NCT06247345",
+            "excerpt": "United States: A Phase Ia/Ib, First-in-human (FIH) Study for Safety, Tolerability, Pharmacokinetics (PK), and Clinical Activity Evaluation of ADEL-Y01"
+          },
+          {
+            "nct_id": "NCT05405075",
+            "excerpt": "United States: Arizona Alzheimer's Disease Research Center (ADRC)"
+          },
+          {
+            "nct_id": "NCT04124029",
+            "excerpt": "United States: Contributions of mTBI to Neurodegeneration Due to Chronic Traumatic Encephalopathy (CTE) and Alzheimer's Disease (AD)"
+          },
+          {
+            "nct_id": "NCT05596760",
+            "excerpt": "United States: Promoting Goals-of-Care Discussions for Patients With Memory Problems and Their Caregivers"
+          },
+          {
+            "nct_id": "NCT03638583",
+            "excerpt": "United States: Alzheimer Prevention Trials (APT) Webstudy"
+          },
+          {
+            "nct_id": "NCT06129838",
+            "excerpt": "United States: Investigation of Inflammation in Alzheimer's Disease and Related Dementias (ADRD) Using [11C]-CS1P1"
+          },
+          {
+            "nct_id": "NCT05985486",
+            "excerpt": "United States: Brain Outcomes With Lifestyle Change in Down Syndrome"
+          },
+          {
+            "nct_id": "NCT06170268",
+            "excerpt": "United States: Alzheimer's National Registry for Treatment and Diagnostics(ALZ-NET)"
+          },
+          {
+            "nct_id": "NCT04956549",
+            "excerpt": "United States: Reducing African American's Alzheimer's Risk Through Exercise-Mild Cognitive Impairment (RAATE-MCI)"
+          },
+          {
+            "nct_id": "NCT05209438",
+            "excerpt": "United States: Cereset Research for Caregivers"
+          },
+          {
+            "nct_id": "NCT04430517",
+            "excerpt": "United States: Effects of Nicotinamide Riboside on Bioenergetics and Oxidative Stress in Mild Cognitive Impairment/Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT05372159",
+            "excerpt": "United States: Vanderbilt Memory and Aging Project"
+          },
+          {
+            "nct_id": "NCT06429124",
+            "excerpt": "United States: Time Restricted Eating in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT04100057",
+            "excerpt": "United States: Sleep Disturbance and Emotion Regulation Brain Dysfunction as Mechanisms of Neuropsychiatric Symptoms in Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT05138848",
+            "excerpt": "United States: Time-in-bed Restriction in Older Adults With Sleep Difficulties With and Without Risk for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05417555",
+            "excerpt": "United States: Low Intensity Focused Ultrasound for Mild Cognitive Impairment and Mild Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT04629495",
+            "excerpt": "United States: Rapamycin - Effects on Alzheimer's and Cognitive Health"
+          },
+          {
+            "nct_id": "NCT04820335",
+            "excerpt": "United States: Promoting Independence With Compensatory Cognitive Rehabilitation"
+          },
+          {
+            "nct_id": "NCT00869817",
+            "excerpt": "United States: Dominantly Inherited Alzheimer Network (DIAN)"
+          },
+          {
+            "nct_id": "NCT06651567",
+            "excerpt": "United States: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Agitation Associated With Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "United States: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT05591027",
+            "excerpt": "United States: Safety and Target Engagement of Centella Asiatica in Cognitive Impairment"
+          },
+          {
+            "nct_id": "NCT05881239",
+            "excerpt": "United States: Digital Accessible Remote Olfactory Mediated Health Assessments for Preclinical AD"
+          },
+          {
+            "nct_id": "NCT04396873",
+            "excerpt": "United States: PET Imaging of Cyclooxygenases in Neurodegenerative Brain Disease"
+          },
+          {
+            "nct_id": "NCT07169578",
+            "excerpt": "United States: A Study of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06099197",
+            "excerpt": "United States: I-CARE 2: Mobile Telehealth to Reduce Alzheimer'S-related Symptoms in Hispanic Individuals"
+          },
+          {
+            "nct_id": "NCT07222280",
+            "excerpt": "United States: Clinical Trial Protocol: Alzheimer's Dementia Underlying Encephalopathy"
+          },
+          {
+            "nct_id": "NCT04134923",
+            "excerpt": "United States: Imaging Biomarkers in Preclinical and Symptomatic AD"
+          },
+          {
+            "nct_id": "NCT07228078",
+            "excerpt": "United States: Open-Label Extension Protocol to SNK01-AD01 Study"
+          },
+          {
+            "nct_id": "NCT04601038",
+            "excerpt": "United States: Trial of CORT108297 to Attenuate the Effects of Acute Stress in the Allocortex (CORT-X)"
+          },
+          {
+            "nct_id": "NCT07265323",
+            "excerpt": "United States: Effect of Physiologic Insulin Administration on Insulin Sensitivity and Cognition"
+          },
+          {
+            "nct_id": "NCT04239079",
+            "excerpt": "United States: Autoimmune Features of Neurodegenerative Disorders"
+          },
+          {
+            "nct_id": "NCT04123314",
+            "excerpt": "United States: Psilocybin for Depression in People With Mild Cognitive Impairment or Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06840587",
+            "excerpt": "United States: Connect-Home: Alzheimer's Disease and Related Dementias"
+          },
+          {
+            "nct_id": "NCT05206305",
+            "excerpt": "United States: Sensory-Evoked Cortical Gamma Oscillation"
+          },
+          {
+            "nct_id": "NCT05460494",
+            "excerpt": "United States: Reduce Loneliness in Care Partners of Persons With AD/ADRD"
+          },
+          {
+            "nct_id": "NCT05980052",
+            "excerpt": "United States: Goal Setting to Promote Physical Activity Adherence in Midlife Adults"
+          },
+          {
+            "nct_id": "NCT06922188",
+            "excerpt": "United States: Development of Measures to Screen for Financial Hardship in Alzheimer's Disease and Dementia"
+          },
+          {
+            "nct_id": "NCT05643144",
+            "excerpt": "United States: Enhancing Shared Decision-making to Guide Care for People With Dementia and Diabetes"
+          },
+          {
+            "nct_id": "NCT05904132",
+            "excerpt": "United States: Individual Closed-Loop Neuromodulation Therapy for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06582706",
+            "excerpt": "United States: Nicotinic Acid for the Treatment of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT02022943",
+            "excerpt": "United States: Alzheimer's Prevention Registry: A Program to Accelerate Enrollment Into Studies"
+          },
+          {
+            "nct_id": "NCT05245903",
+            "excerpt": "United States: Passive Sensor Identification of Digital Biomarkers to Assess Effects of Orally Administered Nicotinamide Riboside"
+          },
+          {
+            "nct_id": "NCT06566170",
+            "excerpt": "United States: A Real-World Comparative Study of Donanemab (LY3002813) Plus Usual Care Versus Usual Care Alone in US Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07127510",
+            "excerpt": "United States: Brain NAD in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05452031",
+            "excerpt": "United States: A Dyadic Sleep Health Approach for Persons With Alzheimer's Disease and Caregivers"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "United States: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT05231785",
+            "excerpt": "United States: A Study to Evaluate the Safety and Tolerability of ALN-APP in Patients With EOAD"
+          },
+          {
+            "nct_id": "NCT06489847",
+            "excerpt": "United States: An Objective Assessment Tool for Evaluating Functioning in Older Adults"
+          },
+          {
+            "nct_id": "NCT06548191",
+            "excerpt": "United States: TREAD: Time Restricted Eating Intervention for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT03848312",
+            "excerpt": "United States: Preventing Alzheimer's With Cognitive Training"
+          },
+          {
+            "nct_id": "NCT07216716",
+            "excerpt": "United States: Evaluating the Effectiveness of the Health App Recommendation Tool"
+          },
+          {
+            "nct_id": "NCT07094516",
+            "excerpt": "United States: A Clinical Trial to Learn About the Effects of VHB937 in People With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06801639",
+            "excerpt": "United States: Advancing Alzheimer's Care: Home-based tDCS for Affective Symptoms"
+          },
+          {
+            "nct_id": "NCT06152211",
+            "excerpt": "United States: Music-Based Interventions, Aging, Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05574400",
+            "excerpt": "United States: The Caffeine, Postoperative Delirium, and Change in Outcomes After Surgery (CAPACHINOS-2) Study"
+          },
+          {
+            "nct_id": "NCT03821857",
+            "excerpt": "United States: Sex-Specific Effects of Endocrine Disruption on Aging and Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06058234",
+            "excerpt": "United States: Medicare Anti-Aβ mAb Coverage With Evidence Development (CED) Study"
+          },
+          {
+            "nct_id": "NCT06147999",
+            "excerpt": "United States: Impact of a Biophoton Therapy on Patients With Brain Disorders"
+          },
+          {
+            "nct_id": "NCT05597124",
+            "excerpt": "United States: Exercise to Improve Brain Health in Older African Americans"
+          },
+          {
+            "nct_id": "NCT05094271",
+            "excerpt": "United States: Is Obstructive Sleep Apnea Important in the Development of Alzheimer's Disease?"
+          },
+          {
+            "nct_id": "NCT04715399",
+            "excerpt": "United States: UPenn Observational Research Repository on Neurodegenerative Disease"
+          },
+          {
+            "nct_id": "NCT06678100",
+            "excerpt": "United States: Swallowing Impairments in Adults With and Without Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT04804241",
+            "excerpt": "United States: Senicapoc in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "United States: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT06649929",
+            "excerpt": "United States: Nuestro Sueno: Cultural Adaptation of a Couples Intervention to Improve PAP Adherence and Sleep Health Among Latino Couples With Implications for Alzheimer's Disease Risk"
+          },
+          {
+            "nct_id": "NCT06703541",
+            "excerpt": "United States: ADRC Clinical Cohort (Alzheimer's Disease)"
+          },
+          {
+            "nct_id": "NCT06775964",
+            "excerpt": "United States: Stem Cell Therapy for Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT04906863",
+            "excerpt": "United States: Genetic Studies of Early-onset Dementia"
+          },
+          {
+            "nct_id": "NCT06808984",
+            "excerpt": "United States: Study to Evaluate the Efficacy, Safety, and Tolerability of BMS-986368, for the Treatment of Agitation in Participants With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05511363",
+            "excerpt": "United States: A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)"
+          },
+          {
+            "nct_id": "NCT02434393",
+            "excerpt": "United States: Characterizing Cognitive Decline in Late Life Depression: The ADNI Depression Project"
+          },
+          {
+            "nct_id": "NCT03954899",
+            "excerpt": "United States: Disease Modifying Potential of 5mg of Melatonin on Cognition and Brain Health in Aging"
+          },
+          {
+            "nct_id": "NCT06792877",
+            "excerpt": "United States: Mindfulness for Cognition in Early-stage Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT03657745",
+            "excerpt": "United States: Alzheimer's Disease Treatment With Combination of 40Hz Light and Cognitive Therapy"
+          },
+          {
+            "nct_id": "NCT03799991",
+            "excerpt": "United States: Vestibular Therapy in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06041789",
+            "excerpt": "United States: Effect of Acetylcholinesterase Inhibitors on Bone Metabolism"
+          },
+          {
+            "nct_id": "NCT03926520",
+            "excerpt": "United States: Electroconvulsive Therapy (ECT) for Agitation in Dementia (AD)"
+          },
+          {
+            "nct_id": "NCT02649985",
+            "excerpt": "United States: PET Brain Imaging in Multiple Sclerosis, Alzheimer's Disease, and Other Neurological and Neuropsychiatric Diseases"
+          },
+          {
+            "nct_id": "NCT05336695",
+            "excerpt": "United States: Assess Fibrin in Brains With AD/ADRD"
+          },
+          {
+            "nct_id": "NCT05776641",
+            "excerpt": "United States: Gamma Light and Sound Stimulation to Prevent Dementia in Cognitively Normal People At Risk for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05543681",
+            "excerpt": "United States: Clinical Trial on Agitation in Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "United States: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT05556395",
+            "excerpt": "United States: Global Blood-Brain Barrier Disruption and Post-Stroke Cognitive Decline"
+          },
+          {
+            "nct_id": "NCT06639282",
+            "excerpt": "United States: Repurposing Siponimod for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06781333",
+            "excerpt": "United States: Human Mesenchymal Stem Cells (hMSC) in Behavioral Problems Due to Alzheimer's Disease."
+          },
+          {
+            "nct_id": "NCT05655195",
+            "excerpt": "United States: Chronic Treatment of Alzheimer's Disease by Gamma Light and Sound Therapy"
+          },
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "United States: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT05372172",
+            "excerpt": "United States: Tennessee Alzheimer's Project"
+          },
+          {
+            "nct_id": "NCT06159673",
+            "excerpt": "United States: ACP-204 in Adults With Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT06565169",
+            "excerpt": "United States: Improving PCP Advance Care Planning for People With ADRD"
+          },
+          {
+            "nct_id": "NCT05606341",
+            "excerpt": "United States: Innate Immunity Stimulation Via TLR9 in Early AD"
+          },
+          {
+            "nct_id": "NCT04629547",
+            "excerpt": "United States: Sleep Trial to Prevent Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07040904",
+            "excerpt": "United States: Mindfulness to Enhance Cognitive Health in Latinx Older Adults"
+          },
+          {
+            "nct_id": "NCT05877391",
+            "excerpt": "United States: Intervention to Collect and Utilize Sexual Orientation and Gender Identity (SOGI) Information in Hospice"
+          },
+          {
+            "nct_id": "NCT05456503",
+            "excerpt": "United States: PET Imaging Tau Accumulation in FTLD and Atypical Alzheimer's Using [18F]-PI-2620"
+          },
+          {
+            "nct_id": "NCT06274528",
+            "excerpt": "United States: DORA and LP in Alzheimer's Disease Biomarkers"
+          },
+          {
+            "nct_id": "NCT07218081",
+            "excerpt": "United States: A Trial to Test Intermittent Deep Brain Stimulation of Nucleus Basalis of Meynert to Treat Alzheimers."
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "United States: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT03507257",
+            "excerpt": "United States: Longitudinal Early-onset Alzheimer's Disease Study Protocol"
+          },
+          {
+            "nct_id": "NCT06876857",
+            "excerpt": "United States: University of Central Florida CereBank"
+          },
+          {
+            "nct_id": "NCT03019757",
+            "excerpt": "United States: Distinguishing Between Alzheimer's Disease, Lewy Body Dementia, and Parkinson's Disease"
+          },
+          {
+            "nct_id": "NCT06055322",
+            "excerpt": "United States: Reducing Suicide Risk Among Aging Caregivers of Persons With AD/ADRD"
+          },
+          {
+            "nct_id": "NCT05282550",
+            "excerpt": "United States: Targeting Cognition in Early Alzheimer's Disease by Improving Sleep With Trazodone"
+          },
+          {
+            "nct_id": "NCT06489548",
+            "excerpt": "United States: Assessment of Foralumab Safety and Modulation of Microglial Activation in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07392723",
+            "excerpt": "United States: ALA-enriched Nutrition for Prevention of Cognitive Decline in APOE4 Older Adults"
+          },
+          {
+            "nct_id": "NCT03840083",
+            "excerpt": "United States: Sleep-dependent Learning in Aging"
+          },
+          {
+            "nct_id": "NCT05997030",
+            "excerpt": "United States: Low-Intensity Focused Ultrasound (LIFU) Neuromodulation"
+          },
+          {
+            "nct_id": "NCT05016219",
+            "excerpt": "United States: Phase 2 - Rhythmic Light Therapy for Alzheimer's Disease Patients"
+          },
+          {
+            "nct_id": "NCT07178210",
+            "excerpt": "United States: Robotic-Enabled Microsurgical Intervention for Neurodegenerative Disease"
+          },
+          {
+            "nct_id": "NCT05010603",
+            "excerpt": "United States: Late Onset Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06657768",
+            "excerpt": "United States: A Study of LY4006895 in Healthy Participants With Early Symptomatic Alzheimer's Disease (AD)"
+          },
+          {
+            "nct_id": "NCT05565833",
+            "excerpt": "United States: Sleep Healthy Using the Internet Mitigating Insomnia to Address Neurocognitive Difficulties (SHUTi MIND)"
+          },
+          {
+            "nct_id": "NCT06189963",
+            "excerpt": "United States: Clinical Study of SNK01 in Participants With Moderate Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07218120",
+            "excerpt": "United States: In-Person Recruitment of Individuals to the Alzheimer's Prevention Trial (APT) Webstudy"
+          },
+          {
+            "nct_id": "NCT06397339",
+            "excerpt": "United States: Indian Transforming Alzheimer's Care Training (INTACT)"
+          },
+          {
+            "nct_id": "NCT03082755",
+            "excerpt": "United States: Nighttime Agitation and Restless Legs Syndrome in People With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06418971",
+            "excerpt": "United States: Testing & Refinement of CarePair: An Assessment and Referral Platform to Support Family Caregivers of Alzheimer's Disease and Related Dementias."
+          },
+          {
+            "nct_id": "NCT06340659",
+            "excerpt": "United States: Concurrent Aerobic Exercise and Cognitive Training to Prevent Alzheimer's in At-risk Older Adults (The Exergames Telerehabilitation Study)"
+          },
+          {
+            "nct_id": "NCT04902703",
+            "excerpt": "United States: Phase II Trial to Evaluate Safety and Efficacy of GM-CSF/Sargramostim in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06384378",
+            "excerpt": "United States: Systemic and Central Inflammation in AD"
+          },
+          {
+            "nct_id": "NCT05950607",
+            "excerpt": "United States: Trial to Reduce Antimicrobial Use in Nursing Home Residents With Alzheimer's Disease and Other Dementias 2.0"
+          },
+          {
+            "nct_id": "NCT05619263",
+            "excerpt": "United States: Emergency Preparedness for Caregivers of Persons With Dementia: Disaster PrepWise"
+          },
+          {
+            "nct_id": "NCT06847321",
+            "excerpt": "United States: Study of LHP588 in Subjects With P. Gingivalis-Positive Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT04075435",
+            "excerpt": "United States: Cannabidiol Solution for the Treatment of Behavioral Symptoms in Older Adults With Mild Cognitive Impairment or Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "United States: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT04274998",
+            "excerpt": "United States: Neuroinflammation Imaging in AD"
+          },
+          {
+            "nct_id": "NCT03472664",
+            "excerpt": "United States: Brain Energy for Amyloid Transformation in Alzheimer's Disease Study"
+          },
+          {
+            "nct_id": "NCT06584357",
+            "excerpt": "United States: Development of a Database to Investigate Digital and Blood-Based Biomarkers and Their Relationship to Tau and Amyloid PET Imaging in Older Participants Who Are Cognitively Normal (CN), Have Mild Cognitive Impairment (MCI), or Have Mild-to-Moderate AD Dementia"
+          },
+          {
+            "nct_id": "NCT02414347",
+            "excerpt": "United States: F 18 T807 Tau PET Imaging of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06810960",
+            "excerpt": "United States: A Postmarketing Study of Lecanemab in South Korean Participants With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05077579",
+            "excerpt": "United States: Alzheimer\"s Imaging Biomarkers in Obesity"
+          },
+          {
+            "nct_id": "NCT05205980",
+            "excerpt": "United States: Perturbation Training Reduces Falls in People With Alzheimer's Disease (AD)"
+          },
+          {
+            "nct_id": "NCT04838301",
+            "excerpt": "United States: Allopregnanolone Regenerative Therapeutic for Mild Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT04122001",
+            "excerpt": "United States: Effects of Electrical Stimulation on Verbal Learning in Typical and Atypical Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "United States: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05395624",
+            "excerpt": "United States: Safety, PK and Biodistribution of 18F-OP-801 in Patients With ALS, AD, MS, PD and Healthy Volunteers"
+          },
+          {
+            "nct_id": "NCT06597942",
+            "excerpt": "United States: Deep Repetitive Transcranial Magnetic Stimulation (rTMS) of the Precuneus for Alzheimer Disease (AD)"
+          },
+          {
+            "nct_id": "NCT05397639",
+            "excerpt": "United States: Masupirdine for the Treatment of Agitation in Dementia of the Alzheimer's Type"
+          },
+          {
+            "nct_id": "NCT04029623",
+            "excerpt": "United States: Partnered Rhythmic Rehabilitation in Prodromal Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06089161",
+            "excerpt": "United States: Personalized Obstructive Sleep Apnea Treatment and Effects on Alzheimer's Disease Biomarkers and Cognition Among Blacks"
+          },
+          {
+            "nct_id": "NCT03503331",
+            "excerpt": "United States: UAB Alzheimer's Disease Center Core Cohort - Imaging Substudy"
+          }
+        ],
+        "country": "United States",
+        "trial_count": 219
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06741553",
+            "excerpt": "China: Prospective Cohort Study of Patients With Early Alzheimer's Disease Treated With Lecanemab"
+          },
+          {
+            "nct_id": "NCT05508789",
+            "excerpt": "China: A Study of Donanemab (LY3002813) in Participants With Early Symptomatic Alzheimer's Disease (TRAILBLAZER-ALZ 5)"
+          },
+          {
+            "nct_id": "NCT05623124",
+            "excerpt": "China: Ruijin Neurobank of Alzheimer's Disease and Dementia"
+          },
+          {
+            "nct_id": "NCT07031687",
+            "excerpt": "China: Effects and Mechanisms of Temporal Interference Brain Stimulation on Memory Function in Preclinical Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05020106",
+            "excerpt": "China: The Diagnostic Cut-off Value of Core Biomarkers of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT03657732",
+            "excerpt": "China: The Chinese Familial Alzheimer's Network"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "China: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT06619613",
+            "excerpt": "China: A Study of CM383 in Patients With Alzheimer's Disease Related Mild Cognitive Impairment and Mild Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07323927",
+            "excerpt": "China: Investigator Initiated Trial of Galcanezumab Treatment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07284264",
+            "excerpt": "China: Biomarker-Integrated Digital Guidance for Early Alzheimer's Detection (BRIDGE-AD): A Nationwide Multicenter Study"
+          },
+          {
+            "nct_id": "NCT04850053",
+            "excerpt": "China: Detection of Alzheimer's Disease (AD)-Related Seeds for AD Diagnosis"
+          },
+          {
+            "nct_id": "NCT06534723",
+            "excerpt": "China: Phase 3 Clinical Trial of Wujia Yizhi Granules in the Treatment of Mild-to-moderate Alzheimer's Dementia (Syndrome of Deficiency of Spleen and Kidney)"
+          },
+          {
+            "nct_id": "NCT06492109",
+            "excerpt": "China: The Peripheral Blood Multi-Omics Study on Sleep Loss"
+          },
+          {
+            "nct_id": "NCT06871839",
+            "excerpt": "China: The Clinical Study of Synaptic Plasticity-based Lencanumab for the Treatment of Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "China: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT06852352",
+            "excerpt": "China: An Exploratory Study to Confirm Efficacy of Modified Deep Cervical Lymphovenous Anastomosis (LVA) in Alzheimer's Disease/ Parkinson's Disease"
+          },
+          {
+            "nct_id": "NCT07230652",
+            "excerpt": "China: A Phase 1 MAD Study to Evaluate the Safety and Tolerability of LY03020"
+          },
+          {
+            "nct_id": "NCT07208344",
+            "excerpt": "China: Intravenous Infusion of Umbilical Cord Blood as an Adjunctive Treatment for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07109999",
+            "excerpt": "China: Biomarker-based Alzheimer's Disease Cohort Study (BASIC)"
+          },
+          {
+            "nct_id": "NCT06199037",
+            "excerpt": "China: Safety and Pharmacodynamics of SHR-1707 in Alzheimer's Disease Patients"
+          },
+          {
+            "nct_id": "NCT07262645",
+            "excerpt": "China: Near-infrared Light Therapy Device for Mild-Moderate Alzheimer's Disease (NirsCure-03A)"
+          },
+          {
+            "nct_id": "NCT06669182",
+            "excerpt": "China: Advantage of Cerebellar Transcranial Magnetic Stimulation in Alzheimer's Diseases （ACT-AD）"
+          },
+          {
+            "nct_id": "NCT07324161",
+            "excerpt": "China: Efficacy and Safety of Transcranial Magnetic Stimulation in Treatment of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06183658",
+            "excerpt": "China: Greater-Bay-Area Healthy Aging Brain Study (GHABS)"
+          },
+          {
+            "nct_id": "NCT06565143",
+            "excerpt": "China: Effect of Transcranial Alternating Current Stimulation(tACS) for Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06681948",
+            "excerpt": "China: The Ketogenic Diet in the Treatment of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06924359",
+            "excerpt": "China: Multimodal Ophthalmic Imaging and Plasma Biomarkers for the Early Detection of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07094438",
+            "excerpt": "China: Study Safety and Efficacy of Deep Brain Stimulation (DBS) and Cervical Deep Lymphoid-venous Anastomosis (LVA) in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "China: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07169578",
+            "excerpt": "China: A Study of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05597410",
+            "excerpt": "China: Shanghai At Risk for Alzheimer's Disease: a Cohort Study"
+          },
+          {
+            "nct_id": "NCT06898476",
+            "excerpt": "China: Silkworm Pupa Powder Improves Dementia."
+          },
+          {
+            "nct_id": "NCT07306598",
+            "excerpt": "China: [18F]NIDF PET Imaging in Tau-related Diseases"
+          },
+          {
+            "nct_id": "NCT07353502",
+            "excerpt": "China: miR-342-5p/AnkG Pathway in Early AD Synaptic Dysfunction"
+          },
+          {
+            "nct_id": "NCT06477484",
+            "excerpt": "China: Blood Biomarkers for Screening of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "China: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT07252440",
+            "excerpt": "China: A Study to Evaluate the Efficacy and Safety of TTYP01 Tablets in Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07153848",
+            "excerpt": "China: An Observational Study on Lecanemab Treatment for Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06827678",
+            "excerpt": "China: Establishment of the Chinese Preclinical Alzheimer's Disease Study With Multiple Neuroimaging"
+          },
+          {
+            "nct_id": "NCT06417086",
+            "excerpt": "China: Clinical Evaluation of Acupuncture Treatment on Alzheimer's Disease in APOE e4 Carriers and Non-Carriers"
+          },
+          {
+            "nct_id": "NCT06385106",
+            "excerpt": "China: Effects of Repetitive Transcranial Magnetic Stimulation in Patients With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06784830",
+            "excerpt": "China: Nursing Interventions for Alzheimer's Patients During PET/CT Imaging"
+          },
+          {
+            "nct_id": "NCT06923007",
+            "excerpt": "China: Alzheimer's Disease Treated With Vagus Nerve Stimulation"
+          },
+          {
+            "nct_id": "NCT07089303",
+            "excerpt": "China: Alzheimer's Disease Multinuclear Imaging Neuro-Enhanced Resolution (AD-MINER)"
+          },
+          {
+            "nct_id": "NCT07422857",
+            "excerpt": "China: Evaluate the Use of [18F]-APN-1607 PET in Subjects With AD-related Cognitive Impairment and Subjects With Normal Cognitive Function"
+          },
+          {
+            "nct_id": "NCT06833645",
+            "excerpt": "China: [18F]AV45(Aβ) and [18F]AV1451(Tau)PET/CT in the Diagnosis of Early Pathological Changes of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT03810794",
+            "excerpt": "China: Clinical Evaluation on the Therapeutic Effect of Acupuncture Treatment for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06883019",
+            "excerpt": "China: Lecanemab for Early Onset Familial Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07138677",
+            "excerpt": "China: Safty and Efficacy of MCI Network Guided TMS for Early Alzheimer's Disease: A Randomized, Double-blind Trial"
+          },
+          {
+            "nct_id": "NCT06442852",
+            "excerpt": "China: Study on the Relationship Between Peripheral Blood miRNA and Risk and Severity of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07059871",
+            "excerpt": "China: A Study of Silkworm Pupa Powder Intervention in the Nutritional Status of Patients With Alzheimer's Disease."
+          },
+          {
+            "nct_id": "NCT06530732",
+            "excerpt": "China: Deep Cervical Lymphatlc-Venous Anastomosis Surgery for the Treatment of Alzheimer's Disease: A Pilot Study (DIVA Study)"
+          },
+          {
+            "nct_id": "NCT06448975",
+            "excerpt": "China: An Exploratory Study of Deep Cervical Lymphovenous Bypass (LVB) in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06215274",
+            "excerpt": "China: Cognitive Leisure and Preclinical Alzheimer's Disease: Exploring Neural Mechanisms"
+          },
+          {
+            "nct_id": "NCT06837272",
+            "excerpt": "China: A Longitudinal Study to Explore the Impact of Gut Microbiome on Brain Health in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05887674",
+            "excerpt": "China: Shanghai Non-pharmacological Intervention for Mild Cognitive Impairment and Mild Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06992804",
+            "excerpt": "China: Near-Infrared Light Therapy Combined With Lecanemab for Mild Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT04599764",
+            "excerpt": "China: High Definition Transcranial Direct Current Stimulation (HD-tDCS) for Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT04804618",
+            "excerpt": "China: Proteomics Study of Mild Cognitive Impairment and Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05908695",
+            "excerpt": "China: An Efficacy and Safety Study of Sodium Oligomannate (GV-971) for the Treatment of Alzheimer's Disease"
+          }
+        ],
+        "country": "China",
+        "trial_count": 60
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT05943054",
+            "excerpt": "France: Striatum and Hippocampus on Different Time Scales"
+          },
+          {
+            "nct_id": "NCT04150198",
+            "excerpt": "France: MECHANISMS OF NEURONAL RESILIENCE IN ALZHEIMER'S DISEASE AND ITS FOCAL VARIANTS: A PET/MR STUDY"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "France: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT03991624",
+            "excerpt": "France: Lack of Decision-making in Patients With Alzheimer's Disease : Functions Involved and the Daily Consequences"
+          },
+          {
+            "nct_id": "NCT05939362",
+            "excerpt": "France: New Imaging Biomarkers Predictive of MA Progression"
+          },
+          {
+            "nct_id": "NCT06661564",
+            "excerpt": "France: Identification of Diagnosis Biomarkers in the Tears of Alzheimer's Disease Patients: The COG-EYE Pilot Study"
+          },
+          {
+            "nct_id": "NCT06501495",
+            "excerpt": "France: Links Between Cognitive Deficits During Normal or Pathological Aging and Slow Waves Measured in EEG"
+          },
+          {
+            "nct_id": "NCT07264439",
+            "excerpt": "France: Evaluation of the Effectiveness of Virtual Reality Headsets With Hypnotic Scenarios for Hygiene Care in Patients With Alzheimer's Disease or Related Disorders With Behavioral Disturbances"
+          },
+          {
+            "nct_id": "NCT04701957",
+            "excerpt": "France: The Ketogenic Diet for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06523296",
+            "excerpt": "France: Presence of Anti-RACH Antibodies and Neurocognitive Disorder in Myasthenic or Alzheimers's Patients."
+          },
+          {
+            "nct_id": "NCT06688968",
+            "excerpt": "France: Neuropsychological Profiles and Musical Engagement in Parkinson's and Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT02302482",
+            "excerpt": "France: Predictive Factors and Autonomy Level Change"
+          },
+          {
+            "nct_id": "NCT07083089",
+            "excerpt": "France: Early Stage of Alzheimer's and Parkinson's Diseases, HearIng Relevance (SAPHIR)"
+          },
+          {
+            "nct_id": "NCT05288842",
+            "excerpt": "France: Tanycytes in Alzheimer's Disease and Frontotemporal Dementia"
+          },
+          {
+            "nct_id": "NCT05800028",
+            "excerpt": "France: Memory and Social Interactions"
+          },
+          {
+            "nct_id": "NCT05629871",
+            "excerpt": "France: Biomarkers of Sleep-wake Cycle in Prodromal Alzheimer's Disease: Role in Cognitive Decline?"
+          },
+          {
+            "nct_id": "NCT04165109",
+            "excerpt": "France: Trial-Ready Cohort-Down Syndrome (TRC-DS)"
+          },
+          {
+            "nct_id": "NCT07341009",
+            "excerpt": "France: Evaluation of a Neuropsychological Tool to Assess Temporal Processing Abilities in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT03894254",
+            "excerpt": "France: Predictive Factors of Autonomy Loss in Real-life Cohort"
+          },
+          {
+            "nct_id": "NCT05806697",
+            "excerpt": "France: Investigation of AlzHeimer's Predictors in Subjective Memory Complainers - Extension Study"
+          },
+          {
+            "nct_id": "NCT06206824",
+            "excerpt": "France: Leucettinib-21 First-in-Human Phase 1 in Healthy Volunteers and Subjects With Down Syndrome and Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "France: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07409506",
+            "excerpt": "France: Assessment of Informal Support Provided by Caregivers at Different Stages of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06481878",
+            "excerpt": "France: Validation of an Alzheimer's Disease Marker by Fecal Assay of Amyloid Peptides and Tau Proteins"
+          },
+          {
+            "nct_id": "NCT07169578",
+            "excerpt": "France: A Study of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT04661280",
+            "excerpt": "France: Donepezil Versus Non-drug Treatment in Alzheimer's Disease."
+          },
+          {
+            "nct_id": "NCT05469360",
+            "excerpt": "France: Study of Safety, Tolerability, Pharmacodynamics and Pharmacokinetics of NIO752 in Early Alzheimer's Disease Participants"
+          },
+          {
+            "nct_id": "NCT04570085",
+            "excerpt": "France: Effect of CAFfeine on Cognition in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06582199",
+            "excerpt": "France: Precision Medicine in Alzheimer's Disease : Integration of Resilience Metrics and Risk Factors - Validation Cohort BioCogBank-AD"
+          },
+          {
+            "nct_id": "NCT07205003",
+            "excerpt": "France: Evaluation of the Link Between Carotid Arterial Wall Viscosity and Major Neurocognitive Disorders"
+          },
+          {
+            "nct_id": "NCT05709210",
+            "excerpt": "France: Pilot Study on the Feasibility of Using Smartphone Data as a Diagnostic Marker for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07071649",
+            "excerpt": "France: Evaluation of a Plasma Marker (p-Tau217) for the Biological Diagnosis of Alzheimer's Disease, and Comparison With CSF Markers"
+          },
+          {
+            "nct_id": "NCT06852326",
+            "excerpt": "France: Designing a Tailored Primary Care Intervention to Manage the Burden of Caring for Patients Living with Alzheimer's Disease (or a Related Dementia)"
+          },
+          {
+            "nct_id": "NCT05943834",
+            "excerpt": "France: Early Detection of Alzheimer's Disease and Affective Disorders by Automated Voice and Speech Analysis (PLATA)"
+          },
+          {
+            "nct_id": "NCT06880406",
+            "excerpt": "France: Mitochondrial Function and Metabolomic Profile in Alzheimer's Disease and Related Dementias"
+          },
+          {
+            "nct_id": "NCT05926011",
+            "excerpt": "France: Efficacy of RGn600 in Patients With Mild-to-moderate Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06824142",
+            "excerpt": "France: Feasibility and Interest of the 3D Ephemeris for Temporal Orientation in Alzheimer's: Pilot Study"
+          },
+          {
+            "nct_id": "NCT07207642",
+            "excerpt": "France: Sweet Night (Musical Diffusion by Caregivers ): Effects of Musical Diffusion by Caregivers on Sleep Onset and Behavioral Regulation in a Protected Living"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "France: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT05511363",
+            "excerpt": "France: A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "France: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT05077618",
+            "excerpt": "France: Nalysis of the Periodontal Microbiota in Elderly Subjects With and Without Alzheimer's Disease: a Case Control Study"
+          },
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "France: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06159673",
+            "excerpt": "France: ACP-204 in Adults With Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT03621839",
+            "excerpt": "France: New CSF Biomarkers for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "France: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT06320639",
+            "excerpt": "France: DRIVing Simulator and People With NeuroCognitive Disorders"
+          },
+          {
+            "nct_id": "NCT06099587",
+            "excerpt": "France: MIMA Pilot Study: MIcrostructure of the Medial Temporal Lobe in Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT04820127",
+            "excerpt": "France: Personalized Management of Psycho-behavioral Symptoms in Alzheimer's Disease: Impact on Health Resources Use"
+          },
+          {
+            "nct_id": "NCT05516667",
+            "excerpt": "France: Cohort of Patients with Alzheimer's Disease and Their Families."
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "France: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT05558709",
+            "excerpt": "France: Social-cognitive Functioning: Validation of a New Neuropsychological Test"
+          },
+          {
+            "nct_id": "NCT05642351",
+            "excerpt": "France: Autobiographical Specificity"
+          },
+          {
+            "nct_id": "NCT05977712",
+            "excerpt": "France: Circadian Rhythm and Other Factors in Memory Clinic Patients"
+          },
+          {
+            "nct_id": "NCT05649514",
+            "excerpt": "France: Sleep Impairment in Subjects at Risk of Developing Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05911178",
+            "excerpt": "France: Impact of Microglial Activation on Synaptic Density in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "France: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          }
+        ],
+        "country": "France",
+        "trial_count": 57
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT07477431",
+            "excerpt": "Canada: Levetiracetam for Persons at Risk for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07284472",
+            "excerpt": "Canada: Safety and Efficacy of EXV-802 and EXV-801 in the Treatment of Agitation in Alzheimer's Disease Dementia"
+          },
+          {
+            "nct_id": "NCT06887192",
+            "excerpt": "Canada: A Study to Assess the Efficacy and Safety of ML-007C-MA for the Treatment of Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT06936124",
+            "excerpt": "Canada: Deep Brain Stimulation of the Pedunculopontine Nucleus for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05508841",
+            "excerpt": "Canada: Understanding How Alzheimer's Disease Impacts the Therapeutic Response to Transcranial Direct Current Stimulation"
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "Canada: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT02524405",
+            "excerpt": "Canada: BEAM: Brain-Eye Amyloid Memory Study"
+          },
+          {
+            "nct_id": "NCT03402919",
+            "excerpt": "Canada: Comprehensive Assessment of Neurodegeneration and Dementia"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Canada: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05561205",
+            "excerpt": "Canada: rTMS for Apathy Clinical Trial"
+          },
+          {
+            "nct_id": "NCT07105709",
+            "excerpt": "Canada: Open-label Extension Study in Participants With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07214727",
+            "excerpt": "Canada: A Study to Evaluate ALN-5288 in Patients With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06529744",
+            "excerpt": "Canada: Improving Prognostic Confidence in Neurodegenerative Diseases Causing Dementia Using Peripheral Biomarkers and Integrative Modeling"
+          },
+          {
+            "nct_id": "NCT00869817",
+            "excerpt": "Canada: Dominantly Inherited Alzheimer Network (DIAN)"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Canada: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07169578",
+            "excerpt": "Canada: A Study of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "Canada: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT05231785",
+            "excerpt": "Canada: A Study to Evaluate the Safety and Tolerability of ALN-APP in Patients With EOAD"
+          },
+          {
+            "nct_id": "NCT07094516",
+            "excerpt": "Canada: A Clinical Trial to Learn About the Effects of VHB937 in People With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07279740",
+            "excerpt": "Canada: Combined Brain Stimulation and Methylphenidate Treatment for Apathy in Dementia"
+          },
+          {
+            "nct_id": "NCT06618807",
+            "excerpt": "Canada: Infrared Light for Memory Loss in Mild Cognitive Impairment (MCI)"
+          },
+          {
+            "nct_id": "NCT05543681",
+            "excerpt": "Canada: Clinical Trial on Agitation in Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "Canada: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Canada: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT06189963",
+            "excerpt": "Canada: Clinical Study of SNK01 in Participants With Moderate Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05509387",
+            "excerpt": "Canada: Investigating if a Stronger tDCS Intensity is More Effective for Improving Naming Ability in People Living With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "Canada: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06732128",
+            "excerpt": "Canada: Nature-based Virtual Reality Intervention for Depression in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06584357",
+            "excerpt": "Canada: Development of a Database to Investigate Digital and Blood-Based Biomarkers and Their Relationship to Tau and Amyloid PET Imaging in Older Participants Who Are Cognitively Normal (CN), Have Mild Cognitive Impairment (MCI), or Have Mild-to-Moderate AD Dementia"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "Canada: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          }
+        ],
+        "country": "Canada",
+        "trial_count": 30
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT05508789",
+            "excerpt": "Spain: A Study of Donanemab (LY3002813) in Participants With Early Symptomatic Alzheimer's Disease (TRAILBLAZER-ALZ 5)"
+          },
+          {
+            "nct_id": "NCT06540833",
+            "excerpt": "Spain: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Psychosis Associated With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Spain: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT05462106",
+            "excerpt": "Spain: A Study to Assess the Effects of ACI-24.060 in Alzheimer's Disease and in Down Syndrome (ABATE Study)"
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "Spain: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT07234695",
+            "excerpt": "Spain: LEvetiracetam to Prevent Seizures in Symptomatic Alzheimer's Disease in Adults With Down Syndrome"
+          },
+          {
+            "nct_id": "NCT06199193",
+            "excerpt": "Spain: Design of Personalised SupplemenTs Based on the Gut MicRobiota Through Artificial Intelligence for Alzheimer's Patients"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Spain: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07033494",
+            "excerpt": "Spain: A Clinical Study of MK-2214 in People With Early Alzheimer's Disease (MK-2214-004)"
+          },
+          {
+            "nct_id": "NCT07105709",
+            "excerpt": "Spain: Open-label Extension Study in Participants With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT04165109",
+            "excerpt": "Spain: Trial-Ready Cohort-Down Syndrome (TRC-DS)"
+          },
+          {
+            "nct_id": "NCT03851523",
+            "excerpt": "Spain: Longitudinal Study for the Characterization of the Phases of Subjective Perception of Cognitive Decline and Mild Cognitive Impairment of Alzheimer's Disease."
+          },
+          {
+            "nct_id": "NCT00869817",
+            "excerpt": "Spain: Dominantly Inherited Alzheimer Network (DIAN)"
+          },
+          {
+            "nct_id": "NCT06651567",
+            "excerpt": "Spain: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Agitation Associated With Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Spain: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07169578",
+            "excerpt": "Spain: A Study of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05469360",
+            "excerpt": "Spain: Study of Safety, Tolerability, Pharmacodynamics and Pharmacokinetics of NIO752 in Early Alzheimer's Disease Participants"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "Spain: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Spain: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT05511363",
+            "excerpt": "Spain: A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)"
+          },
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "Spain: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06159673",
+            "excerpt": "Spain: ACP-204 in Adults With Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT02685969",
+            "excerpt": "Spain: Brain Characterization of Amyloid Protein and Glucose Metabolism of ALFA Project Participants"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Spain: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT03507257",
+            "excerpt": "Spain: Longitudinal Early-onset Alzheimer's Disease Study Protocol"
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "Spain: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "Spain: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          }
+        ],
+        "country": "Spain",
+        "trial_count": 27
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT07328451",
+            "excerpt": "United Kingdom: A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of DNL628 in Participants With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06953167",
+            "excerpt": "United Kingdom: Cognitive Health in Ageing Register: Investigational and Observational Trial Studies in Dementia Research (CHARIOT): Prospective Readiness Cohort (PRO) Longitudinal Study"
+          },
+          {
+            "nct_id": "NCT05508789",
+            "excerpt": "United Kingdom: A Study of Donanemab (LY3002813) in Participants With Early Symptomatic Alzheimer's Disease (TRAILBLAZER-ALZ 5)"
+          },
+          {
+            "nct_id": "NCT07284472",
+            "excerpt": "United Kingdom: Safety and Efficacy of EXV-802 and EXV-801 in the Treatment of Agitation in Alzheimer's Disease Dementia"
+          },
+          {
+            "nct_id": "NCT05462106",
+            "excerpt": "United Kingdom: A Study to Assess the Effects of ACI-24.060 in Alzheimer's Disease and in Down Syndrome (ABATE Study)"
+          },
+          {
+            "nct_id": "NCT07033494",
+            "excerpt": "United Kingdom: A Clinical Study of MK-2214 in People With Early Alzheimer's Disease (MK-2214-004)"
+          },
+          {
+            "nct_id": "NCT06297590",
+            "excerpt": "United Kingdom: A First-In-Human Study of LY3954068 in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07105709",
+            "excerpt": "United Kingdom: Open-label Extension Study in Participants With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07214727",
+            "excerpt": "United Kingdom: A Study to Evaluate ALN-5288 in Patients With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT04165109",
+            "excerpt": "United Kingdom: Trial-Ready Cohort-Down Syndrome (TRC-DS)"
+          },
+          {
+            "nct_id": "NCT05614310",
+            "excerpt": "United Kingdom: Detecting Early Alzheimer's Using MR"
+          },
+          {
+            "nct_id": "NCT00869817",
+            "excerpt": "United Kingdom: Dominantly Inherited Alzheimer Network (DIAN)"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "United Kingdom: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07169578",
+            "excerpt": "United Kingdom: A Study of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05231785",
+            "excerpt": "United Kingdom: A Study to Evaluate the Safety and Tolerability of ALN-APP in Patients With EOAD"
+          },
+          {
+            "nct_id": "NCT07094516",
+            "excerpt": "United Kingdom: A Clinical Trial to Learn About the Effects of VHB937 in People With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07234942",
+            "excerpt": "United Kingdom: A Study to Investigate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of RO7812653 in Participants With Early Symptomatic Alzheimer's Disease (eAD)"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "United Kingdom: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT05511363",
+            "excerpt": "United Kingdom: A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "United Kingdom: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT06814730",
+            "excerpt": "United Kingdom: A Study to Assess THN391 in Subjects With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "United Kingdom: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "United Kingdom: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT03507257",
+            "excerpt": "United Kingdom: Longitudinal Early-onset Alzheimer's Disease Study Protocol"
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "United Kingdom: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06584357",
+            "excerpt": "United Kingdom: Development of a Database to Investigate Digital and Blood-Based Biomarkers and Their Relationship to Tau and Amyloid PET Imaging in Older Participants Who Are Cognitively Normal (CN), Have Mild Cognitive Impairment (MCI), or Have Mild-to-Moderate AD Dementia"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "United Kingdom: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          }
+        ],
+        "country": "United Kingdom",
+        "trial_count": 27
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06372587",
+            "excerpt": "Italy: Next-Generation alzheImer'S Therapeutics"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Italy: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT07467460",
+            "excerpt": "Italy: Precision Medicine and Neurodegenerative Diseases: Advanced Systems for the Diagnosis and Treatment of Parkinson's Disease and Alzheimer's Disease."
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "Italy: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Italy: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07402161",
+            "excerpt": "Italy: The Signature of Alzheimer's Disease in Subjective Cognitive Decline"
+          },
+          {
+            "nct_id": "NCT05730023",
+            "excerpt": "Italy: A Multimodal Approach for Clinical Diagnosis and Treatment of Primary Progressive Aphasia, MAINSTREAM ID:3430931"
+          },
+          {
+            "nct_id": "NCT06841848",
+            "excerpt": "Italy: Fundus Camera Module for Early Detection of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06179680",
+            "excerpt": "Italy: White Matter Hyperintensities in Amnestic Mild Cognitive Impairment or Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Italy: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07169578",
+            "excerpt": "Italy: A Study of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07457138",
+            "excerpt": "Italy: Lombard Cohort of Brain Health Services"
+          },
+          {
+            "nct_id": "NCT06702124",
+            "excerpt": "Italy: A Phase 3 Study of Rotigotine in Combination with Rivastigmine in Mild to Moderate Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Italy: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT05511363",
+            "excerpt": "Italy: A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)"
+          },
+          {
+            "nct_id": "NCT05934188",
+            "excerpt": "Italy: Exploring the Gut-Brain Axis in Ageing and Neurodegeneration"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "Italy: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "Italy: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06159673",
+            "excerpt": "Italy: ACP-204 in Adults With Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Italy: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT06337578",
+            "excerpt": "Italy: Advances in Telephone-based Cognitive Screening Procedures"
+          },
+          {
+            "nct_id": "NCT07399418",
+            "excerpt": "Italy: TRIAD - Tracking Risk in Integrated Alzheimer's Diagnostics."
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "Italy: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06855368",
+            "excerpt": "Italy: Biomarkers for Monitoring Dementia Progression"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "Italy: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          }
+        ],
+        "country": "Italy",
+        "trial_count": 25
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT05508789",
+            "excerpt": "South Korea: A Study of Donanemab (LY3002813) in Participants With Early Symptomatic Alzheimer's Disease (TRAILBLAZER-ALZ 5)"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "South Korea: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT06535308",
+            "excerpt": "South Korea: BnH-015B Clinical Trial in Moderate Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "South Korea: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "South Korea: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06889818",
+            "excerpt": "South Korea: Korean Joint Registry for Alzheimer's Treatment and Diagnostics (JOY-ALZ)"
+          },
+          {
+            "nct_id": "NCT07033494",
+            "excerpt": "South Korea: A Clinical Study of MK-2214 in People With Early Alzheimer's Disease (MK-2214-004)"
+          },
+          {
+            "nct_id": "NCT07105709",
+            "excerpt": "South Korea: Open-label Extension Study in Participants With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT00869817",
+            "excerpt": "South Korea: Dominantly Inherited Alzheimer Network (DIAN)"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "South Korea: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07328386",
+            "excerpt": "South Korea: Effect of Cervical Lymphaticovenous and Lymph Node-to-Vein Anastomosis in Patients With Intracranial Lymphatic Circulation Disorder"
+          },
+          {
+            "nct_id": "NCT05383183",
+            "excerpt": "South Korea: Efficacy and Safety of ChOline ALfoscerate in Patient With Mild to Moderate Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "South Korea: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT07239310",
+            "excerpt": "South Korea: Neuclare Device for Temporary Improvement of Executive Function in Patients With Mild Cognitive Impairment and Prodromal Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07027072",
+            "excerpt": "South Korea: Study to Evaluate the Efficacy and Safety of KDS2010 in Patients With Alzheimer's Disease With Mild Cognitive Impairment and Mild Dementia Due to Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06159673",
+            "excerpt": "South Korea: ACP-204 in Adults With Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT05138263",
+            "excerpt": "South Korea: Korean Brain Aging Study for Early Diagnosis and Prediction of Alzheimer's disease2 (KBASE2)"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "South Korea: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT06088121",
+            "excerpt": "South Korea: Study to Evaluate the Efficacy and Safety of ATNC-MDD V1(TMS With Cognitive Training) in Mild Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "South Korea: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          }
+        ],
+        "country": "South Korea",
+        "trial_count": 20
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT07383311",
+            "excerpt": "Germany: Autophagy-Enhancers to Reduce Sleep Disturbances"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Germany: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Germany: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07466394",
+            "excerpt": "Germany: COGSCREEN II: Early Detection of Cognitive Impairment"
+          },
+          {
+            "nct_id": "NCT07402356",
+            "excerpt": "Germany: VR Pupillometry in Cognitive Impairment"
+          },
+          {
+            "nct_id": "NCT05059158",
+            "excerpt": "Germany: Amyloid-β Clearance Mechanisms in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT00869817",
+            "excerpt": "Germany: Dominantly Inherited Alzheimer Network (DIAN)"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Germany: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07169578",
+            "excerpt": "Germany: A Study of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Germany: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT06313944",
+            "excerpt": "Germany: German Registry of Alzheimer's Disease Treated With Transcranial Pulse Stimulation"
+          },
+          {
+            "nct_id": "NCT05511363",
+            "excerpt": "Germany: A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "Germany: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "Germany: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06711952",
+            "excerpt": "Germany: German Validation Study of the Subjective Cognitive Decline Questionnaire (SCD-Q)"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Germany: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "Germany: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "Germany: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07154394",
+            "excerpt": "Germany: Cardiac Amyloid Deposits and Heart Dysfunction in Alzheimer's Disease"
+          }
+        ],
+        "country": "Germany",
+        "trial_count": 19
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT05508789",
+            "excerpt": "Argentina: A Study of Donanemab (LY3002813) in Participants With Early Symptomatic Alzheimer's Disease (TRAILBLAZER-ALZ 5)"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Argentina: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "Argentina: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT06611878",
+            "excerpt": "Argentina: Memory for Music: Individual Intensive Musical Training in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Argentina: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07033494",
+            "excerpt": "Argentina: A Clinical Study of MK-2214 in People With Early Alzheimer's Disease (MK-2214-004)"
+          },
+          {
+            "nct_id": "NCT07105709",
+            "excerpt": "Argentina: Open-label Extension Study in Participants With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT00869817",
+            "excerpt": "Argentina: Dominantly Inherited Alzheimer Network (DIAN)"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Argentina: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT06492967",
+            "excerpt": "Argentina: LatAm-FINGERS Initiative for Cognitive Change"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "Argentina: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Argentina: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "Argentina: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "Argentina: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Argentina: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT03507257",
+            "excerpt": "Argentina: Longitudinal Early-onset Alzheimer's Disease Study Protocol"
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "Argentina: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "Argentina: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          }
+        ],
+        "country": "Argentina",
+        "trial_count": 18
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Japan: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "Japan: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT07033494",
+            "excerpt": "Japan: A Clinical Study of MK-2214 in People With Early Alzheimer's Disease (MK-2214-004)"
+          },
+          {
+            "nct_id": "NCT07142954",
+            "excerpt": "Japan: Epidemiology and Biomarker Study in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06297590",
+            "excerpt": "Japan: A First-In-Human Study of LY3954068 in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06322667",
+            "excerpt": "Japan: A Post Marketing Study in Participants With Early Alzheimer's Disease Treated With Lecanemab"
+          },
+          {
+            "nct_id": "NCT00869817",
+            "excerpt": "Japan: Dominantly Inherited Alzheimer Network (DIAN)"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Japan: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07169578",
+            "excerpt": "Japan: A Study of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06803823",
+            "excerpt": "Japan: A Study of ONO-2020 in Patients With Agitation Associated With Alzheimer's Disease Dementia"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "Japan: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Japan: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Japan: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT06657768",
+            "excerpt": "Japan: A Study of LY4006895 in Healthy Participants With Early Symptomatic Alzheimer's Disease (AD)"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "Japan: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06875986",
+            "excerpt": "Japan: REXULTI Drug General Use-results Survey (Excessive Motor Activity or Physically/Verbally Aggressive Behavior Due to Rapid Changes in Mood, Irritability, and/or Outbursts Associated With Dementia Due to Alzheimer's Disease)"
+          }
+        ],
+        "country": "Japan",
+        "trial_count": 16
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT05655793",
+            "excerpt": "Netherlands: The TearAD Study: Tear Biomarkers for Alzheimer's Disease (AD) Screening and Diagnosis"
+          },
+          {
+            "nct_id": "NCT07033494",
+            "excerpt": "Netherlands: A Clinical Study of MK-2214 in People With Early Alzheimer's Disease (MK-2214-004)"
+          },
+          {
+            "nct_id": "NCT00869817",
+            "excerpt": "Netherlands: Dominantly Inherited Alzheimer Network (DIAN)"
+          },
+          {
+            "nct_id": "NCT05231785",
+            "excerpt": "Netherlands: A Study to Evaluate the Safety and Tolerability of ALN-APP in Patients With EOAD"
+          },
+          {
+            "nct_id": "NCT07234942",
+            "excerpt": "Netherlands: A Study to Investigate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of RO7812653 in Participants With Early Symptomatic Alzheimer's Disease (eAD)"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Netherlands: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT07036328",
+            "excerpt": "Netherlands: Transcranial Magnetic Stimulation to Slow Down Cognitive Decline in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06814730",
+            "excerpt": "Netherlands: A Study to Assess THN391 in Subjects With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "Netherlands: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT03507257",
+            "excerpt": "Netherlands: Longitudinal Early-onset Alzheimer's Disease Study Protocol"
+          },
+          {
+            "nct_id": "NCT06202872",
+            "excerpt": "Netherlands: Memory Enhancement Using Transcranial Alternating Current Stimulation"
+          },
+          {
+            "nct_id": "NCT06891716",
+            "excerpt": "Netherlands: [18F]ACI-19626 PET in TDP-43 Proteinopathies"
+          },
+          {
+            "nct_id": "NCT06508268",
+            "excerpt": "Netherlands: Language, Speech and Motor Function in MCI Due to AD and Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "Netherlands: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "Netherlands: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          }
+        ],
+        "country": "Netherlands",
+        "trial_count": 15
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT05508789",
+            "excerpt": "Poland: A Study of Donanemab (LY3002813) in Participants With Early Symptomatic Alzheimer's Disease (TRAILBLAZER-ALZ 5)"
+          },
+          {
+            "nct_id": "NCT07058688",
+            "excerpt": "Poland: A Study of NTRX-07 in Participants With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06540833",
+            "excerpt": "Poland: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Psychosis Associated With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Poland: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "Poland: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Poland: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Poland: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07169578",
+            "excerpt": "Poland: A Study of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06850597",
+            "excerpt": "Poland: Efficacy and Safety of Dimethyl Fumarate Among Patients with Mild Cognitive Impairment and Dementia Due to Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Poland: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "Poland: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Poland: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "Poland: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05397639",
+            "excerpt": "Poland: Masupirdine for the Treatment of Agitation in Dementia of the Alzheimer's Type"
+          }
+        ],
+        "country": "Poland",
+        "trial_count": 14
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT05508789",
+            "excerpt": "Australia: A Study of Donanemab (LY3002813) in Participants With Early Symptomatic Alzheimer's Disease (TRAILBLAZER-ALZ 5)"
+          },
+          {
+            "nct_id": "NCT06339190",
+            "excerpt": "Australia: Neurofilament Light Chain And Voice Acoustic Analyses In Dementia Diagnosis"
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "Australia: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Australia: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07033494",
+            "excerpt": "Australia: A Clinical Study of MK-2214 in People With Early Alzheimer's Disease (MK-2214-004)"
+          },
+          {
+            "nct_id": "NCT07105709",
+            "excerpt": "Australia: Open-label Extension Study in Participants With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT00869817",
+            "excerpt": "Australia: Dominantly Inherited Alzheimer Network (DIAN)"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Australia: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "Australia: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "Australia: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT05194787",
+            "excerpt": "Australia: TAS Test: Online Motor-cognitive Tests for Early Detection of Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "Australia: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          }
+        ],
+        "country": "Australia",
+        "trial_count": 12
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT07249918",
+            "excerpt": "Taiwan: Feasibility of Wearables in Dementia Care in Rural Taiwan"
+          },
+          {
+            "nct_id": "NCT05508789",
+            "excerpt": "Taiwan: A Study of Donanemab (LY3002813) in Participants With Early Symptomatic Alzheimer's Disease (TRAILBLAZER-ALZ 5)"
+          },
+          {
+            "nct_id": "NCT07081269",
+            "excerpt": "Taiwan: Physical Fitness and Hot Executive Function in Alzheimer's Risk"
+          },
+          {
+            "nct_id": "NCT03152630",
+            "excerpt": "Taiwan: Research on the Early and Prognosis Diagnosis of Vascular Dementia"
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "Taiwan: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT07105709",
+            "excerpt": "Taiwan: Open-label Extension Study in Participants With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07169578",
+            "excerpt": "Taiwan: A Study of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05413655",
+            "excerpt": "Taiwan: A Study of Oral EX039 in Subjects with Mild Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "Taiwan: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT06745583",
+            "excerpt": "Taiwan: A Phase 2 Study to Assess the Safety of EI-1071 and the Effects of EI-1071 on Neuroinflammation in Alzheimer's Disease Patients"
+          },
+          {
+            "nct_id": "NCT06159673",
+            "excerpt": "Taiwan: ACP-204 in Adults With Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Taiwan: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          }
+        ],
+        "country": "Taiwan",
+        "trial_count": 12
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Brazil: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "Brazil: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Brazil: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT00869817",
+            "excerpt": "Brazil: Dominantly Inherited Alzheimer Network (DIAN)"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Brazil: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT06492967",
+            "excerpt": "Brazil: LatAm-FINGERS Initiative for Cognitive Change"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "Brazil: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Brazil: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT06159673",
+            "excerpt": "Brazil: ACP-204 in Adults With Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Brazil: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "Brazil: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          }
+        ],
+        "country": "Brazil",
+        "trial_count": 11
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT07058688",
+            "excerpt": "Czechia: A Study of NTRX-07 in Participants With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06540833",
+            "excerpt": "Czechia: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Psychosis Associated With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Czechia: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06651567",
+            "excerpt": "Czechia: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Agitation Associated With Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Czechia: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07042087",
+            "excerpt": "Czechia: Lifestyle for the BRAin Health - Time Restricted Eating and Mindfulness"
+          },
+          {
+            "nct_id": "NCT05511363",
+            "excerpt": "Czechia: A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "Czechia: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT06159673",
+            "excerpt": "Czechia: ACP-204 in Adults With Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Czechia: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          }
+        ],
+        "country": "Czechia",
+        "trial_count": 10
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Puerto Rico: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "Puerto Rico: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Puerto Rico: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Puerto Rico: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT06492967",
+            "excerpt": "Puerto Rico: LatAm-FINGERS Initiative for Cognitive Change"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Puerto Rico: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT05543681",
+            "excerpt": "Puerto Rico: Clinical Trial on Agitation in Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "Puerto Rico: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "Puerto Rico: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "Puerto Rico: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          }
+        ],
+        "country": "Puerto Rico",
+        "trial_count": 10
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06540833",
+            "excerpt": "Croatia: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Psychosis Associated With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Croatia: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Croatia: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06651567",
+            "excerpt": "Croatia: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Agitation Associated With Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Croatia: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "Croatia: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT05511363",
+            "excerpt": "Croatia: A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Croatia: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT05397639",
+            "excerpt": "Croatia: Masupirdine for the Treatment of Agitation in Dementia of the Alzheimer's Type"
+          }
+        ],
+        "country": "Croatia",
+        "trial_count": 9
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06540833",
+            "excerpt": "Bulgaria: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Psychosis Associated With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Bulgaria: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT06651567",
+            "excerpt": "Bulgaria: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Agitation Associated With Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Bulgaria: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "Bulgaria: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT05511363",
+            "excerpt": "Bulgaria: A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)"
+          },
+          {
+            "nct_id": "NCT06159673",
+            "excerpt": "Bulgaria: ACP-204 in Adults With Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Bulgaria: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          }
+        ],
+        "country": "Bulgaria",
+        "trial_count": 8
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Greece: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Greece: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07289061",
+            "excerpt": "Greece: Positive Psychology for Early Cognitive Decline: Effects on Cognitive and Brain Function"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Greece: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07334392",
+            "excerpt": "Greece: Impact of a Multicomponent Exercise Program on Cognitive and Functional Outcomes in Patients With Mild Cognitive Impairment"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "Greece: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Greece: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Greece: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          }
+        ],
+        "country": "Greece",
+        "trial_count": 8
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT00869817",
+            "excerpt": "Mexico: Dominantly Inherited Alzheimer Network (DIAN)"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Mexico: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT06492967",
+            "excerpt": "Mexico: LatAm-FINGERS Initiative for Cognitive Change"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "Mexico: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "Mexico: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06159673",
+            "excerpt": "Mexico: ACP-204 in Adults With Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Mexico: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "Mexico: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          }
+        ],
+        "country": "Mexico",
+        "trial_count": 8
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06540833",
+            "excerpt": "Romania: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Psychosis Associated With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Romania: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Romania: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06651567",
+            "excerpt": "Romania: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Agitation Associated With Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Romania: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "Romania: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Romania: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Romania: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          }
+        ],
+        "country": "Romania",
+        "trial_count": 8
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Turkey (Türkiye): A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT06595511",
+            "excerpt": "Turkey (Türkiye): Effects of Combined 40 Hz Audio-visual Stimulation and Cognitive Games on Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07062198",
+            "excerpt": "Turkey (Türkiye): Combined Metabolic Activator Supplementation in Subjects Diagnosed With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05977088",
+            "excerpt": "Turkey (Türkiye): Prediction of Effectiveness of rTMS Application in Alzheimer's Patients"
+          },
+          {
+            "nct_id": "NCT05711888",
+            "excerpt": "Turkey (Türkiye): Semantic Recognition Task (SRT) in Alzheimer Disease"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Turkey (Türkiye): Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT05919485",
+            "excerpt": "Turkey (Türkiye): The Effects of Specific tDCS on Cognition in MCI"
+          },
+          {
+            "nct_id": "NCT06575218",
+            "excerpt": "Turkey (Türkiye): The Effectiveness of Virtual Reality Training Program"
+          }
+        ],
+        "country": "Turkey (Türkiye)",
+        "trial_count": 8
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT07118137",
+            "excerpt": "Norway: Memory Deterioration in Alzheimer Disease"
+          },
+          {
+            "nct_id": "NCT06611878",
+            "excerpt": "Norway: Memory for Music: Individual Intensive Musical Training in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07105709",
+            "excerpt": "Norway: Open-label Extension Study in Participants With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05068830",
+            "excerpt": "Norway: Safety and Efficacy of Plasma Transfusion From Exercise-trained Donors in Patients With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06451952",
+            "excerpt": "Norway: Virtual Darkness Theraphy for Agitation in Dementia"
+          },
+          {
+            "nct_id": "NCT05187819",
+            "excerpt": "Norway: Blood-based Biomarkers for Diagnosis of Alzheimer's"
+          },
+          {
+            "nct_id": "NCT06362707",
+            "excerpt": "Norway: Fasudil Trial for Treatment of Early Alzheimer's Disease (FEAD)"
+          }
+        ],
+        "country": "Norway",
+        "trial_count": 7
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06540833",
+            "excerpt": "Serbia: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Psychosis Associated With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Serbia: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT06651567",
+            "excerpt": "Serbia: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Agitation Associated With Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Serbia: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT05511363",
+            "excerpt": "Serbia: A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)"
+          },
+          {
+            "nct_id": "NCT06159673",
+            "excerpt": "Serbia: ACP-204 in Adults With Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT05397639",
+            "excerpt": "Serbia: Masupirdine for the Treatment of Agitation in Dementia of the Alzheimer's Type"
+          }
+        ],
+        "country": "Serbia",
+        "trial_count": 7
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT07380204",
+            "excerpt": "Belgium: Quantification of Hsp90 in the Human Brain"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Belgium: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT06120049",
+            "excerpt": "Belgium: [18F]-MFBG Versus [123I]-MIBG and [18F]-PE2I in PD vs. MSA and DLB vs. AD"
+          },
+          {
+            "nct_id": "NCT07033494",
+            "excerpt": "Belgium: A Clinical Study of MK-2214 in People With Early Alzheimer's Disease (MK-2214-004)"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Belgium: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT06385951",
+            "excerpt": "Belgium: Spatial Navigation for the Early Detection of Alzheimer's Disease."
+          }
+        ],
+        "country": "Belgium",
+        "trial_count": 6
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "Chile: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Chile: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT06492967",
+            "excerpt": "Chile: LatAm-FINGERS Initiative for Cognitive Change"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "Chile: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT06159673",
+            "excerpt": "Chile: ACP-204 in Adults With Alzheimer's Disease Psychosis"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Chile: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          }
+        ],
+        "country": "Chile",
+        "trial_count": 6
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Israel: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Israel: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "Israel: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Israel: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          },
+          {
+            "nct_id": "NCT00874783",
+            "excerpt": "Israel: Development of IPS from Donated Somatic Cells of Patients with Neurological Diseases"
+          },
+          {
+            "nct_id": "NCT05794451",
+            "excerpt": "Israel: Developing an Artificial Intelligence System to Detect Cognitive Impairment"
+          }
+        ],
+        "country": "Israel",
+        "trial_count": 6
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT07105709",
+            "excerpt": "Sweden: Open-label Extension Study in Participants With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06105320",
+            "excerpt": "Sweden: COGNIFOOD-Changing the Carbohydrate/Fat-ratio to Prevent Cognitive Decline and Alzheimer Pathology: A Pilot Study"
+          },
+          {
+            "nct_id": "NCT05469360",
+            "excerpt": "Sweden: Study of Safety, Tolerability, Pharmacodynamics and Pharmacokinetics of NIO752 in Early Alzheimer's Disease Participants"
+          },
+          {
+            "nct_id": "NCT03507257",
+            "excerpt": "Sweden: Longitudinal Early-onset Alzheimer's Disease Study Protocol"
+          },
+          {
+            "nct_id": "NCT06874231",
+            "excerpt": "Sweden: Brain Connectivity Marker for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05893524",
+            "excerpt": "Sweden: Uppsala-Dalarna Dementia and Gait Project"
+          }
+        ],
+        "country": "Sweden",
+        "trial_count": 6
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT00869817",
+            "excerpt": "Colombia: Dominantly Inherited Alzheimer Network (DIAN)"
+          },
+          {
+            "nct_id": "NCT06492967",
+            "excerpt": "Colombia: LatAm-FINGERS Initiative for Cognitive Change"
+          },
+          {
+            "nct_id": "NCT05543681",
+            "excerpt": "Colombia: Clinical Trial on Agitation in Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "Colombia: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "Colombia: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          }
+        ],
+        "country": "Colombia",
+        "trial_count": 5
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT07058688",
+            "excerpt": "Hungary: A Study of NTRX-07 in Participants With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Hungary: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Hungary: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "Hungary: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Hungary: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          }
+        ],
+        "country": "Hungary",
+        "trial_count": 5
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "India: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT06976216",
+            "excerpt": "India: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "India: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "India: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "India: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          }
+        ],
+        "country": "India",
+        "trial_count": 5
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Portugal: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Portugal: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT07011732",
+            "excerpt": "Portugal: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Portugal: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Portugal: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          }
+        ],
+        "country": "Portugal",
+        "trial_count": 5
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06540833",
+            "excerpt": "Slovakia: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Psychosis Associated With Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Slovakia: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT06651567",
+            "excerpt": "Slovakia: A Study to Assess the Efficacy and Safety of ITI-1284 in the Treatment of Agitation Associated With Alzheimer's Dementia"
+          },
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Slovakia: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT05511363",
+            "excerpt": "Slovakia: A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)"
+          }
+        ],
+        "country": "Slovakia",
+        "trial_count": 5
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06567431",
+            "excerpt": "Denmark: Blood And Tears in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07177352",
+            "excerpt": "Denmark: Screening Study to Determine Individuals With Potential Trial Eligibility for Alzheimer's Disease Studies"
+          },
+          {
+            "nct_id": "NCT05260177",
+            "excerpt": "Denmark: Study on the Effect of 40 Hz Non-Invasive Light Therapy System"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "Denmark: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          }
+        ],
+        "country": "Denmark",
+        "trial_count": 4
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06948929",
+            "excerpt": "Hong Kong: Synbiotic Formula (SCV09) in Alzheimer's Disease Patients"
+          },
+          {
+            "nct_id": "NCT05655650",
+            "excerpt": "Hong Kong: Identifying Biomarkers in Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07143734",
+            "excerpt": "Hong Kong: Transcranial Pulse Stimulation for Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05020626",
+            "excerpt": "Hong Kong: Modelling Tau Distribution From DTI With Generative Adversarial Network for Alzheimer's Disease Diagnosis"
+          }
+        ],
+        "country": "Hong Kong",
+        "trial_count": 4
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT07105709",
+            "excerpt": "Finland: Open-label Extension Study in Participants With Early Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT05469360",
+            "excerpt": "Finland: Study of Safety, Tolerability, Pharmacodynamics and Pharmacokinetics of NIO752 in Early Alzheimer's Disease Participants"
+          },
+          {
+            "nct_id": "NCT06976203",
+            "excerpt": "Finland: A Study to Evaluate the Efficacy and Safety of KarXT + KarX-EC for Cognitive Impairment in Alzheimer's Disease (MINDSET 2)"
+          }
+        ],
+        "country": "Finland",
+        "trial_count": 3
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT05552157",
+            "excerpt": "New Zealand: A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT06647498",
+            "excerpt": "New Zealand: A Study of a Potential Disease Modifying Treatment in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation"
+          },
+          {
+            "nct_id": "NCT07221344",
+            "excerpt": "New Zealand: Study of ARO-MAPT-SC in Healthy Subjects and Subjects With Early Alzheimer's Disease"
+          }
+        ],
+        "country": "New Zealand",
+        "trial_count": 3
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06585787",
+            "excerpt": "Ukraine: A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)"
+          },
+          {
+            "nct_id": "NCT07011745",
+            "excerpt": "Ukraine: A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-2)"
+          },
+          {
+            "nct_id": "NCT06937229",
+            "excerpt": "Ukraine: A Study to Evaluate the Long-term Efficacy and Safety of KarXT + KarX-EC for Agitation in Alzheimer's Disease (ADAGIO-3)"
+          }
+        ],
+        "country": "Ukraine",
+        "trial_count": 3
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT05980949",
+            "excerpt": "Peru: Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of KarXT in Subjects With Psychosis Associated With Alzheimer's Disease (ADEPT-3)"
+          },
+          {
+            "nct_id": "NCT06492967",
+            "excerpt": "Peru: LatAm-FINGERS Initiative for Cognitive Change"
+          }
+        ],
+        "country": "Peru",
+        "trial_count": 2
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT03945968",
+            "excerpt": "Russia: The Role of Concomitant Diseases in Postoperative Complications Risk Stratification."
+          },
+          {
+            "nct_id": "NCT07251023",
+            "excerpt": "Russia: Efficacy and Safety of DMB-I (INN: Latrepirdine) in Patients With Alzheimer Type Dementia"
+          }
+        ],
+        "country": "Russia",
+        "trial_count": 2
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT07210528",
+            "excerpt": "Singapore: Safety Of Nrtis for Alzheimer's Therapeutic Advancement in Singapore Study"
+          },
+          {
+            "nct_id": "NCT06965062",
+            "excerpt": "Singapore: Cervical Lymphatico-Venous Bypass for Treatment of Alzheimer's Disease - Proof of Concept Study (CLyVeB-AD-1 Study)"
+          }
+        ],
+        "country": "Singapore",
+        "trial_count": 2
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT03672279",
+            "excerpt": "Switzerland: Validation of a Novel Self-Administered Cognitive Assessment Tool (CogCheck) in Patients With Mild and Major Neurocognitive Disorder Predominantly Due to Alzheimer's Disease"
+          },
+          {
+            "nct_id": "NCT07170150",
+            "excerpt": "Switzerland: A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease"
+          }
+        ],
+        "country": "Switzerland",
+        "trial_count": 2
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06611878",
+            "excerpt": "Austria: Memory for Music: Individual Intensive Musical Training in Alzheimer's Disease"
+          }
+        ],
+        "country": "Austria",
+        "trial_count": 1
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06492967",
+            "excerpt": "Bolivia: LatAm-FINGERS Initiative for Cognitive Change"
+          }
+        ],
+        "country": "Bolivia",
+        "trial_count": 1
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06492967",
+            "excerpt": "Costa Rica: LatAm-FINGERS Initiative for Cognitive Change"
+          }
+        ],
+        "country": "Costa Rica",
+        "trial_count": 1
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06181513",
+            "excerpt": "Cyprus: Probiotics in Mild Alzheimer's Disease"
+          }
+        ],
+        "country": "Cyprus",
+        "trial_count": 1
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06492967",
+            "excerpt": "Dominican Republic: LatAm-FINGERS Initiative for Cognitive Change"
+          }
+        ],
+        "country": "Dominican Republic",
+        "trial_count": 1
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06492967",
+            "excerpt": "Ecuador: LatAm-FINGERS Initiative for Cognitive Change"
+          }
+        ],
+        "country": "Ecuador",
+        "trial_count": 1
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT04165109",
+            "excerpt": "Ireland: Trial-Ready Cohort-Down Syndrome (TRC-DS)"
+          }
+        ],
+        "country": "Ireland",
+        "trial_count": 1
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT05801380",
+            "excerpt": "Philippines: Monitoring Drug Efficacy in Patients with Alzheimer's Disease"
+          }
+        ],
+        "country": "Philippines",
+        "trial_count": 1
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT06492967",
+            "excerpt": "Uruguay: LatAm-FINGERS Initiative for Cognitive Change"
+          }
+        ],
+        "country": "Uruguay",
+        "trial_count": 1
+      }
+    ]
+  },
+  "meta": {
+    "filters": {
+      "query.cond": "Alzheimer's",
+      "filter.overallStatus": "RECRUITING"
+    },
+    "sources": [
+      "clinicaltrials.gov"
+    ],
+    "notes": [],
+    "record_count": 422,
+    "generated_at": "2026-03-19T02:26:04"
+  }
+}

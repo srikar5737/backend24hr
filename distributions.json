@@ -1,0 +1,1712 @@
+{
+  "visualization": {
+    "type": "bar_chart",
+    "title": "Trials by Phase for Diabetes",
+    "encoding": {
+      "x": {
+        "field": "phase",
+        "label": null,
+        "data_type": "nominal",
+        "aggregate": null,
+        "time_granularity": null,
+        "unit": null
+      },
+      "y": {
+        "field": "trial_count",
+        "label": null,
+        "data_type": "quantitative",
+        "aggregate": "count",
+        "time_granularity": null,
+        "unit": null
+      },
+      "color": null,
+      "series": null,
+      "size": null,
+      "label": null,
+      "node_id": null,
+      "node_label": null,
+      "node_group": null,
+      "source": null,
+      "target": null,
+      "weight": null,
+      "tooltip": []
+    },
+    "data": [
+      {
+        "citations": [
+          {
+            "nct_id": "NCT03341013",
+            "excerpt": "Phase 1: A Pilot Study Investigating Bioequivalence Between a Single Dose of Formulation 2 and Formulation 3 of MEDI0382"
+          },
+          {
+            "nct_id": "NCT03560323",
+            "excerpt": "Phase 1: Ketones, Muscle Metabolism, and SGLT2 Inhibitors - Protocol 1"
+          },
+          {
+            "nct_id": "NCT01537120",
+            "excerpt": "Phase 1: Evaluation of Continuous Glucose Monitoring in Participants With Type 2 Diabetes Mellitus (MK-0000-258 AM2)"
+          },
+          {
+            "nct_id": "NCT03849261",
+            "excerpt": "Phase 1: Pharmacokinetics and Safety/Tolerability After Oral Administration of CKD-387 and D635 in Healthy Adults"
+          },
+          {
+            "nct_id": "NCT04990427",
+            "excerpt": "Phase 1: CLBS201 in Patients with Chronic Kidney Disease (CKD) and Type 2 Diabetes Mellitus (T2DM)"
+          },
+          {
+            "nct_id": "NCT04431141",
+            "excerpt": "Phase 1: Pharmacokinetic Drug Interaction Between Teneligliptin and Empagliflozin"
+          },
+          {
+            "nct_id": "NCT01301456",
+            "excerpt": "Phase 1: Single-Dose And Multiple-Dose Safety And Tolerability Study Of PF-04856883 In Type 2 Diabetic Adult Females"
+          },
+          {
+            "nct_id": "NCT00790556",
+            "excerpt": "Phase 1: A Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of MK8245 (8245-004)(COMPLETED)"
+          },
+          {
+            "nct_id": "NCT05826054",
+            "excerpt": "Phase 1: Montbretin Clinical Trial in Healthy Volunteers and Type 2 Diabetics"
+          },
+          {
+            "nct_id": "NCT06929156",
+            "excerpt": "Phase 1: A Study of BGM0504 in Healthy Participants and Participants With Impaired Renal Function"
+          },
+          {
+            "nct_id": "NCT00912002",
+            "excerpt": "Phase 1: A Study of Absorption, Metabolism, Excretion and Mass Balance After a Single Dose Administration of MK-0941 (MK-0941-016)(COMPLETED)"
+          },
+          {
+            "nct_id": "NCT01887691",
+            "excerpt": "Phase 1: Sleep Effectiveness and Insulin and Glucose Homeostasis"
+          },
+          {
+            "nct_id": "NCT04262661",
+            "excerpt": "Phase 1: A Study to Look at How Safe NNC0472-0147 is in Healthy People and in People With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT00853151",
+            "excerpt": "Phase 1: A Study to Test the Combination of Two Different Kinds of Medications for the Treatment of Diabetes"
+          },
+          {
+            "nct_id": "NCT01520831",
+            "excerpt": "Phase 1: Comparison of Biphasic Insulin Aspart (30, 50 and 70) and Insulin Aspart in Healthy Subjects"
+          },
+          {
+            "nct_id": "NCT00692562",
+            "excerpt": "Phase 1: Simultaneous Islet-Kidney Transplantation in Patients of Type 1 Diabetes With End-stage Renal Disease"
+          },
+          {
+            "nct_id": "NCT01189422",
+            "excerpt": "Phase 1: Subcutaneous Administration of Teplizumab in Adults With Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT03234751",
+            "excerpt": "Phase 1: Effect of Nesiritide Infusion on Insulin Sensitivity in Healthy Obese Insulin Resistant Subjects"
+          },
+          {
+            "nct_id": "NCT06828731",
+            "excerpt": "Phase 1: Evaluation of Empagliflozin vs Standard Care in Veterans With Prediabetes"
+          },
+          {
+            "nct_id": "NCT01948986",
+            "excerpt": "Phase 1: Effect of Renal Impairment on the Pharmacokinetics, Pharmacodynamics, Safety and Tolerability of Ertugliflozin in Participants With Type 2 Diabetes Mellitus (MK-8835-009)"
+          },
+          {
+            "nct_id": "NCT01874483",
+            "excerpt": "Phase 1: Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Multiple Rising Doses of BI 187004 in Patients With Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT00501683",
+            "excerpt": "Phase 1: A Single Dose Of GSK189075 Taken By Mouth Containing Small Amounts Of Radioactivity Studied In Healthy Male Volunteers"
+          },
+          {
+            "nct_id": "NCT00306072",
+            "excerpt": "Phase 1: Effect of Different Doses of Salacinol Extract on Glycemic and Insulinemic Response in Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT02706977",
+            "excerpt": "Phase 1: The Effect of Dopamine on Diabetic Retinopathy"
+          },
+          {
+            "nct_id": "NCT05526430",
+            "excerpt": "Phase 1: Study of Harmine in Healthy Subjects"
+          },
+          {
+            "nct_id": "NCT02367066",
+            "excerpt": "Phase 1: A Phase I Study to Assess the Pharmacodynamics of Oral AR-C165395XX in Subjects With Type 2 Diabetes Mellitus (T2DM)"
+          },
+          {
+            "nct_id": "NCT00008801",
+            "excerpt": "Phase 1: hOKT3gamma1 (Ala-Ala) for the Prevention of Human Islet Allograft Failure"
+          },
+          {
+            "nct_id": "NCT05314231",
+            "excerpt": "Phase 1: Safety and Pharmacokinetic Study of Subcutaneous ALXN1720 in Participants With Proteinuria"
+          },
+          {
+            "nct_id": "NCT03334175",
+            "excerpt": "Phase 1: Walnuts to Achieve Lasting NUTrition to Prevent Diabetes"
+          },
+          {
+            "nct_id": "NCT01106157",
+            "excerpt": "Phase 1: Reversing Type 1 Diabetes After it is Established"
+          },
+          {
+            "nct_id": "NCT01219465",
+            "excerpt": "Phase 1: Umbilical Cord Mesenchymal Stem Cells Infusion for Initial Type 1 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT00316537",
+            "excerpt": "Phase 1: Safety and Preliminary Efficacy Study of Nicotine Gel to Treat Diabetic Foot Ulcers"
+          },
+          {
+            "nct_id": "NCT01686139",
+            "excerpt": "Phase 1: Safety Study of Stem Cells Treatment in Diabetic Foot Ulcers"
+          },
+          {
+            "nct_id": "NCT03907202",
+            "excerpt": "Phase 1: A Clinical Study to Evaluate the Safety, Tolerability, PK, PD, and Efficacy of KBP-089 in Patients With T2DM"
+          },
+          {
+            "nct_id": "NCT04080596",
+            "excerpt": "Phase 1: DDI Study to Investigate the Impact of Itraconazole on the Pharmacokinetics of Dorzagliatin"
+          },
+          {
+            "nct_id": "NCT07158346",
+            "excerpt": "Phase 1: Phase I Study to Evaluate the Pharmacokinetics and Safety After Co-administration of L03RD1 and L03RD2 or Administration of CT-L03 in Healthy Volunteers"
+          },
+          {
+            "nct_id": "NCT01147718",
+            "excerpt": "Phase 1: A Drug Interaction Study of Albiglutide and Digoxin"
+          },
+          {
+            "nct_id": "NCT06280703",
+            "excerpt": "Phase 1: A Study of LY3938577 in Healthy Participants and Participants With Type 1 Diabetes Mellitus (T1DM)"
+          },
+          {
+            "nct_id": "NCT00767260",
+            "excerpt": "Phase 1: Bone Marrow Mononuclear Cell and Hyperbaric Oxygen Therapy in Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT02849288",
+            "excerpt": "Phase 1: Bigfoot Biomedical Clinical Research Center (CRC) Trial"
+          },
+          {
+            "nct_id": "NCT02394886",
+            "excerpt": "Phase 1: Safety of ALLO-ASC-DFU in the Patients With Diabetic Foot Ulcers"
+          },
+          {
+            "nct_id": "NCT01933672",
+            "excerpt": "Phase 1: Study Of Two Dosing Regimens Of PF-04937319 Compared To An Approved Agent (Sitagliptin) In Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT03392961",
+            "excerpt": "Phase 1: Effect of Dosing Time and Meal on IN-105 (Insulin Tregopil) PK and PD"
+          },
+          {
+            "nct_id": "NCT03428295",
+            "excerpt": "Phase 1: Dose Safety Hybrid Closed Loop and Fully Automated Closed Loop Artificial Pancreas Device in CRC"
+          },
+          {
+            "nct_id": "NCT01476345",
+            "excerpt": "Phase 1: A Study to Compare the Pharmacokinetics and Pharmacodynamics of LY2963016 to Lantus in Healthy Participants"
+          },
+          {
+            "nct_id": "NCT00285194",
+            "excerpt": "Phase 1: hOKT3γ1 (Ala-Ala) Combined With Sirolimus and Delayed Tacrolimus in Type 1 Diabetic Islet Allograft Recipients"
+          },
+          {
+            "nct_id": "NCT06124495",
+            "excerpt": "Phase 1: Bioequivalence Study of Sitagliptin Hydrochloride / Metformin Hydrochloride Extended-release Film Coated Tablets 50 mg /500 mg (FDC) in Healthy Adult Male and Female Subjects Under Fasting Conditions."
+          },
+          {
+            "nct_id": "NCT01919684",
+            "excerpt": "Phase 1: Study to Evaluate Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of LGD-6972 in Healthy Subjects and Subjects With Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT01710371",
+            "excerpt": "Phase 1: Quantitative 18F-AV-133 PET Imaging in Subjects With Diabetes and Healthy Controls"
+          }
+        ],
+        "phase": "Phase 1",
+        "trial_count": 49
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT04764968",
+            "excerpt": "Phase 2: Pen-Administered Low-Dose Dasiglucagon for Prevention and Treatment of Hypoglycemia in People With Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT02457897",
+            "excerpt": "Phase 2: Thyroid Hormone to Induce Non-Insulin Mediated Glucose Disposal in People With Insulin Receptor Mutations"
+          },
+          {
+            "nct_id": "NCT02763423",
+            "excerpt": "Phase 2: Allogeneic Umbilical Cord Mesenchymal Stem Cell Transplantation for Type 1 Diabetes With Diabetic Ketoacidosis"
+          },
+          {
+            "nct_id": "NCT05348122",
+            "excerpt": "Phase 2: A Study of TG103 Injection in Type 2 Diabetes Subjects"
+          },
+          {
+            "nct_id": "NCT00502710",
+            "excerpt": "Phase 2: A Study of Dipeptidyl-peptidase IV (DPP-IV) RO4876904 in Patients With Type 2 Diabetes."
+          },
+          {
+            "nct_id": "NCT05353686",
+            "excerpt": "Phase 2: A Trial Investigating the Effect of 4 Weeks Dosing of XEN-D0501 on Blood Glucose Reduction in Patients With Diabetes"
+          },
+          {
+            "nct_id": "NCT01939366",
+            "excerpt": "Phase 2: Cebranopadol Efficacy and Safety in Diabetic Patients Suffering From Chronic Pain Caused by Damage to the Nerves"
+          },
+          {
+            "nct_id": "NCT07465224",
+            "excerpt": "Phase 2: A Study to Evaluate ALN-4324 on Insulin Sensitivity in Adults With Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT02150824",
+            "excerpt": "Phase 2: Safety and Tolerability, Efficacy, Pharmacokinetic and Pharmacodynamic Study of Three Doses of BI 187004 Over 28 Days in Patients With Type 2 Diabetes Mellitus With and Without Metformin"
+          },
+          {
+            "nct_id": "NCT01263496",
+            "excerpt": "Phase 2: Long-term Safety Study of Alogliptin in Participants With Type 2 Diabetes in Japan"
+          },
+          {
+            "nct_id": "NCT01842282",
+            "excerpt": "Phase 2: Amlexanox for Type 2 Diabetes and Obesity"
+          },
+          {
+            "nct_id": "NCT00692562",
+            "excerpt": "Phase 2: Simultaneous Islet-Kidney Transplantation in Patients of Type 1 Diabetes With End-stage Renal Disease"
+          },
+          {
+            "nct_id": "NCT04291703",
+            "excerpt": "Phase 2: STOP-T1D Low-Dose (ATG)"
+          },
+          {
+            "nct_id": "NCT01338870",
+            "excerpt": "Phase 2: Study of Safety and Efficacy of PF-04991532 in Subjects With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT01941329",
+            "excerpt": "Phase 2: Prospective, Randomized, Multicentre, Open-label, Phase II / III Study to Assess Efficacy and Safety of Ranibizumab 0.5 mg Intravitreal Injections Plus Panretinal Photocoagulation (PRP) Versus PRP in Monotherapy in the Treatment of Subjects With High Risk Proliferative Diabetic Retinopathy."
+          },
+          {
+            "nct_id": "NCT06843902",
+            "excerpt": "Phase 2: Improving Coronary Vascular Health in Women"
+          },
+          {
+            "nct_id": "NCT00659828",
+            "excerpt": "Phase 2: Effects of Leptin Replacement in Children"
+          },
+          {
+            "nct_id": "NCT00306072",
+            "excerpt": "Phase 2: Effect of Different Doses of Salacinol Extract on Glycemic and Insulinemic Response in Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT05966272",
+            "excerpt": "Phase 2: Efficacy and Safety of HRS9531 Injection in Type 2 Diabetes Subjects"
+          },
+          {
+            "nct_id": "NCT06688331",
+            "excerpt": "Phase 2: Treatment of Presymptomatic (Stage 1) Type 1 Diabetes Pediatric Patients With Treg Cell Preparations and Anti-CD20 Antibody"
+          },
+          {
+            "nct_id": "NCT00806572",
+            "excerpt": "Phase 2: Treatment With hOKT3gamma1(Ala-Ala) in T1DM"
+          },
+          {
+            "nct_id": "NCT02511067",
+            "excerpt": "Phase 2: Ranibizumab for Edema of the mAcula in Diabetes: Protocol 4 With Tocilizumab: The READ-4 Study"
+          },
+          {
+            "nct_id": "NCT00008801",
+            "excerpt": "Phase 2: hOKT3gamma1 (Ala-Ala) for the Prevention of Human Islet Allograft Failure"
+          },
+          {
+            "nct_id": "NCT03334175",
+            "excerpt": "Phase 2: Walnuts to Achieve Lasting NUTrition to Prevent Diabetes"
+          },
+          {
+            "nct_id": "NCT01106157",
+            "excerpt": "Phase 2: Reversing Type 1 Diabetes After it is Established"
+          },
+          {
+            "nct_id": "NCT01219465",
+            "excerpt": "Phase 2: Umbilical Cord Mesenchymal Stem Cells Infusion for Initial Type 1 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT00316537",
+            "excerpt": "Phase 2: Safety and Preliminary Efficacy Study of Nicotine Gel to Treat Diabetic Foot Ulcers"
+          },
+          {
+            "nct_id": "NCT00266240",
+            "excerpt": "Phase 2: A Study of GK Activator (2) in Patients With Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT00451620",
+            "excerpt": "Phase 2: Effect of GlucoNorm vs Glyburide on Post-Prandial Hyperglycemia in Elderly Subjects With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT01547897",
+            "excerpt": "Phase 2: NOX-E36 in Patients With Type 2 Diabetes Mellitus and Albuminuria"
+          },
+          {
+            "nct_id": "NCT01398423",
+            "excerpt": "Phase 2: INV-144 Versus Losartan in Hypertension and Type 2 Diabetes Mellitus Patients With Macroalbuminuria"
+          },
+          {
+            "nct_id": "NCT00764361",
+            "excerpt": "Phase 2: Safety Study of Topical Doxycycline Gel for Adult Diabetic Lower Extremity Ulcers"
+          },
+          {
+            "nct_id": "NCT01011868",
+            "excerpt": "Phase 2: Efficacy and Safety of BI 10773 in Combination With Insulin in Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT03503370",
+            "excerpt": "Phase 2: Preventing Diabetic Foot Ulcers Through Cleaner Feet"
+          },
+          {
+            "nct_id": "NCT00767260",
+            "excerpt": "Phase 2: Bone Marrow Mononuclear Cell and Hyperbaric Oxygen Therapy in Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT00900146",
+            "excerpt": "Phase 2: Dose Finding, Safety and Efficacy of Monthly Subcutaneous Canakinumab Administration in Metformin Monotherapy Treated Type 2 Diabetic Patients"
+          },
+          {
+            "nct_id": "NCT00106561",
+            "excerpt": "Phase 2: Using the Drug Spironolactone to Test If It Reduces Protein Leakage From the Kidney"
+          },
+          {
+            "nct_id": "NCT02303405",
+            "excerpt": "Phase 2: Hydroxychloroquine Versus Pioglitazone in Combination Treatment for Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT01345045",
+            "excerpt": "Phase 2: A Multicenter Study Comparing the Analgesic Effects and Safety of ABT-639 Compared to Placebo in Subjects With Diabetic Neuropathic Pain"
+          },
+          {
+            "nct_id": "NCT03428295",
+            "excerpt": "Phase 2: Dose Safety Hybrid Closed Loop and Fully Automated Closed Loop Artificial Pancreas Device in CRC"
+          },
+          {
+            "nct_id": "NCT00493051",
+            "excerpt": "Phase 2: Phase 2b Study of GAM501 in the Treatment of Diabetic Ulcers of the Lower Extremities"
+          },
+          {
+            "nct_id": "NCT00785577",
+            "excerpt": "Phase 2: A Study for Treatment of Pain in Patients With Diabetic Neuropathy."
+          },
+          {
+            "nct_id": "NCT01318083",
+            "excerpt": "Phase 2: Efficacy and Safety of Alogliptin Used in Combination With Sulfonylurea in Participants With Type 2 Diabetes in Japan"
+          },
+          {
+            "nct_id": "NCT01823341",
+            "excerpt": "Phase 2: Outpatient Reduction of Nocturnal Hypoglycemia by Using Predictive Algorithms and Pump Suspension in Children"
+          },
+          {
+            "nct_id": "NCT02415556",
+            "excerpt": "Phase 2: Memory Aid by Intranasal Insulin in Diabetes (MemAID)"
+          },
+          {
+            "nct_id": "NCT00285194",
+            "excerpt": "Phase 2: hOKT3γ1 (Ala-Ala) Combined With Sirolimus and Delayed Tacrolimus in Type 1 Diabetic Islet Allograft Recipients"
+          },
+          {
+            "nct_id": "NCT02470403",
+            "excerpt": "Phase 2: Effect of LIK066 on Body Weight in Patients With Elevated Body Mass Index"
+          },
+          {
+            "nct_id": "NCT02783066",
+            "excerpt": "Phase 2: Novel Offloading for Diabetic Foot Ulcers With PulseFlow: A Prospective Study"
+          },
+          {
+            "nct_id": "NCT06149793",
+            "excerpt": "Phase 2: SGLT2 Inhibitor Therapy in Cystic Fibrosis-related Diabetes"
+          },
+          {
+            "nct_id": "NCT00307749",
+            "excerpt": "Phase 2: Safety and Efficacy of MCC-257 in the Treatment of Diabetic Polyneuropathy"
+          },
+          {
+            "nct_id": "NCT02379299",
+            "excerpt": "Phase 2: DiaCon Dual-Hormone Closed-Loop Glucose Control"
+          }
+        ],
+        "phase": "Phase 2",
+        "trial_count": 51
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT00315718",
+            "excerpt": "Phase 3: Long-Term Effects of Sucontral(TM) on Mild and Moderate Cases of Diabetes Mellitus (Type 2)"
+          },
+          {
+            "nct_id": "NCT02738879",
+            "excerpt": "Phase 3: Randomized Sitagliptin Withdrawal Study (MK-0431-845)"
+          },
+          {
+            "nct_id": "NCT00328627",
+            "excerpt": "Phase 3: Efficacy and Safety of Alogliptin Combined With Pioglitazone in Treating Subjects With Type 2 Diabetes Mellitus."
+          },
+          {
+            "nct_id": "NCT04251156",
+            "excerpt": "Phase 3: Research Study of How Well Semaglutide Works in People Living With Overweight or Obesity."
+          },
+          {
+            "nct_id": "NCT01455896",
+            "excerpt": "Phase 3: A Study to Evaluate Cardiovascular Outcomes in Patients With Type 2 Diabetes Treated With ITCA 650"
+          },
+          {
+            "nct_id": "NCT02662569",
+            "excerpt": "Phase 3: Safety and Efficacy of Evolocumab in Combination With Statin Therapy in Adults With Diabetes and Hyperlipidemia or Mixed Dyslipidemia"
+          },
+          {
+            "nct_id": "NCT01042769",
+            "excerpt": "Phase 3: A Study With Aleglitazar in Patients With a Recent Acute Coronary Syndrome and Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT00994266",
+            "excerpt": "Phase 3: Diamel in the Treatment of Type 2 Diabetic Patients Receiving Insulin Therapy"
+          },
+          {
+            "nct_id": "NCT00659451",
+            "excerpt": "Phase 3: Effects Of Losartan On Myocardial Structure In Diabetic Hypertensive Patients With Left Ventricular"
+          },
+          {
+            "nct_id": "NCT00918879",
+            "excerpt": "Phase 3: Evaluate Saxagliptin in Adult Indian Patients With Type 2 Diabetes Inadequate Glycemic Control"
+          },
+          {
+            "nct_id": "NCT00773279",
+            "excerpt": "Phase 3: Efficacy, Safety and Preference Study of a Insulin Pen PDS290 vs. a Novo Nordisk Marketed Insulin Pen in Diabetics"
+          },
+          {
+            "nct_id": "NCT01941329",
+            "excerpt": "Phase 3: Prospective, Randomized, Multicentre, Open-label, Phase II / III Study to Assess Efficacy and Safety of Ranibizumab 0.5 mg Intravitreal Injections Plus Panretinal Photocoagulation (PRP) Versus PRP in Monotherapy in the Treatment of Subjects With High Risk Proliferative Diabetic Retinopathy."
+          },
+          {
+            "nct_id": "NCT01072331",
+            "excerpt": "Phase 3: Pharmacokinetic/Pharmacodynamic Study of MP-513 With Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT00541775",
+            "excerpt": "Phase 3: Safety/Efficacy of Sitagliptin in Patient w/ Type 2 Diabetes (0431-801)"
+          },
+          {
+            "nct_id": "NCT05054842",
+            "excerpt": "Phase 3: Clinical Study of Retagliptin Phosphate Combined With Metformin in the Treatment of Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT06071975",
+            "excerpt": "Phase 3: Long Term Efficacy and Tolerability of AP707 in Patients With Chronic Pain Due to Diabetic Polyneuropathy"
+          },
+          {
+            "nct_id": "NCT00547183",
+            "excerpt": "Phase 3: Study the Safety and Effectiveness of Tadalafil in Men With Diabetes Who Have Problems Getting and Keeping an Erection"
+          },
+          {
+            "nct_id": "NCT00527995",
+            "excerpt": "Phase 3: Acute Effects of Sildenafil on Endothelial Function in People With Diabetes"
+          },
+          {
+            "nct_id": "NCT00935766",
+            "excerpt": "Phase 3: Effect of Fish Oil (Omega-3 Fatty Acids) on Arteries"
+          },
+          {
+            "nct_id": "NCT04654390",
+            "excerpt": "Phase 3: The Efficacy Nad Safety of DWP16001 Compared to Active Drug in the Treatment of Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT00411554",
+            "excerpt": "Phase 3: A Study of Sitagliptin in Patients With Type 2 Diabetes Mellitus Who Have Inadequate Glycemic Control on Diet/Exercise Therapy (0431-054)(COMPLETED)"
+          },
+          {
+            "nct_id": "NCT00775840",
+            "excerpt": "Phase 3: Efficacy of Candesartan on Symptomatic Heart Failure in Treating Diabetic and Hypertensive Patients."
+          },
+          {
+            "nct_id": "NCT00666718",
+            "excerpt": "Phase 3: A Comparison Study of Basal Bolus Therapies Together With Lispro Insulin in Type 2 Diabetes Patients"
+          },
+          {
+            "nct_id": "NCT00316082",
+            "excerpt": "Phase 3: Study of BMS-477118 as Monotherapy With Titration in Subjects With Type 2 Diabetes Who Are Not Controlled With Diet and Exercise"
+          },
+          {
+            "nct_id": "NCT07057479",
+            "excerpt": "Phase 3: Phase III Trial of SGLT2 Inhibitor and Thiazolidinedione Fixed-Dose Combination vs. Monotherapy in Type 2 Diabetes Patients on Metformin"
+          },
+          {
+            "nct_id": "NCT00428727",
+            "excerpt": "Phase 3: Clinical Trial for the Treatment of Diabetic Foot Ulcers Using a Nitric Oxide Releasing Patch: PATHON"
+          },
+          {
+            "nct_id": "NCT00879697",
+            "excerpt": "Phase 3: Strength Training in Walking Tolerance in Intermittent Claudication Patients"
+          },
+          {
+            "nct_id": "NCT00095082",
+            "excerpt": "Phase 3: Safety and Efficacy of Insulin Detemir Plus Insulin Aspart Against Insulin Glargine Plus Insulin Aspart as Mealtime Insulin in Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT00359879",
+            "excerpt": "Phase 3: Comparison of Exenatide Taken Before Lunch and Dinner With Before Breakfast and Dinner in Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT00900146",
+            "excerpt": "Phase 3: Dose Finding, Safety and Efficacy of Monthly Subcutaneous Canakinumab Administration in Metformin Monotherapy Treated Type 2 Diabetic Patients"
+          },
+          {
+            "nct_id": "NCT00106561",
+            "excerpt": "Phase 3: Using the Drug Spironolactone to Test If It Reduces Protein Leakage From the Kidney"
+          },
+          {
+            "nct_id": "NCT01789957",
+            "excerpt": "Phase 3: Extension Study for 2993-112"
+          },
+          {
+            "nct_id": "NCT00094757",
+            "excerpt": "Phase 3: An Investigational Drug Study in Patients With Type 2 Diabetes Mellitus (MK0431-023)"
+          },
+          {
+            "nct_id": "NCT07064486",
+            "excerpt": "Phase 3: A Study of BGM0504 in Participants With Type 2 Diabetes in Indonesia"
+          },
+          {
+            "nct_id": "NCT05680129",
+            "excerpt": "Phase 3: A Phase 3 Study to Evaluate the Efficacy of XW003 Compared With Dulaglutide in Participants With T2DM"
+          },
+          {
+            "nct_id": "NCT01318083",
+            "excerpt": "Phase 3: Efficacy and Safety of Alogliptin Used in Combination With Sulfonylurea in Participants With Type 2 Diabetes in Japan"
+          },
+          {
+            "nct_id": "NCT00000151",
+            "excerpt": "Phase 3: Early Treatment Diabetic Retinopathy Study (ETDRS)"
+          },
+          {
+            "nct_id": "NCT00397631",
+            "excerpt": "Phase 3: Initial Combination With Pioglitazone Study (0431-064)"
+          },
+          {
+            "nct_id": "NCT06619301",
+            "excerpt": "Phase 3: RCT Glargine vs NPH for Treatment of DM in Pregnancy"
+          },
+          {
+            "nct_id": "NCT00437112",
+            "excerpt": "Phase 3: Evaluate the Efficacy and Safety of Insulin Compared to Glargine in Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT01835431",
+            "excerpt": "Phase 3: A Trial Investigating the Efficacy and Safety of Insulin Degludec/Insulin Aspart Once Daily Plus Insulin Aspart for the Remaining Meals Versus Insulin Detemir Once or Twice Daily Plus Meal Time Insulin Aspart in Children and Adolescents With Type 1 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT00380575",
+            "excerpt": "Phase 3: Study of IV YM087 to Assess Efficacy and Safety in Patients With Euvolemic or Hypervolemic Hyponatremia"
+          },
+          {
+            "nct_id": "NCT00358579",
+            "excerpt": "Phase 3: Comparing Vasopressin and Adrenaline in Patients With Cardiac Arrest"
+          },
+          {
+            "nct_id": "NCT06149793",
+            "excerpt": "Phase 3: SGLT2 Inhibitor Therapy in Cystic Fibrosis-related Diabetes"
+          },
+          {
+            "nct_id": "NCT01370616",
+            "excerpt": "Phase 3: Ertapenem Sodium (MK-0826) Versus Piperacillin/Tazobactam Sodium for the Treatment of Diabetic Foot Infections in Chinese Adults (MK-0826-061)"
+          },
+          {
+            "nct_id": "NCT05463744",
+            "excerpt": "Phase 3: A Study of Insulin Efsitora Alfa (LY3209590) Compared With Insulin Degludec in Participants With Type 1 Diabetes Treated With Multiple Daily Injection Therapy"
+          },
+          {
+            "nct_id": "NCT03979352",
+            "excerpt": "Phase 3: Effect of SGLT2i in Conjunction With the Artificial Pancreas on Improving the Glycemia in T1DM in the Outpatient Setting"
+          },
+          {
+            "nct_id": "NCT02379299",
+            "excerpt": "Phase 3: DiaCon Dual-Hormone Closed-Loop Glucose Control"
+          }
+        ],
+        "phase": "Phase 3",
+        "trial_count": 48
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT04381429",
+            "excerpt": "Phase 4: Effect of Postprandial Insulin Administration of Faster-acting Insulin Analogue Versus Pre-prandial Administration of Acting-insulin Analogue in Cystic Fibrosis Related Diabetes"
+          },
+          {
+            "nct_id": "NCT03659383",
+            "excerpt": "Phase 4: The Exploration of Optimal Treatment Scheme in Patients With Type 2 Diabetes Inadequately Controlled With Glargine"
+          },
+          {
+            "nct_id": "NCT03878459",
+            "excerpt": "Phase 4: Dapagliflozin Plus Pioglitazone in T1DM"
+          },
+          {
+            "nct_id": "NCT05035082",
+            "excerpt": "Phase 4: A Research Study Comparing RYBELSUS® to Other Blood Sugar Lowering Tablets in People Living in America With Type 2 Diabetes (REALYSE)"
+          },
+          {
+            "nct_id": "NCT05119179",
+            "excerpt": "Phase 4: Pharmacogenetics of the Response to GLP-1 in Mexican-Americans With Prediabetes"
+          },
+          {
+            "nct_id": "NCT04283162",
+            "excerpt": "Phase 4: Using Calcium Dobesilate to Treat Chinese Patients With Mild to Moderate Non-proliferative Diabetic Retinopathy"
+          },
+          {
+            "nct_id": "NCT00240253",
+            "excerpt": "Phase 4: A Study Evaluating the Efficacy and Safety of Adding Symlin® to Lantus® (Insulin Glargine) in Subjects With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT05360537",
+            "excerpt": "Phase 4: Effects of Degludec/Liraglutide on Time in Range, Inflammation and Endothelial Function vs Insulin Basal Bolus in Diabetic Inpatients"
+          },
+          {
+            "nct_id": "NCT00950079",
+            "excerpt": "Phase 4: Prevention of Contrast-Induced Nephropathy in Diabetic Patients With Undergoing Coronary Angiography"
+          },
+          {
+            "nct_id": "NCT01677936",
+            "excerpt": "Phase 4: Study of Raisins Versus Alternative Snacks in Patients With Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT03838783",
+            "excerpt": "Phase 4: Flexible Insulin Therapy Untethered Insulin Regimen in Avidly Exercising Patients With Type 1 Diabetes: FIT Untethered"
+          },
+          {
+            "nct_id": "NCT03007329",
+            "excerpt": "Phase 4: Effects of Combined Dapagliflozin and Exenatide Versus Dapagliflozin and Placebo on Ectopic Lipids in Patients With Uncontrolled Type 2 Diabetes Mellitus."
+          },
+          {
+            "nct_id": "NCT05591339",
+            "excerpt": "Phase 4: Diabetes Diagnosis, Management, Prevention and Education in Guinea-Bissau"
+          },
+          {
+            "nct_id": "NCT03560375",
+            "excerpt": "Phase 4: Mediterranean Diet, Circuit Resistance Training, Empagliflozin in Elderly With Type 2 Diabetes: a Study Protocol"
+          },
+          {
+            "nct_id": "NCT01479075",
+            "excerpt": "Phase 4: The Effect of Central Insulin on Insulin Sensitivity and Energy Metabolism"
+          },
+          {
+            "nct_id": "NCT01589653",
+            "excerpt": "Phase 4: Comparing Patient-adjusted Versus Physician-adjusted Titration of BIAsp 30 Combined With Metformin in Type 2 Diabetes Patients"
+          },
+          {
+            "nct_id": "NCT02220920",
+            "excerpt": "Phase 4: Efficacy and Safety Study of Canagliflozin (TA-7284) in Combination With Insulin in Patients With Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT01997762",
+            "excerpt": "Phase 4: Can Resveratrol Improve Insulin Sensitivity and Preserve Beta Cell Function Following Gestational Diabetes?"
+          },
+          {
+            "nct_id": "NCT01603940",
+            "excerpt": "Phase 4: Comparison Between Losartan and Benazepril in Diabetic Hypertensive Patients Not Controlled by Amlodipine"
+          },
+          {
+            "nct_id": "NCT01560546",
+            "excerpt": "Phase 4: Testosterone Therapy of Men With Type 2 Diabetes Mellitus (T2DM)"
+          },
+          {
+            "nct_id": "NCT03958591",
+            "excerpt": "Phase 4: Effects of Short-term Intensive De-escalation Therapy on Long-term Regimen Simplification"
+          },
+          {
+            "nct_id": "NCT01779596",
+            "excerpt": "Phase 4: ET-blockade and Exercise Induced Blood Flow in T2DM"
+          },
+          {
+            "nct_id": "NCT00497003",
+            "excerpt": "Phase 4: Effect of Beta Blocker Treatment on Endothelial Function in Patients With Type 2 Diabetes or Chronic Heart Failure"
+          },
+          {
+            "nct_id": "NCT05727579",
+            "excerpt": "Phase 4: DiEtary Sodium Intake Effects on Ertugliflozin-induced Changes in GFR, reNal Oxygenation and Systemic Hemodynamics: the DESIGN Study"
+          },
+          {
+            "nct_id": "NCT01028846",
+            "excerpt": "Phase 4: Central Mechanisms That Regulate Glucose Metabolism in Humans"
+          },
+          {
+            "nct_id": "NCT03066089",
+            "excerpt": "Phase 4: Clinical Evaluation of Fenfuro (Fenugreek Seed Extract) in Type-2 Diabetic Subjects: an add-on Study"
+          },
+          {
+            "nct_id": "NCT01297569",
+            "excerpt": "Phase 4: Ranibizumab \"Treat and Extend\" in Diabetic Macular Edma"
+          },
+          {
+            "nct_id": "NCT01052597",
+            "excerpt": "Phase 4: Curcumin for Type 2 Diabetic Patients"
+          },
+          {
+            "nct_id": "NCT00752440",
+            "excerpt": "Phase 4: Inspiratory Muscle Training in Patients With Autonomic Neuropathic"
+          },
+          {
+            "nct_id": "NCT04559191",
+            "excerpt": "Phase 4: Atheroma Progression and Vulnerability Under Continuous Glucose Monitoring"
+          },
+          {
+            "nct_id": "NCT02307695",
+            "excerpt": "Phase 4: The Effect of Saxagliptin on Glucose Fluctuation and Immune Regulation in Patients With Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT05835037",
+            "excerpt": "Phase 4: Effect of Zinc on Glucose Homeostasis"
+          },
+          {
+            "nct_id": "NCT01375322",
+            "excerpt": "Phase 4: ADDM Study - Amtrel and Co-Diovan in Type 2 Diabetes Mellitus Hypertension Patients With Microalbuminuria"
+          },
+          {
+            "nct_id": "NCT03815305",
+            "excerpt": "Phase 4: Effect of Centella Asiatica on Xerotic Skin in Diabetes Mellitus Type 2"
+          },
+          {
+            "nct_id": "NCT03012529",
+            "excerpt": "Phase 4: Investigation of Rifampin to Reduce Pedal Amputations for Osteomyelitis in Diabetics"
+          },
+          {
+            "nct_id": "NCT00437970",
+            "excerpt": "Phase 4: Medication in Early Diabetes (MED) Study"
+          },
+          {
+            "nct_id": "NCT03910361",
+            "excerpt": "Phase 4: Efficacy and Safety of Evoglitin in Patients With Type 2 Diabetes and Non-alcoholic Fatty Liver Diseases"
+          },
+          {
+            "nct_id": "NCT00953186",
+            "excerpt": "Phase 4: Hyperbaric Oxygen Therapy as Adjunctive Treatment of Chronic Diabetic Foot Ulcers"
+          },
+          {
+            "nct_id": "NCT02333851",
+            "excerpt": "Phase 4: Basal-bolus and Premixed Insulin Regimens in Hospitalized Patients With Type 2 Diabetes (PININ Study)"
+          },
+          {
+            "nct_id": "NCT02046395",
+            "excerpt": "Phase 4: Effect of Renin-angiotensin-system Blockade on Urinary Free Light Chains in Patients With Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT01743014",
+            "excerpt": "Phase 4: Ramipril and Clopidogrel in Oxidative Stress, Vascular Inflammation and Endothelial Dysfunction in Type 2 Diabetes and Diabetic Nephropathy"
+          },
+          {
+            "nct_id": "NCT00572806",
+            "excerpt": "Phase 4: Initiation of Insulin Aspart in Type 2 Diabetes"
+          }
+        ],
+        "phase": "Phase 4",
+        "trial_count": 42
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT00500097",
+            "excerpt": "Not Applicable: Diabetic Retinopathy and Diabetic Macular Edema Screening by Non-Physicians With Limited Training"
+          },
+          {
+            "nct_id": "NCT03497260",
+            "excerpt": "Not Applicable: Fructose in Exercising Individuals With Type 1 Diabetes Using Insulin Degludec"
+          },
+          {
+            "nct_id": "NCT03687320",
+            "excerpt": "Not Applicable: Laser Therapy for At-Home Treatment of DIabetic Foot Ulcers"
+          },
+          {
+            "nct_id": "NCT03234946",
+            "excerpt": "Not Applicable: Effect of the CAIPaDi Care Model in Relatives of Patients With Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT03659461",
+            "excerpt": "Not Applicable: Glucagon-like Peptide-1 Levels, Insulin Resistance and Insulin Sensitivity Index in Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT00004983",
+            "excerpt": "Not Applicable: Education and Group Support for Diabetic Hispanics"
+          },
+          {
+            "nct_id": "NCT05993741",
+            "excerpt": "Not Applicable: Using AR Dental Care Training on Periodontal Status, Blood Sugar Control and QoL in Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT02486341",
+            "excerpt": "Not Applicable: Daily Glycaemic Variability in Frail or Disabled Older Patients With Diabetes Over 75 Treated With Basal Insulin"
+          },
+          {
+            "nct_id": "NCT06557005",
+            "excerpt": "Not Applicable: Facilitated Transitions From Postpartum to Primary Care Coordination for People With Chronic Conditions"
+          },
+          {
+            "nct_id": "NCT06683391",
+            "excerpt": "Not Applicable: Updating Preventive and Treatment Guidelines for Hypoglycemia in Individuals Living With Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT01973413",
+            "excerpt": "Not Applicable: Diabetes Assistant (DiAs) Control-to-Range (CTR) Nocturnal Closed-Loop Camp Study"
+          },
+          {
+            "nct_id": "NCT04861324",
+            "excerpt": "Not Applicable: Effects of a Lifestyle Intervention on Gestational Diabetes Management"
+          },
+          {
+            "nct_id": "NCT04332003",
+            "excerpt": "Not Applicable: Evaluating Remote Ischemic Conditioning (RIC) and Standard of Care vs. Sham Therapy and Standard Care"
+          },
+          {
+            "nct_id": "NCT06330727",
+            "excerpt": "Not Applicable: Effects of Coffee Consumption on Metabolic Markers in Adults With Prediabetes and Obesity"
+          },
+          {
+            "nct_id": "NCT02848261",
+            "excerpt": "Not Applicable: Remote Monitoring of Diabetes in Young Children With Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT01248286",
+            "excerpt": "Not Applicable: Effect of Whole Grain Diet on Insulin Sensitivity, Advanced Glycation End Products and Inflammatory Markers in Pre-diabetes"
+          },
+          {
+            "nct_id": "NCT04271631",
+            "excerpt": "Not Applicable: Integration of Education Based-Application and \"CARE Coaching Model\" in Management of Type 2 Diabetes Mellitus Patients Using Insulin"
+          },
+          {
+            "nct_id": "NCT01349374",
+            "excerpt": "Not Applicable: Skin Samples of Diabetic Patients and Healthy Volunteers Collection"
+          },
+          {
+            "nct_id": "NCT03358797",
+            "excerpt": "Not Applicable: Community-Based Lifestyle Intervention for Diabetes Prevention in Arab Women"
+          },
+          {
+            "nct_id": "NCT07063797",
+            "excerpt": "Not Applicable: Study on the Intervention Effect of Denosumab on High-Risk Patients With Osteoporotic Fractures in Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT05034380",
+            "excerpt": "Not Applicable: Epigenetic Effects of a Single Bout of Exercise on Cardiovascular Risk Factors and the Metabolome"
+          },
+          {
+            "nct_id": "NCT01373346",
+            "excerpt": "Not Applicable: Safety and Efficacy of Long Limb Roux-en Y Reconstruction"
+          },
+          {
+            "nct_id": "NCT07126041",
+            "excerpt": "Not Applicable: Scalable Public Health Empowerment, Research, and Education Sites (SPHERES)"
+          },
+          {
+            "nct_id": "NCT02461394",
+            "excerpt": "Not Applicable: User Performance Evaluation of Contour Plus, Accu-Chek Active, Accu-Chek Performa and OneTouch Select Simple Blood Glucose Monitoring Systems Following ISO 15197:2013"
+          },
+          {
+            "nct_id": "NCT06178094",
+            "excerpt": "Not Applicable: The Effects of Video Training Given to Individuals With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT01403831",
+            "excerpt": "Not Applicable: Trial to Examine Text-message Based mHealth in Emergency Department Patients With Diabetes"
+          },
+          {
+            "nct_id": "NCT07434791",
+            "excerpt": "Not Applicable: Goal-Directed Therapy to Reduce Kidney and Cardiovascular Risk in Diabetic Kidney Disease (GOLD-STANDARD)"
+          },
+          {
+            "nct_id": "NCT03702660",
+            "excerpt": "Not Applicable: Effect of GIP After a Meal in Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT07303842",
+            "excerpt": "Not Applicable: Effect of a Low Advanced Glycation End Products Diet of Patients With Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT02436369",
+            "excerpt": "Not Applicable: The Effect of Yogurt Enriched With Flaxseed on Cardiovascular Risk Factors in Type 2 Diabetic Patients"
+          },
+          {
+            "nct_id": "NCT04909983",
+            "excerpt": "Not Applicable: An Explorative Study of Treatment of Contact Dermatitis Due to DiabetesDevices"
+          },
+          {
+            "nct_id": "NCT02647905",
+            "excerpt": "Not Applicable: Evaluation of the Accuracy of an Implanted Glucose Sensor"
+          },
+          {
+            "nct_id": "NCT00223574",
+            "excerpt": "Not Applicable: Canadian Trial of Dietary Carbohydrates in Diabetes"
+          },
+          {
+            "nct_id": "NCT02463097",
+            "excerpt": "Not Applicable: Hybrid Closed Loop Pivotal Trial in Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT02282423",
+            "excerpt": "Not Applicable: PGC-1 & Muscle Mitochondrial Dysfunction in Diabetes"
+          },
+          {
+            "nct_id": "NCT06586970",
+            "excerpt": "Not Applicable: Occupational Therapy and Registered Dietitian Services to Reduce Fall Risk Among Home Delivered Meal Clients"
+          },
+          {
+            "nct_id": "NCT01912170",
+            "excerpt": "Not Applicable: Effect of Omega-3 Fatty Acids on Insulin Sensitivity in Chinese Gestational Diabetic Patients"
+          },
+          {
+            "nct_id": "NCT03372005",
+            "excerpt": "Not Applicable: The Effect of Floorball on Health and Performance in Subjects With Lifestyle Diseases"
+          },
+          {
+            "nct_id": "NCT05403502",
+            "excerpt": "Not Applicable: Safety Evaluation of an Advanced Hybrid Closed Loop System Using Lyumjev With the Tandem t:Slim X2 Insulin Pump With Control-IQ Technology in Adults, Adolescents and Children With Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT00869102",
+            "excerpt": "Not Applicable: Characterization of Beta Cell Failure"
+          },
+          {
+            "nct_id": "NCT02725502",
+            "excerpt": "Not Applicable: Incretin Axis in Type 1 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT04715737",
+            "excerpt": "Not Applicable: Differential Effects of Vasopressin and Oxytocin on Attention Control"
+          },
+          {
+            "nct_id": "NCT04198350",
+            "excerpt": "Not Applicable: Pancreatic Islet Transplantation to the Anterior Chamber of the Eye"
+          },
+          {
+            "nct_id": "NCT07089979",
+            "excerpt": "Not Applicable: Effectiveness of Glunovo Real-Time Continuous Glucose Monitoring in Adults With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT00985361",
+            "excerpt": "Not Applicable: Effect of Vitamin D Supplementation on Hemoglobin A1c in Patients With Uncontrolled Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT02852759",
+            "excerpt": "Not Applicable: A Cold Physical Treatment to Manage Insulin Resistance"
+          },
+          {
+            "nct_id": "NCT01224886",
+            "excerpt": "Not Applicable: Age and Insulin Resistance"
+          },
+          {
+            "nct_id": "NCT00331370",
+            "excerpt": "Not Applicable: Hypertension Related Damage to the Microcirculation in South Asian: Emergence, Predictive Power and Reversibility"
+          },
+          {
+            "nct_id": "NCT03055702",
+            "excerpt": "Not Applicable: Using Mobile Phone Short Message Service (SMS) Reminders to Enhance Appointment Attendance in DM Patients"
+          },
+          {
+            "nct_id": "NCT03950245",
+            "excerpt": "Not Applicable: Incretin Hormone Antagonism After Bariatric Surgery"
+          },
+          {
+            "nct_id": "NCT06560541",
+            "excerpt": "Not Applicable: Rice Intervention in Chronic Health Study"
+          },
+          {
+            "nct_id": "NCT04142229",
+            "excerpt": "Not Applicable: Artificial Pancreas With Different Stress Assessments in the Outpatient Setting"
+          },
+          {
+            "nct_id": "NCT06117631",
+            "excerpt": "Not Applicable: Project Sueño: Sleep & Understanding Early Nutrition in Obesity"
+          },
+          {
+            "nct_id": "NCT07135531",
+            "excerpt": "Not Applicable: Continuous Glucose Monitoring (CGM) in an Underserved Population"
+          },
+          {
+            "nct_id": "NCT07220213",
+            "excerpt": "Not Applicable: FELLAShip to Better Health"
+          },
+          {
+            "nct_id": "NCT02804620",
+            "excerpt": "Not Applicable: From Clinic to Community Study"
+          },
+          {
+            "nct_id": "NCT03547427",
+            "excerpt": "Not Applicable: Glucagon Counterregulation in Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT07136727",
+            "excerpt": "Not Applicable: AI-Assisted Comprehensive Management for Cancer Patients With Comorbidities (GCOG-CG001)"
+          },
+          {
+            "nct_id": "NCT03912012",
+            "excerpt": "Not Applicable: Pilot Study DiaDEP"
+          },
+          {
+            "nct_id": "NCT04418869",
+            "excerpt": "Not Applicable: Exercise in Adolescents With Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT00627029",
+            "excerpt": "Not Applicable: Evaluation of Programs of Coordinated Care and Disease Management"
+          },
+          {
+            "nct_id": "NCT06995131",
+            "excerpt": "Not Applicable: Evaluation of Aqueous Humor DEL-1 and IL-17 Levels in Diabetic Cataract Patients"
+          },
+          {
+            "nct_id": "NCT04432337",
+            "excerpt": "Not Applicable: Role of Type 2 Diabetes in Potentiating the Inflammatory Response Post Extracorporeal Circulation After Cardiac Surgery"
+          },
+          {
+            "nct_id": "NCT02643277",
+            "excerpt": "Not Applicable: Effectiveness of Automated Mobile Phone Based Text Messaging on the Improvement of Glycaemic Outcomes"
+          },
+          {
+            "nct_id": "NCT03167866",
+            "excerpt": "Not Applicable: Effect of Motivation Text Messages on Diabetes Patients"
+          },
+          {
+            "nct_id": "NCT03182972",
+            "excerpt": "Not Applicable: Intervention Study on Medication Reconciliation Among Pharmacists in Two Tertiary Hospitals in Nigeria"
+          },
+          {
+            "nct_id": "NCT05856877",
+            "excerpt": "Not Applicable: Central Insulin Sensitivity in Individuals With Type 2 Diabetes (T2D) and at Risk for Developing T2D"
+          },
+          {
+            "nct_id": "NCT02971241",
+            "excerpt": "Not Applicable: Intergenerational mHealth Diabetes Program OPPORTUNITIES PROGRAM IN TAIWAN"
+          },
+          {
+            "nct_id": "NCT00580294",
+            "excerpt": "Not Applicable: A Pilot Study of Switching From One Pain Medication to Another (Opioid Rotation)"
+          },
+          {
+            "nct_id": "NCT01209312",
+            "excerpt": "Not Applicable: Timing of Pre-meal Insulin Versus Accurate Carbohydrate Counting in Youth With Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT03483129",
+            "excerpt": "Not Applicable: 15-minute Individual Consultation to Improve Blood Glucose Control in Pre-diabetes"
+          },
+          {
+            "nct_id": "NCT01038102",
+            "excerpt": "Not Applicable: Role of Dietary Fatty Acids in Fatty Liver and Insulin Resistance"
+          },
+          {
+            "nct_id": "NCT04783441",
+            "excerpt": "Not Applicable: Use of CGM in Kidney Transplant Recipients"
+          },
+          {
+            "nct_id": "NCT03412253",
+            "excerpt": "Not Applicable: Could Single-anastomosis Gastric Bypass Be a Curative Treatment for Type II Diabetes?"
+          },
+          {
+            "nct_id": "NCT02186353",
+            "excerpt": "Not Applicable: Processing Responses of Grains (PRO-Grains) Study"
+          },
+          {
+            "nct_id": "NCT04583839",
+            "excerpt": "Not Applicable: SWEET: Postpartum Navigation After GDM"
+          },
+          {
+            "nct_id": "NCT06768177",
+            "excerpt": "Not Applicable: Platelet Rich Plasma (PRP) as Terapeutical Option in Erectil Disfunction (DE)"
+          },
+          {
+            "nct_id": "NCT05725330",
+            "excerpt": "Not Applicable: The Effect of Gamification on Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT06896669",
+            "excerpt": "Not Applicable: Effects of Vitamin D and Calcium on Hyperglycemia and Dyslipidemia in Patients Gestational Diabetes"
+          },
+          {
+            "nct_id": "NCT04326569",
+            "excerpt": "Not Applicable: Copeptin in the Diagnosis of Post-operative Insipidus Diabetes After Pituitary Surgery"
+          },
+          {
+            "nct_id": "NCT03263351",
+            "excerpt": "Not Applicable: Depression & Insulin Sensitivity in Adolescents"
+          },
+          {
+            "nct_id": "NCT07180251",
+            "excerpt": "Not Applicable: Impact of Glycemic Variability on People With Gastrointestinal Cancer and Diabetes After Surgery"
+          },
+          {
+            "nct_id": "NCT03545802",
+            "excerpt": "Not Applicable: Home-HIT and Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT01600937",
+            "excerpt": "Not Applicable: Italian Diabetes and Exercise Study 2"
+          },
+          {
+            "nct_id": "NCT00315939",
+            "excerpt": "Not Applicable: Improving Control and Reducing the Risk of Hypoglycemic Episodes in Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT02758275",
+            "excerpt": "Not Applicable: Teaching: Individual to Increase Adherence to Therapeutic Regimen in Hypertension Arterial and/or Diabetes Type 2"
+          },
+          {
+            "nct_id": "NCT07372677",
+            "excerpt": "Not Applicable: Pocket-X Gel Non-surgical Periodontal Therapy"
+          },
+          {
+            "nct_id": "NCT05439928",
+            "excerpt": "Not Applicable: Remote Glucose Monitoring System in Hospitalized Patients With Diabetic Ketoacidosis (DKA)"
+          },
+          {
+            "nct_id": "NCT07467967",
+            "excerpt": "Not Applicable: Impact of Date Consumption on Metabolic Control and Oxidative Stress in Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT01420692",
+            "excerpt": "Not Applicable: The Effects of Insulin Detemir and Gliclazide-MR Treatments on Endothelial Functions in Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT02723266",
+            "excerpt": "Not Applicable: Supporting American Indian/Alaska Native Mothers and Daughters in Reducing Gestational Diabetes Risk"
+          },
+          {
+            "nct_id": "NCT02444156",
+            "excerpt": "Not Applicable: Rowing Away From Diabetes"
+          },
+          {
+            "nct_id": "NCT00797212",
+            "excerpt": "Not Applicable: A New Glucose Meter With Alternative Site Testing"
+          },
+          {
+            "nct_id": "NCT03483467",
+            "excerpt": "Not Applicable: Omnigen DFU Pilot Study"
+          },
+          {
+            "nct_id": "NCT05670600",
+            "excerpt": "Not Applicable: The Effect of Foot and Ankle Exercise on Pain and Quality of Life in Patients With Diabetic Neuropathy"
+          },
+          {
+            "nct_id": "NCT03993990",
+            "excerpt": "Not Applicable: Effects of Empowerment-based Program on Post-discharge Glycemic Control, and Foot Ulcer"
+          },
+          {
+            "nct_id": "NCT05512624",
+            "excerpt": "Not Applicable: Integrating a Mental Health Intervention Into Primary Health Care for Refugees"
+          },
+          {
+            "nct_id": "NCT06893913",
+            "excerpt": "Not Applicable: Effect of Addition of Pyramidal Exercise to Intermittent Fasting on Dryness of Eye in Pre-diabetic Psoriasis Patients"
+          },
+          {
+            "nct_id": "NCT05399446",
+            "excerpt": "Not Applicable: Multi-Site Eating Disorder Prevention Program for Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT07111741",
+            "excerpt": "Not Applicable: Comparison of Posterior Slab Cast With Total Contact Cast in the Management of Diabetic Foot Ulcers"
+          },
+          {
+            "nct_id": "NCT00980941",
+            "excerpt": "Not Applicable: Types of Starch and Their Effect on Blood Glucose, Appetite and Food Intake"
+          },
+          {
+            "nct_id": "NCT05766774",
+            "excerpt": "Not Applicable: FEED-Cystic Fibrosis (FEED-CF)"
+          },
+          {
+            "nct_id": "NCT04662879",
+            "excerpt": "Not Applicable: Early Detection Initiative for Pancreatic Cancer"
+          },
+          {
+            "nct_id": "NCT07376486",
+            "excerpt": "Not Applicable: Duodenal ReCET as an Early Treatment for Type 2 DM"
+          },
+          {
+            "nct_id": "NCT03065140",
+            "excerpt": "Not Applicable: Muscle Fat Compartments and Turnover as Determinant of Insulin Sensitivity"
+          },
+          {
+            "nct_id": "NCT03710850",
+            "excerpt": "Not Applicable: Modification of Gut Microbiota in the Treatment of Insulin Resistance: a Personalized Approach"
+          },
+          {
+            "nct_id": "NCT06358118",
+            "excerpt": "Not Applicable: Buyuan-zhixiao Formula in the Treatment of Elderly Patients With Diabetes and Multiple Metabolic Disorders"
+          },
+          {
+            "nct_id": "NCT07415720",
+            "excerpt": "Not Applicable: Artichoke By-products Rich in Hydroxycinnamic Acids and Mediterranean Diet for Type 2 Diabetes Prevention."
+          },
+          {
+            "nct_id": "NCT02869659",
+            "excerpt": "Not Applicable: Valued EpiGenetic Glycemic ImprovEments Through Weight Loss"
+          },
+          {
+            "nct_id": "NCT01249742",
+            "excerpt": "Not Applicable: Sugarsquare. Focus on the Adolescent: Digital Treatment of Type 1 Diabetes Through the Internet"
+          },
+          {
+            "nct_id": "NCT01755273",
+            "excerpt": "Not Applicable: Effect of More Distal Enteral Bypass After Pancreaticoduodenectomy: A Prospective Multicenter Randomized Clinical Trial"
+          },
+          {
+            "nct_id": "NCT07226583",
+            "excerpt": "Not Applicable: Using a Personalized Decision Support Tool to Help People With Type 1 Diabetes Manage Exercise"
+          },
+          {
+            "nct_id": "NCT02699541",
+            "excerpt": "Not Applicable: The Effectiveness of Diabetes Self-Management Education Program Based on Behavioural Change Theory"
+          },
+          {
+            "nct_id": "NCT06750497",
+            "excerpt": "Not Applicable: Forearm Immobilization in T2D"
+          },
+          {
+            "nct_id": "NCT01252524",
+            "excerpt": "Not Applicable: Effect of Calcium Polycarbophil on Type II Diabetes Mellitus Control: a Randomized Double-blind Study"
+          },
+          {
+            "nct_id": "NCT02669524",
+            "excerpt": "Not Applicable: Dissection of the Gastrointestinal-mediated Glucose Disposal and Incretin Defect in Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT05483803",
+            "excerpt": "Not Applicable: Digital Health Intervention for Caregivers Emotional and Self-management Support of Children With Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT02105324",
+            "excerpt": "Not Applicable: The Summer Camp Study 2: Blood Glucose Control With a Bi-Hormonal Endocrine Pancreas"
+          },
+          {
+            "nct_id": "NCT01645696",
+            "excerpt": "Not Applicable: Three-day, In-clinic Evaluation of the BD 2nd Generation Continuous Glucose Sensor Device in Type 1 Diabetics"
+          },
+          {
+            "nct_id": "NCT01232946",
+            "excerpt": "Not Applicable: Cooperation of Insulin and GLP-1 on Myocardial Glucose Uptake"
+          },
+          {
+            "nct_id": "NCT02663661",
+            "excerpt": "Not Applicable: Insulin-Glucose-Glucagon Network: Defining a Type 1 Diabetes Progression Index"
+          },
+          {
+            "nct_id": "NCT06137586",
+            "excerpt": "Not Applicable: The Effect of Glucose-dependent Insulinotropic Polypeptide on the Alpha Cell Response to Hypoglycaemia in Patients with Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT00381186",
+            "excerpt": "Not Applicable: Impact of 3-year Lifestyle Intervention on Postprandial Glucose Metabolism: the SLIM Study"
+          },
+          {
+            "nct_id": "NCT03382873",
+            "excerpt": "Not Applicable: Augmented Care at Worksite for Diabetes Prevention"
+          },
+          {
+            "nct_id": "NCT04660240",
+            "excerpt": "Not Applicable: Randomized Trial Comparing Two Sirolimus-Eluting Stents in Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT04541797",
+            "excerpt": "Not Applicable: Stress Cardiac Magnetic Resonance of Asymptomatic Type 2 Diabetics with Cardiovascular High Risk to Measure Empagliflozin Impact on Myocardial Blood Flow (CATCH-EM)"
+          },
+          {
+            "nct_id": "NCT04653220",
+            "excerpt": "Not Applicable: Metabolic Response Evaluation of Low-sugar Snack Bars"
+          },
+          {
+            "nct_id": "NCT02419859",
+            "excerpt": "Not Applicable: A Study to Assess Insulin Delivery With PaQ® in Patients With Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT04443842",
+            "excerpt": "Not Applicable: Behavioural Economics-based Incentives in Adults With Type 2 Diabetes Pilot Study"
+          },
+          {
+            "nct_id": "NCT04100070",
+            "excerpt": "Not Applicable: Intensive Versus Standard One Year Monitoring on Glycaemic Control After Initiating CSII in Children With DT1. DEEP Study"
+          },
+          {
+            "nct_id": "NCT06208189",
+            "excerpt": "Not Applicable: Is the Degree of Perceived Effort During Resistance Exercise Important for Improvements in Blood Glucose"
+          },
+          {
+            "nct_id": "NCT03652389",
+            "excerpt": "Not Applicable: i-Matter: Investigating an mHealth Texting Tool for Embedding Patient-reported Data Into Diabetes Management"
+          },
+          {
+            "nct_id": "NCT02061124",
+            "excerpt": "Not Applicable: Effect of Bile Acid Sequestration on Postprandial GLP-1 Secretion, Glucose Homeostasis and Gut Microbiota"
+          },
+          {
+            "nct_id": "NCT04342624",
+            "excerpt": "Not Applicable: Investigation of Cinnamon Spice on Glucose Tolerance in Subjects With Pre-diabetes"
+          },
+          {
+            "nct_id": "NCT04650646",
+            "excerpt": "Not Applicable: Cardiovascular Effects of Exercise-related Hypoglycaemia in Patients With Type 1 Diabetes (Hypo Heart Exercise)"
+          },
+          {
+            "nct_id": "NCT01678742",
+            "excerpt": "Not Applicable: Effects of Jeju Red Horsehead Fish-based, High Protein Diet on Satiety and Incretin Hormones in Diabetes Patients"
+          },
+          {
+            "nct_id": "NCT03012074",
+            "excerpt": "Not Applicable: Episodic to Real-Time Care in Diabetes Self-Management"
+          },
+          {
+            "nct_id": "NCT01602718",
+            "excerpt": "Not Applicable: Physical Activity and Functioning in Home Dialysis Patients"
+          },
+          {
+            "nct_id": "NCT03878290",
+            "excerpt": "Not Applicable: RiSE to Prevent Cardiovascular Disease in African Americans"
+          },
+          {
+            "nct_id": "NCT05651490",
+            "excerpt": "Not Applicable: Problem Solving Treatment for Diabetes in Individuals With Poor Diabetes Control"
+          },
+          {
+            "nct_id": "NCT01783210",
+            "excerpt": "Not Applicable: Pregnancy Complications in Women With BMI>25 kg/m2 Enrolled in a Healthy Lifestyle and Eating Habits Program"
+          },
+          {
+            "nct_id": "NCT04003259",
+            "excerpt": "Not Applicable: Get-a-Grip Lifestyle Management Programme"
+          },
+          {
+            "nct_id": "NCT02835989",
+            "excerpt": "Not Applicable: Community Paramedicine at Home"
+          },
+          {
+            "nct_id": "NCT04306289",
+            "excerpt": "Not Applicable: tDCS and Pain Associated With Diabetic Neuropathy"
+          },
+          {
+            "nct_id": "NCT02088268",
+            "excerpt": "Not Applicable: Treatment of PRP on Diabetes Wound"
+          },
+          {
+            "nct_id": "NCT04585191",
+            "excerpt": "Not Applicable: Reducing Treatment Risk in Older Adults With Diabetes"
+          },
+          {
+            "nct_id": "NCT04185662",
+            "excerpt": "Not Applicable: Effects of Artificial Sweeteners on Glucose Metabolism in Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT00674518",
+            "excerpt": "Not Applicable: Changing Healthy Outcomes In Clinic Environments"
+          },
+          {
+            "nct_id": "NCT01510223",
+            "excerpt": "Not Applicable: The Effect of Macronutrients in the Diet on Digestive and Cardiovascular Health"
+          },
+          {
+            "nct_id": "NCT01713023",
+            "excerpt": "Not Applicable: Fructose and Glucose and TAS1R2 in Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT06148259",
+            "excerpt": "Not Applicable: SGLT Inhibitors Versus DDP4 Inhibitors and Prostate in Patient With Diabetes"
+          },
+          {
+            "nct_id": "NCT06196996",
+            "excerpt": "Not Applicable: Allogeneic Regenerative Islet Transplantation for the Treatment of Brittle Type 1 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT04887688",
+            "excerpt": "Not Applicable: Exciflex for Chronic Wound Therapy"
+          },
+          {
+            "nct_id": "NCT02458027",
+            "excerpt": "Not Applicable: Acute Food INtake Effect of Hemp Protein (A FINEH Protein) Trial - Part 2"
+          },
+          {
+            "nct_id": "NCT06005142",
+            "excerpt": "Not Applicable: Therapeutic Intervention of Eriomin Associated with Metformin in the Control of Hyperglycemia in Pre-Diabetic Patients"
+          },
+          {
+            "nct_id": "NCT05749029",
+            "excerpt": "Not Applicable: An Online, Compassion Intervention for Adults with Type 1 and Type 2 Diabetes Mellitus (T1DM; T2DM)."
+          },
+          {
+            "nct_id": "NCT02523131",
+            "excerpt": "Not Applicable: Home Testing of Day and Night Closed Loop With Pump Suspend Feature"
+          },
+          {
+            "nct_id": "NCT05443802",
+            "excerpt": "Not Applicable: Comparison of a Low Dose to a Standard Dose of Insulin in Adult DKA in ICU to Reduce Metabolic Complications"
+          },
+          {
+            "nct_id": "NCT06318442",
+            "excerpt": "Not Applicable: The GAPSID Study - How GLP-1 Analogues Prevent Steroid-Induced Diabetes"
+          },
+          {
+            "nct_id": "NCT03074383",
+            "excerpt": "Not Applicable: Improvement of Care for Outpatients With Type 2 Diabetes Through Self-Care Multidisciplinary Workshop for Diabetes"
+          },
+          {
+            "nct_id": "NCT04051229",
+            "excerpt": "Not Applicable: Exercise Training and Metabolic Flexibility in Prediabetes"
+          },
+          {
+            "nct_id": "NCT06334172",
+            "excerpt": "Not Applicable: The Role of Oxytocin in Regulating Blood Glucose"
+          },
+          {
+            "nct_id": "NCT06374277",
+            "excerpt": "Not Applicable: Pharmacy-led Transitions of Care Intervention to Improve Medication Adherence"
+          },
+          {
+            "nct_id": "NCT05409131",
+            "excerpt": "Not Applicable: Omnipod 5 System Compared to Pump Therapy"
+          },
+          {
+            "nct_id": "NCT06061237",
+            "excerpt": "Not Applicable: Effects of Aerobic Thai Dance in Patient With Diabetic Peripheral Neuropathy"
+          },
+          {
+            "nct_id": "NCT01677546",
+            "excerpt": "Not Applicable: Bolus Calculator and Wireless Communication With Blood Glucose Meter in Management of Type 1 Diabetes Mellitus (T1DM)."
+          },
+          {
+            "nct_id": "NCT02989688",
+            "excerpt": "Not Applicable: Glycaemic Response to Oral Nutrition Support During Haemodialysis"
+          },
+          {
+            "nct_id": "NCT03680794",
+            "excerpt": "Not Applicable: Soluble Cluster of Differentiation 160 (sCD160) in Sera and Intra-ocular Fluids: Association With Ischaemic Retinopathies"
+          },
+          {
+            "nct_id": "NCT06137222",
+            "excerpt": "Not Applicable: Prospective, Multicenter, RCT of the Tenex Ultrasound System"
+          },
+          {
+            "nct_id": "NCT05821322",
+            "excerpt": "Not Applicable: Blood Glucose Target Before and During Exercise in Adults With Type 1 Diabetes Using an Artificial Pancreas"
+          },
+          {
+            "nct_id": "NCT01571622",
+            "excerpt": "Not Applicable: Whey Protein on Posprandial Glucose, Insulin GLP-1, GIP and DPP4 in Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT07109102",
+            "excerpt": "Not Applicable: Long-Term Benefits of Eccentric Cycling Exercise in Patients With Type 2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT01858545",
+            "excerpt": "Not Applicable: A Comparative Efficacy Study: Treatment for Non-healing Diabetic Foot Ulcers"
+          },
+          {
+            "nct_id": "NCT03411395",
+            "excerpt": "Not Applicable: Efficacy of Different Doses of Amino Acids in 5AA+CrPic Water on Glucose Homeostasis in a Healthy Population."
+          },
+          {
+            "nct_id": "NCT03673969",
+            "excerpt": "Not Applicable: Mini Gastric Bypass vs Roux enY Gastric Bypass"
+          },
+          {
+            "nct_id": "NCT06245369",
+            "excerpt": "Not Applicable: SWITCH Diets Study: Self-monitoring With Internet Technology to Choose Healthy Diets"
+          },
+          {
+            "nct_id": "NCT02497170",
+            "excerpt": "Not Applicable: Implementation of A Patient Centered Self-Management Program for Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT00568854",
+            "excerpt": "Not Applicable: Immunobiology of Diabetes and Tuberculosis"
+          },
+          {
+            "nct_id": "NCT04597229",
+            "excerpt": "Not Applicable: Efficacy of Multigrain Supplementation in Type II Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT06810986",
+            "excerpt": "Not Applicable: Cohort Study Evaluating Glycaemic Control in Individuals with Type 2 Diabetes Mellitus Through Digital Therapeutics (DM DTx)"
+          },
+          {
+            "nct_id": "NCT00708266",
+            "excerpt": "Not Applicable: The Influence of Fatty-Acids on Systemic and Subcutaneous Cytokines"
+          },
+          {
+            "nct_id": "NCT06724822",
+            "excerpt": "Not Applicable: RF Vapor Ablation Retreatment of Duodenal Mucosa in Non-responders With Type-2 Diabetes Mellitus"
+          },
+          {
+            "nct_id": "NCT05357742",
+            "excerpt": "Not Applicable: Basic Needs Navigation Intervention to Address Multidimensional Adversity in African Americans With Diabetic Kidney Disease"
+          },
+          {
+            "nct_id": "NCT00073294",
+            "excerpt": "Not Applicable: Insulin Resistance and Insulin Secretion"
+          },
+          {
+            "nct_id": "NCT01956357",
+            "excerpt": "Not Applicable: Chronic Effects of Two Aerobic-training Models Performed in Water and on Dry Land in Patients With Type 2 Diabetes Mellitus (T2DM)."
+          },
+          {
+            "nct_id": "NCT04064203",
+            "excerpt": "Not Applicable: The Effect of Insulin-induced Hypoglycaemia on Gut-derived Glucagon Secretion (Px-Hypo)"
+          },
+          {
+            "nct_id": "NCT06617273",
+            "excerpt": "Not Applicable: Cataract Surgery with Near Normal Eye Pressure in Patients with Diabetic Retinopathy"
+          },
+          {
+            "nct_id": "NCT03804983",
+            "excerpt": "Not Applicable: Safety and Efficacy of Initializing the Control-IQ Artificial Pancreas System Using Total Daily Insulin"
+          },
+          {
+            "nct_id": "NCT03309254",
+            "excerpt": "Not Applicable: Role of Glycaemic Index and High Protein Meal in Response of Blood Biomarkers for Pre-diabetes"
+          },
+          {
+            "nct_id": "NCT01062529",
+            "excerpt": "Not Applicable: Peripheral Metabolic Effects of Somatostatin"
+          },
+          {
+            "nct_id": "NCT03885362",
+            "excerpt": "Not Applicable: Assessment of the Accuracy of Continuous Glucose Sensors in People With Diabetes Undergoing Haemodialysis"
+          },
+          {
+            "nct_id": "NCT05661799",
+            "excerpt": "Not Applicable: Persistence of Physical Activity in People With Type 2 Diabetes Over Time."
+          },
+          {
+            "nct_id": "NCT05353699",
+            "excerpt": "Not Applicable: Implementation of a Comprehensive Intervention on Hypertension（HTN） and Type 2 Diabetes Mellitus（DM） at PHC Level"
+          },
+          {
+            "nct_id": "NCT00318032",
+            "excerpt": "Not Applicable: A Study to Investigate the Benefits of the Early Detection and Intensive Treatment of Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT05190198",
+            "excerpt": "Not Applicable: Effect of Ankle Proprioception Training in Type 2 Diabetic Neuropathy"
+          },
+          {
+            "nct_id": "NCT05180604",
+            "excerpt": "Not Applicable: The Application and Evaluation of eHealth Literacy (eHL) Concept"
+          },
+          {
+            "nct_id": "NCT06774404",
+            "excerpt": "Not Applicable: Flash Glucose Monitoring Targets in Gestational Diabetes"
+          },
+          {
+            "nct_id": "NCT06317584",
+            "excerpt": "Not Applicable: Empowerment-based Complementary and Alternative Medicine (ECAM)"
+          },
+          {
+            "nct_id": "NCT04204733",
+            "excerpt": "Not Applicable: Mobile Physical Activity for Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT04801485",
+            "excerpt": "Not Applicable: D-chiro Inositol in Prevention of Gestational Diabetes Mellitus in China"
+          },
+          {
+            "nct_id": "NCT05862311",
+            "excerpt": "Not Applicable: The Effect of Non-Surgical Periodontal Treatment on Bone Metabolism in Type 2 Diabetes and Systemically Healthy Individuals"
+          },
+          {
+            "nct_id": "NCT03747471",
+            "excerpt": "Not Applicable: Conversation Map and Diabetes in Pakistan"
+          },
+          {
+            "nct_id": "NCT06970834",
+            "excerpt": "Not Applicable: Explore the Effect of Bitter Melon Peptides on Glycemic Control and Metabolic Indicators in Diabetic Patients"
+          },
+          {
+            "nct_id": "NCT01334606",
+            "excerpt": "Not Applicable: Evaluation of a 4mmx32G Pen Needle for Injection of Basal Insulin Doses Above 40 Units"
+          },
+          {
+            "nct_id": "NCT02082184",
+            "excerpt": "Not Applicable: An Evaluation of a Novel Glucose Sensing Technology in Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT03748433",
+            "excerpt": "Not Applicable: Assessment of the Impact of Real-Time Continuous Glucose Monitoring on People Presenting With Severe Hypoglycaemia"
+          },
+          {
+            "nct_id": "NCT01840358",
+            "excerpt": "Not Applicable: Hypoglycemia at Initiation of Pump Therapy in Children With Type 1 Diabetes"
+          },
+          {
+            "nct_id": "NCT02956655",
+            "excerpt": "Not Applicable: Effect of Fasting Therapy on Blood Glucose Control and Islet Function in Newly Diagnosed Type 2 Diabetic Patients"
+          },
+          {
+            "nct_id": "NCT02066155",
+            "excerpt": "Not Applicable: Ongoing Diabetes Self-Management Support in Church-Based Settings"
+          }
+        ],
+        "phase": "Not Applicable",
+        "trial_count": 209
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT01315756",
+            "excerpt": "Early_Phase1: Self-management in Type 2 Diabetes Patients Using the Few Touch Application"
+          },
+          {
+            "nct_id": "NCT00609102",
+            "excerpt": "Early_Phase1: Antioxidant Treatment of Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT01940302",
+            "excerpt": "Early_Phase1: Dietary Supplement of LEHEL for the Patients With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT04203927",
+            "excerpt": "Early_Phase1: Effects of Empagliflozin on Cardiac Microvasculature and Insulin Sensitivity in Subjects With Type 2 Diabetes"
+          },
+          {
+            "nct_id": "NCT01484457",
+            "excerpt": "Early_Phase1: Controlled Insulin Delivery: Combining Technology With Treatment"
+          },
+          {
+            "nct_id": "NCT03632759",
+            "excerpt": "Early_Phase1: Targeting Beta Cell Dysfunction With Liraglutide or Golimumab in Longstanding T1D"
+          },
+          {
+            "nct_id": "NCT02236754",
+            "excerpt": "Early_Phase1: Evaluation of 18 F-FP-DTBZ Pancreatic PET Scanning as a Tool to Measure Beta Cell Mass"
+          },
+          {
+            "nct_id": "NCT03356457",
+            "excerpt": "Early_Phase1: Development of Agents to Diminish the Risk of Hypoglycemia-induced Brain Injury in Type 1 Diabetes"
+          }
+        ],
+        "phase": "Early_Phase1",
+        "trial_count": 8
+      }
+    ]
+  },
+  "meta": {
+    "filters": {
+      "query.cond": "Diabetes"
+    },
+    "sources": [
+      "clinicaltrials.gov"
+    ],
+    "notes": [],
+    "record_count": 500,
+    "generated_at": "2026-03-19T02:26:02"
+  }
+}

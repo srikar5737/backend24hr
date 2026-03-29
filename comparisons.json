@@ -1,0 +1,2090 @@
+{
+  "visualization": {
+    "type": "bar_chart",
+    "title": "Trials by Sponsor Class for Lung Cancer",
+    "encoding": {
+      "x": {
+        "field": "sponsor_class",
+        "label": null,
+        "data_type": "nominal",
+        "aggregate": null,
+        "time_granularity": null,
+        "unit": null
+      },
+      "y": {
+        "field": "trial_count",
+        "label": null,
+        "data_type": "quantitative",
+        "aggregate": "count",
+        "time_granularity": null,
+        "unit": null
+      },
+      "color": null,
+      "series": null,
+      "size": null,
+      "label": null,
+      "node_id": null,
+      "node_label": null,
+      "node_group": null,
+      "source": null,
+      "target": null,
+      "weight": null,
+      "tooltip": []
+    },
+    "data": [
+      {
+        "citations": [
+          {
+            "nct_id": "NCT03270670",
+            "excerpt": "Other: Olympus - 19-gauge Needle"
+          },
+          {
+            "nct_id": "NCT05098210",
+            "excerpt": "Other: Personalized Neo-Antigen Peptide Vaccine for the Treatment of Stage IIIC-IV Melanoma, Hormone Receptor Positive HER2 Negative Metastatic Refractory Breast Cancer or Stage III-IV Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04638582",
+            "excerpt": "Other: Pembrolizumab as Neoadjuvant Therapy for Resectable Stage IA3 to IIA Non-Small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT04672759",
+            "excerpt": "Other: A Real-world Study of Durvalumab for Lung Cancer in China"
+          },
+          {
+            "nct_id": "NCT02417662",
+            "excerpt": "Other: Stereotactic Ablative Radiotherapy for Oligometastatic Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02769286",
+            "excerpt": "Other: Osimertinib in First and Second Line Treatment of NSCLC Harboring EGFR Mutations From Circulating Tumor DNA"
+          },
+          {
+            "nct_id": "NCT05840770",
+            "excerpt": "Other: Cemiplimab for the Treatment of Untreated Brain Metastases From PD-L1 >= 50% Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02331056",
+            "excerpt": "Other: Could the Stroke Volume Variation Predict a Fluid Responsiveness in Thoracotomy?"
+          },
+          {
+            "nct_id": "NCT01017679",
+            "excerpt": "Other: Gefitinib 500mg Versus 250mg in Patients With NSCLC With Stable Disease After a Month Treatment of Gefitinib 250mg"
+          },
+          {
+            "nct_id": "NCT00585741",
+            "excerpt": "Other: Pilot Study of 18F-FLT PET"
+          },
+          {
+            "nct_id": "NCT04507594",
+            "excerpt": "Other: Measurement of Diaphragmatic Dysfunction After Thoracic Surgery"
+          },
+          {
+            "nct_id": "NCT02225405",
+            "excerpt": "Other: Cisplatin, Docetaxel, and Nintedanib Before Surgery in Treating Patients With Previously Untreated Stage IB-IIIA Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04324151",
+            "excerpt": "Other: Pembrolizumab Combined With Double Platinum Based Chemotherapy for Potentially Resectable NSCLC"
+          },
+          {
+            "nct_id": "NCT05046951",
+            "excerpt": "Other: Educating QUitline Callers About Lung Cancer Screening"
+          },
+          {
+            "nct_id": "NCT03999710",
+            "excerpt": "Other: Determining Whether Durvalumab in Combination With Radiation Therapy Can Prevent the Progression of Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00871923",
+            "excerpt": "Other: Tarceva With Whole Brain Radiation Therapy - Brain Mets From Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04914624",
+            "excerpt": "Other: Effects of Different Physical Therapy Programs on Pulmonary Rehabilitation in Patients With Lung Cancer"
+          },
+          {
+            "nct_id": "NCT01320059",
+            "excerpt": "Other: Study of 18F-Fluoro-PEG6-IPQA"
+          },
+          {
+            "nct_id": "NCT07159659",
+            "excerpt": "Other: Post-operative Medium Chain Triglyceride Diet May Reduce Hospital Stay Following Lung Resection"
+          },
+          {
+            "nct_id": "NCT05456841",
+            "excerpt": "Other: Empathic Communication Skills (ECS) Training"
+          },
+          {
+            "nct_id": "NCT06891183",
+            "excerpt": "Other: Percutaneous Thermal Ablation in Lung Tumors"
+          },
+          {
+            "nct_id": "NCT04026841",
+            "excerpt": "Other: The Efficacy of PD-1 Antibody Sintilimab on Early-stage Multiple Primary Lung Cancer With Ground Glass Density."
+          },
+          {
+            "nct_id": "NCT06876402",
+            "excerpt": "Other: Gene Molecular Alterations as Disease Prognostic Markers in Patients With Non-small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT02432560",
+            "excerpt": "Other: Safety and Durability of Sirolimus for Treatment of LAM"
+          },
+          {
+            "nct_id": "NCT02095782",
+            "excerpt": "Other: Chemotherapy and Erlotinib for Lung Cancer With Low Abundance Epidermal Growth Factor Receptor Mutation"
+          },
+          {
+            "nct_id": "NCT04289259",
+            "excerpt": "Other: Tumor Mutational Burden in Lung Cancer Patients"
+          },
+          {
+            "nct_id": "NCT04749394",
+            "excerpt": "Other: A Study of Camrelizumab Plus Apatinib as Consolidation Therapy in Non-Small Cell Lung Cancer Patients Treated With Chemoradiotherapy"
+          },
+          {
+            "nct_id": "NCT01796288",
+            "excerpt": "Other: The Value of Radiotherapy in the Oligometastatic Non-squamous Non-small Cell Lung Cancer With Clinical Benefits From Erlotinib as Second-line Treatment"
+          },
+          {
+            "nct_id": "NCT02788461",
+            "excerpt": "Other: Assessing the Efficacy and Safety of Selective Metabolically Adaptive Radiation Dose Escalation in Locally Advanced Non-Small Cell Lung Cancer Receiving Definitive Chemoradiotherapy"
+          },
+          {
+            "nct_id": "NCT04004494",
+            "excerpt": "Other: 3D Reconstruction in Video-assisted Thoracoscopic Surgery (VATS) Segmentectomy"
+          },
+          {
+            "nct_id": "NCT01877902",
+            "excerpt": "Other: Study Of Use Of Pemetrexed In Patients With Non-Small Lung Cancer Metastatic In Andalusian Public Health System"
+          },
+          {
+            "nct_id": "NCT02978586",
+            "excerpt": "Other: A Pilot Study of [Ga-68]PSMA PET/MRI for the Assessment of PSMA-positive Tumors"
+          },
+          {
+            "nct_id": "NCT06966583",
+            "excerpt": "Other: NAD+ Supplement（NMN）With Radioimmunotherapy in Advanced NSCLC"
+          },
+          {
+            "nct_id": "NCT01579994",
+            "excerpt": "Other: Crizotinib and Ganetespib (STA-9090) in ALK Positive Lung Cancers"
+          },
+          {
+            "nct_id": "NCT06843629",
+            "excerpt": "Other: Clinical Application of PET Imaging Targeting MSLN in Malignant Tumors"
+          },
+          {
+            "nct_id": "NCT07409129",
+            "excerpt": "Other: Tubeless Strategy for Enhanced Recovery After Sublobar Resection"
+          },
+          {
+            "nct_id": "NCT07132918",
+            "excerpt": "Other: HEARTS Trial for Thoracic Cancers"
+          },
+          {
+            "nct_id": "NCT02837679",
+            "excerpt": "Other: Oncogeriatric Intervention and Follow-up at Home"
+          },
+          {
+            "nct_id": "NCT04697927",
+            "excerpt": "Other: A Study of Risk Factors for the COVID-19 Virus Infection"
+          },
+          {
+            "nct_id": "NCT05799027",
+            "excerpt": "Other: Raman Spectroscopic Analysis of Bronchoscopic Biopsy for Diagnosing Lung Cancer"
+          },
+          {
+            "nct_id": "NCT06326957",
+            "excerpt": "Other: Reducing Chronic Breathlessness in Adults by Following a Self-guided, Internet Based Supportive Intervention (SELF-BREATHE)"
+          },
+          {
+            "nct_id": "NCT00724581",
+            "excerpt": "Other: Amiodarone Prophylaxis for Atrial Fibrillation in Patients Undergoing Surgery for Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02308865",
+            "excerpt": "Other: Early Palliative Care in Metastatic Lung Cancer in Northern France"
+          },
+          {
+            "nct_id": "NCT00693836",
+            "excerpt": "Other: Studying Patterns, Causes, and Control of Disease in Patients With Lung Cancer in the North Trent (England) Region"
+          },
+          {
+            "nct_id": "NCT05427136",
+            "excerpt": "Other: Early Pulmonary Dysfunction in Childhood Cancer Patients"
+          },
+          {
+            "nct_id": "NCT04375566",
+            "excerpt": "Other: Progressive Web App About Individualized Patient Decision Aid for NSCLC Stage I-II"
+          },
+          {
+            "nct_id": "NCT00627029",
+            "excerpt": "Other: Evaluation of Programs of Coordinated Care and Disease Management"
+          },
+          {
+            "nct_id": "NCT04010357",
+            "excerpt": "Other: Targeted Therapy With CDK4/6 Inhibitors in Chemo-Refractory, Rb Wild-Type Extensive SCLC"
+          },
+          {
+            "nct_id": "NCT07307157",
+            "excerpt": "Other: Head-to-Head Evaluation of the Cancer Ontology Supervised Multimodal Orchestration (COSMO) AI System Versus Pathologist-Only Review"
+          },
+          {
+            "nct_id": "NCT04297605",
+            "excerpt": "Other: Study of Pembrolizumab and Single Agent Chemotherapy as First Line Treatment for Patients With Locally Advanced or Metastatic Non-small Cell Lung Cancer With Eastern Cooperative Oncology Group (ECOG) Performance Status of 2"
+          },
+          {
+            "nct_id": "NCT06718972",
+            "excerpt": "Other: A Real-world Study on the Treatment of Non-small Cell Lung Cancer With Leptomeningeal Metastasis in China"
+          },
+          {
+            "nct_id": "NCT03349372",
+            "excerpt": "Other: Impact of Pulmonary Follow-up After Stem Cell Graft"
+          },
+          {
+            "nct_id": "NCT07463677",
+            "excerpt": "Other: Tunlametinib Combination Therapy in KRAS-Mutated Unresectable Locally Advanced or Metastatic Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04706754",
+            "excerpt": "Other: Pan-Canadian Lung Cancer Observational Study (PALEOS)"
+          },
+          {
+            "nct_id": "NCT02950337",
+            "excerpt": "Other: Stereotactic Body Radiation Therapy for Un-biopsied Early- Stage Non Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00950365",
+            "excerpt": "Other: Pemetrexed Disodium With or Without Erlotinib Hydrochloride in Treating Patients With Stage IIIB-IV or Recurrent Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT03411967",
+            "excerpt": "Other: Apatinib in Combination With Docetaxel for Patients With Advanced NSCLC"
+          },
+          {
+            "nct_id": "NCT04263051",
+            "excerpt": "Other: Evaluation of UCPVax Plus Nivolumab as Second Line Therapy in Advanced Non Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00276029",
+            "excerpt": "Other: TNF Alpha in Refractory Asthma"
+          },
+          {
+            "nct_id": "NCT03661801",
+            "excerpt": "Other: Novel Pleural Fluid, Biopsy and Serum Biomarkers for the Investigation of Pleural Effusions"
+          },
+          {
+            "nct_id": "NCT01926483",
+            "excerpt": "Other: Phase II Trial of Regimen for Stage III (N2) NSCLC Using Induction Treatment Followed by Resection"
+          },
+          {
+            "nct_id": "NCT04148066",
+            "excerpt": "Other: ctDNA Guided Treatment of Early Resistance to Targeted Treatment"
+          },
+          {
+            "nct_id": "NCT05704166",
+            "excerpt": "Other: PirfenidoneVsPlacebo as Prophylaxis Against Acute Radiation-induced Lung Injury Following HFRT in Breast Cancer Patients"
+          },
+          {
+            "nct_id": "NCT07332156",
+            "excerpt": "Other: Lung Cancer Risk in Type 2 Diabetes With COPD: SGLT2 Inhibitors vs. Sulfonylureas"
+          },
+          {
+            "nct_id": "NCT06341231",
+            "excerpt": "Other: Personalized Anticoagulant Therapy for Pulmonary Thromboembolism"
+          },
+          {
+            "nct_id": "NCT07227077",
+            "excerpt": "Other: Dosing Physical Activity Among Older Cancer Survivors Who Experience Chronic Pain: a Micro-randomized Trial"
+          },
+          {
+            "nct_id": "NCT05355675",
+            "excerpt": "Other: The Association of Microbiota Composition With cGVHD After Allo-HSCT"
+          },
+          {
+            "nct_id": "NCT00568841",
+            "excerpt": "Other: Erlotinib and Sequential Positron Emission Tomography (PET) in Advanced Non Small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT02331394",
+            "excerpt": "Other: A Feasibility Study of Chinese Herbs to Manage Cancer-related Symptoms in Patients With Advanced NSCLC"
+          },
+          {
+            "nct_id": "NCT05965102",
+            "excerpt": "Other: Tirellizumab Combined With Chemotherapy Monotherapy for Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04842812",
+            "excerpt": "Other: Engineered TILs/CAR-TILs to Treat Advanced Solid Tumors"
+          },
+          {
+            "nct_id": "NCT03786419",
+            "excerpt": "Other: A Study of Atezolizumab in Unresectable or Advaced Malignant Pleural Mesothelioma"
+          },
+          {
+            "nct_id": "NCT05039905",
+            "excerpt": "Other: SLN Detection With Tc-MSA-ICG in Lung Cancer Patients"
+          },
+          {
+            "nct_id": "NCT05803395",
+            "excerpt": "Other: Incidence of Severe COVID-19 Infection in Patients With CLL or B-NHL Who Received Pre-exposure Prophylaxis With Tixagevimab and Cilgavimab in Italy."
+          },
+          {
+            "nct_id": "NCT02351505",
+            "excerpt": "Other: Selinexor in Treating Patients With Relapsed Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT03455556",
+            "excerpt": "Other: Anetumab Ravtansine and Atezolizumab in Treating Participants With Advanced Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT05471401",
+            "excerpt": "Other: GI Organ Tracking Via Balloon Applicators"
+          },
+          {
+            "nct_id": "NCT00799240",
+            "excerpt": "Other: MK-0646 Insulin Growth Factor 1 Receptor Antibody in Stage IIIb or IV Metastatic Non-Squamous Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00148291",
+            "excerpt": "Other: Phase III Study of Docetaxel Vs Vinorelbine in Elderly Patients With Advanced Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04059874",
+            "excerpt": "Other: Treatment of Non-small Cell Lung Cancer With PD-1 Monoclonal Antibody Combined With Donafenib Toluene Sulfonate"
+          },
+          {
+            "nct_id": "NCT04083859",
+            "excerpt": "Other: Digital Outreach Intervention for Lung Cancer Screening"
+          },
+          {
+            "nct_id": "NCT06516796",
+            "excerpt": "Other: Omitting of Lymphadenectomy is Acceptable for Lung Cancer Smaller Than 6 mm in Solid Size"
+          },
+          {
+            "nct_id": "NCT02005120",
+            "excerpt": "Other: Intrapleural Administration of Bevacizumab Versus Endostar for Pleural Effusions in NSCLC"
+          },
+          {
+            "nct_id": "NCT05985824",
+            "excerpt": "Other: The Effect of Pranayama Breathing Exercise on Quality of Life in Lung Cancer Patients"
+          },
+          {
+            "nct_id": "NCT05068973",
+            "excerpt": "Other: Evaluation of the NOVATECH ® LUCIOLA TM EB Fiducial Marker During Radiotherapy Sessions in Lung Cancer Patients"
+          },
+          {
+            "nct_id": "NCT00410683",
+            "excerpt": "Other: Radiation Therapy in Treating Patients With Non Small Cell Lung Cancer That Has Been Completely Removed by Surgery"
+          },
+          {
+            "nct_id": "NCT06054854",
+            "excerpt": "Other: Biobank for the Identification of Biomarkers in Lung Cancer (BIRD, Biomarkers in Respiratory Disease)"
+          },
+          {
+            "nct_id": "NCT01465854",
+            "excerpt": "Other: French Biological Observatory on Lung Cancer in Never Smokers"
+          },
+          {
+            "nct_id": "NCT07370805",
+            "excerpt": "Other: 18F-FAPI PET in Lung Cancer"
+          },
+          {
+            "nct_id": "NCT03207594",
+            "excerpt": "Other: Improving Evidence-Based Care for Cancer Patients"
+          },
+          {
+            "nct_id": "NCT00500513",
+            "excerpt": "Other: Tracking of Respiratory-Induced Tumor Motion Using Implanted Fiducials"
+          },
+          {
+            "nct_id": "NCT05058560",
+            "excerpt": "Other: Tislelizumab in Addition to BACE in Patients with NSCLC"
+          },
+          {
+            "nct_id": "NCT01301560",
+            "excerpt": "Other: Chemotherapy With or Without Radiosurgery for Asymptomatic Oligo Brain Metastasis"
+          },
+          {
+            "nct_id": "NCT02819024",
+            "excerpt": "Other: Dexamethasone Effects in Patients With Refractory Non-Small Cell Lung Cancer Using FLT Positron Emission Tomography"
+          },
+          {
+            "nct_id": "NCT06444373",
+            "excerpt": "Other: Artificial Intelligence in Lung Cancer Screening"
+          },
+          {
+            "nct_id": "NCT05251805",
+            "excerpt": "Other: The Safety and Feasibility of Costal Bone Marrow Aspiration During Thoracic Surgery"
+          },
+          {
+            "nct_id": "NCT06929390",
+            "excerpt": "Other: Comparing BTVA and MWA in COPD With Early Lung Cancer: Efficacy and Safety"
+          },
+          {
+            "nct_id": "NCT01482182",
+            "excerpt": "Other: Predictive Value of FDG PET/CT, DWI and DCE-MRI Scans for Non-small Cell Lung Cancer Patients Receiving Chemotherapy"
+          },
+          {
+            "nct_id": "NCT00540982",
+            "excerpt": "Other: Vinorelbine in Treating Patients With Advanced Solid Tumors That Have Not Responded to Treatment and Liver Dysfunction"
+          },
+          {
+            "nct_id": "NCT03598296",
+            "excerpt": "Other: The Affection of Two Chest Management for Enhanced Recovery Program After Video-assisted Thoracoscopic Lobectomy."
+          },
+          {
+            "nct_id": "NCT02777996",
+            "excerpt": "Other: Italian Lung Cancer Screening Trial (ITALUNG)"
+          },
+          {
+            "nct_id": "NCT03824327",
+            "excerpt": "Other: Papaverine and Stereotactic Body Radiotherapy (SBRT) for Non Small Cell Lung Cancer (NSCLC) or Lung Metastases"
+          },
+          {
+            "nct_id": "NCT06950697",
+            "excerpt": "Other: Development and Application of a Thrombosis Risk Prediction Model in Lung Cancer Patients Treated With Immune Checkpoint Inhibitors"
+          },
+          {
+            "nct_id": "NCT06081270",
+            "excerpt": "Other: Prospective Study on Resistance-associated Mutations in Metastatic Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04357873",
+            "excerpt": "Other: Efficacy of Immunotherapy Plus a Drug in Patients With Progressive Advanced Mucosal Cancer of Different Locations"
+          },
+          {
+            "nct_id": "NCT06419179",
+            "excerpt": "Other: Maintenance Durvalumab (MEDI4736) and Olaparib (AZD2281) After Standard 1st Line Treatment (Carboplatin/Cisplatin, Etoposide, Durvalumab) in HRD Positive Extensive Disease (ED) Small-cell Lung Cancer (SCLC)"
+          },
+          {
+            "nct_id": "NCT05819346",
+            "excerpt": "Other: Digital Lifestyle Intervention for Lung Cancer Survivors"
+          },
+          {
+            "nct_id": "NCT04397003",
+            "excerpt": "Other: Personalized Neoantigen Vaccine in Combination With Durvalumab (MEDI4736) in Extensive Stage Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00003491",
+            "excerpt": "Other: Antineoplaston Therapy in Treating Patients With Stage IV Lung Cancer"
+          },
+          {
+            "nct_id": "NCT03629691",
+            "excerpt": "Other: Study for Patients With Lung Metastatic Advanced Gastric Cancer and NSCLC Treated With Apatinib"
+          },
+          {
+            "nct_id": "NCT00004159",
+            "excerpt": "Other: Gemcitabine Plus Paclitaxel in Treating Patients With Advanced Non-small Cell Lung Cancer or Other Solid Tumor"
+          },
+          {
+            "nct_id": "NCT06068088",
+            "excerpt": "Other: Dietary Practices and Locally Advanced Lung Cancer (LUNGDIET)"
+          },
+          {
+            "nct_id": "NCT05891340",
+            "excerpt": "Other: Effects of Prehabilitation on Postoperative Recovery"
+          },
+          {
+            "nct_id": "NCT04274270",
+            "excerpt": "Other: SBRT With S1 Combined With Endostar in the Treatment of Lung Cancer"
+          },
+          {
+            "nct_id": "NCT01771289",
+            "excerpt": "Other: Neoadjuvant Concurrent Chemoradiation With Weekly Docetaxel/Cisplatin for Resectable IIIA-N2 NSCLC"
+          },
+          {
+            "nct_id": "NCT01402089",
+            "excerpt": "Other: Cytochrom p450 3A4 and 1A2 Phenotyping for the Individualization of Treatment With Sunitinib or Erlotinib in Cancer Patients"
+          },
+          {
+            "nct_id": "NCT02689050",
+            "excerpt": "Other: Optical Biopsy for Thoracic Lymph Nodes."
+          },
+          {
+            "nct_id": "NCT04634110",
+            "excerpt": "Other: Brigatinib Before Brain Irradiation Trial (B3i Trial)"
+          },
+          {
+            "nct_id": "NCT05970913",
+            "excerpt": "Other: PET-CT Predicting Lymph Nodes Metastasis"
+          },
+          {
+            "nct_id": "NCT01287962",
+            "excerpt": "Other: Apatinib in the Treatment of Advanced Non-squamous Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT06227546",
+            "excerpt": "Other: MGC018 in Patients With Relapsed or Refractory Extensive-Stage Small-Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02798003",
+            "excerpt": "Other: Food Reward in Cachexia Induced by Acute or Chronic Disease"
+          },
+          {
+            "nct_id": "NCT04085250",
+            "excerpt": "Other: Study of Nivolumab for Non-Small Cell Lung Cancer (Stage III) Following Neoadjuvant Chemotherapy Plus Nivolumab and Definitive Concurrent Chemoradiation Therapy"
+          },
+          {
+            "nct_id": "NCT00921310",
+            "excerpt": "Other: Temsirolimus and Pemetrexed for Recurrent or Refractory Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT05162196",
+            "excerpt": "Other: The Efficacy and Safety of Radiotherapy Plus Niraparib and Toripalimab in Patients With Recurrent Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00103142",
+            "excerpt": "Other: Vaccine Therapy in Treating Patients With Liver or Lung Metastases From Colorectal Cancer"
+          },
+          {
+            "nct_id": "NCT03780283",
+            "excerpt": "Other: Efficacy and Safety of Anlotinib as Maintenance Treatment After First-line Chemotherapy in SCLC"
+          },
+          {
+            "nct_id": "NCT01158456",
+            "excerpt": "Other: Metabolism of NNK Among African Americans"
+          },
+          {
+            "nct_id": "NCT01942629",
+            "excerpt": "Other: Prognostic Value of the Marker P63 in Adenocarcinoma of Lung, Breast, and Pancreas"
+          },
+          {
+            "nct_id": "NCT01131429",
+            "excerpt": "Other: A Chinese Randomized Crossover Study of Erlotinib Versus Docetaxel/Cisplatin in Previously Untreated Stage IIIB/IV Lung Adenocarcinoma With EGFR Mutations"
+          },
+          {
+            "nct_id": "NCT00502502",
+            "excerpt": "Other: Assessment of Symptom-Related Cytokines in Lung and Gastrointestinal (GI) Cancer Patients"
+          },
+          {
+            "nct_id": "NCT02387086",
+            "excerpt": "Other: Gefitinib Combined With Thalidomide to Treat NSCLC"
+          },
+          {
+            "nct_id": "NCT05201729",
+            "excerpt": "Other: Influence Factors of PD-1 Therapeutic Efficacy in Advanced Pancreatic Cancer"
+          },
+          {
+            "nct_id": "NCT06432972",
+            "excerpt": "Other: Accelerated Pulmonary Rehabilitation in the Preoperative Period"
+          },
+          {
+            "nct_id": "NCT02303977",
+            "excerpt": "Other: Phase II Study of Abraxane and Gemicitabine in Patients With Advanced Adenocarcinoma Non-Small Cell Lung Cancer Progressing After First-Line Platinum-Based Chemotherapy"
+          },
+          {
+            "nct_id": "NCT04730375",
+            "excerpt": "Other: Evaluation of the Effect of Different Doses Dexmedetomidine Infusion on Lung Mechanics and Oxygenation in Obese Patients"
+          },
+          {
+            "nct_id": "NCT06174857",
+            "excerpt": "Other: Efficacy of Osimertinib in Patients With Lung Cancer"
+          },
+          {
+            "nct_id": "NCT01562301",
+            "excerpt": "Other: Sublingual Anvirzel in Advance Non-Small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT05617742",
+            "excerpt": "Other: Comparison of 68Ga-FAPI-46 PET and 18F-FDG PET in Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00582283",
+            "excerpt": "Other: NM404 as an Imaging Agent in Patients With NSCLC"
+          },
+          {
+            "nct_id": "NCT00826683",
+            "excerpt": "Other: Detection of Circulating Endothelial Progenitors Cells (EPCs) in Non-small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT03811054",
+            "excerpt": "Other: The Efficacy and Drug Resistance Molecular Biology of Apatinib Combined With EGFR-TK1 Treated for Advanced Slow-progressed Non-Small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT00601094",
+            "excerpt": "Other: Vaccine Therapy in Treating Patients With Stage IIIB, Stage IV, or Recurrent Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04965831",
+            "excerpt": "Other: Furmonertinib as Perioperation Therapy in Stage IIIA-IIIB (N1-N2) Resectable EGFR Mutated Lung Adenocarcinoma (FRONT)"
+          },
+          {
+            "nct_id": "NCT03416231",
+            "excerpt": "Other: Apatinib Plus Docetaxel in Advanced Non-squamous Non-small Cell Lung Cancer(NSCLC)"
+          },
+          {
+            "nct_id": "NCT03960853",
+            "excerpt": "Other: Effects of Different Ventilation Patterns on Lung Injury"
+          },
+          {
+            "nct_id": "NCT03397745",
+            "excerpt": "Other: Bispectral Index Throughout Esophageal Cancer Operation"
+          },
+          {
+            "nct_id": "NCT01164046",
+            "excerpt": "Other: Long-term Treatment for Cancer Patients With Deep Venous Thrombosis or Pulmonary Embolism"
+          },
+          {
+            "nct_id": "NCT04631146",
+            "excerpt": "Other: Efficacy and Safety of Camrelizumab in Real-World Study"
+          },
+          {
+            "nct_id": "NCT03403361",
+            "excerpt": "Other: Dual-Energy CT on Plan Quality, Dose-delivery Accuracy, and Simulated Outcomes of Patients Treated With Proton or Photon Therapy"
+          },
+          {
+            "nct_id": "NCT02009605",
+            "excerpt": "Other: Icotinib in Previously Treated Non/Light-smoking Patients With Advanced Squamous Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT07272356",
+            "excerpt": "Other: Evaluation of Efficacy of Minimally Invasive Local Therapy for Lung Tumors and Its Impact on Breathing Function"
+          },
+          {
+            "nct_id": "NCT00004186",
+            "excerpt": "Other: Combination Chemotherapy in Treating Patients With Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT03389256",
+            "excerpt": "Other: Apatinib in the Treatment of Patients With EGFR T790M-Negative NSCLC"
+          },
+          {
+            "nct_id": "NCT03144622",
+            "excerpt": "Other: 18F-FSPG PET/CT Imaging in Patients With Cancers"
+          },
+          {
+            "nct_id": "NCT05552846",
+            "excerpt": "Other: Phase II Trial of Consolidative Thoracic Radiotherapy for ES-SCLC After Standard Care of Chemo-immunotherapy"
+          },
+          {
+            "nct_id": "NCT02130427",
+            "excerpt": "Other: A Volume, Motion, and Anatomically Adaptive Approach to Photon and Proton Beam Radiotherapy"
+          },
+          {
+            "nct_id": "NCT05764954",
+            "excerpt": "Other: A Study of Tumor-Treating Fields (TTFields) in People With Lung Adenocarcinoma"
+          },
+          {
+            "nct_id": "NCT05455424",
+            "excerpt": "Other: Niraparib Efficacy in Patient With Unresectable Mesothelioma"
+          },
+          {
+            "nct_id": "NCT04771559",
+            "excerpt": "Other: Evaluation of the Effect and Side Effect Profile of Covid-19 Vaccine in Cancer Patients"
+          },
+          {
+            "nct_id": "NCT00796796",
+            "excerpt": "Other: Temsirolimus and Radiation for Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT03992664",
+            "excerpt": "Other: Education Intervention in Patients with Rash Due to Epidermal Growth Factor Receptor (EGFR) Treatment."
+          },
+          {
+            "nct_id": "NCT05908799",
+            "excerpt": "Other: Emulation of the KEYNOTE-189 Trial Using Electronic Health Records"
+          },
+          {
+            "nct_id": "NCT07078032",
+            "excerpt": "Other: A Randomized Controlled Trial Evaluating the Effectiveness of a Novel Risk-Stratified Screening Strategy for Lung Cancer"
+          },
+          {
+            "nct_id": "NCT05443321",
+            "excerpt": "Other: Advancing Health Information Exchange (HIE) During Inter-hospital Transfer (IHT) to Improve Patient Outcomes"
+          },
+          {
+            "nct_id": "NCT05378633",
+            "excerpt": "Other: The CyberChallenge Trial How Much is Too Much - What is the Role of Cyberknife Radiosurgery in Patients With Multiple Brain Metastases?"
+          },
+          {
+            "nct_id": "NCT00632307",
+            "excerpt": "Other: Breath Analysis by Ion Mobility Spectrometry"
+          },
+          {
+            "nct_id": "NCT03349307",
+            "excerpt": "Other: Thin-EBUS in Ex-vivo Human Lungs"
+          },
+          {
+            "nct_id": "NCT00433563",
+            "excerpt": "Other: Concurrent Once Daily Versus Twice Daily Radiotherapy for Limited Stage Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT01112293",
+            "excerpt": "Other: Anti-TGF Monoclonal Antibody (GC1008) in Relapsed Malignant Pleural Mesothelioma"
+          },
+          {
+            "nct_id": "NCT05166616",
+            "excerpt": "Other: Minnelide and Osimertinib for the Treatment of Advanced EGFR Mutated Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02967133",
+            "excerpt": "Other: A Study of Nivolumab +/- Nab-paclitaxel in Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT01850147",
+            "excerpt": "Other: Sequential Use of Low-dose Sunitinib With Chemotherapy in Advanced NSCLC After Failure of Conventional Regimen"
+          },
+          {
+            "nct_id": "NCT00324558",
+            "excerpt": "Other: Adjuvant BEmiparin in Small Cell Lung Carcinoma (ABEL STUDY)"
+          },
+          {
+            "nct_id": "NCT05879211",
+            "excerpt": "Other: Goal Concordant Care Learning Laboratory"
+          },
+          {
+            "nct_id": "NCT02938104",
+            "excerpt": "Other: Multimodal Prehabilitation to Enhance Functional Recovery After Lung Surgery"
+          },
+          {
+            "nct_id": "NCT02446704",
+            "excerpt": "Other: Study of Olaparib and Temozolomide in Patients With Recurrent Small Cell Lung Cancer Following Failure of Prior Chemotherapy"
+          },
+          {
+            "nct_id": "NCT03090815",
+            "excerpt": "Other: Circulating Tumor DNA (ctDNA) as a Prognostic Tool in Patients With Advanced Lung Adenocarcinoma"
+          },
+          {
+            "nct_id": "NCT04806399",
+            "excerpt": "Other: Improving Utilization of Lung Cancer Screening in Underserved PA Populations"
+          },
+          {
+            "nct_id": "NCT07288632",
+            "excerpt": "Other: Effects of Genomic Profiles on Thromboembolic Risk in Patients With Locally Advanced or Metastatic Non-small-cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT01336543",
+            "excerpt": "Other: Consolidation Chemotherapy/Concurrent Chemo-radiotherapy for Inoperable Stage III Non-small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT00049218",
+            "excerpt": "Other: Chemotherapy Followed By Vaccine Therapy in Treating Patients With Extensive-Stage Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT03059667",
+            "excerpt": "Other: Immunotherapy as Second-line in Patient With Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02907606",
+            "excerpt": "Other: Urinary Circulating Tumor DNA Detection in Non-small Cell Lung Cancer: a Prospective Study"
+          },
+          {
+            "nct_id": "NCT00478985",
+            "excerpt": "Other: Evaluation of the Persistence of the Complete Molecular Remission After Stopping Imatinib Chronic Myeloid Leukemia"
+          },
+          {
+            "nct_id": "NCT00984243",
+            "excerpt": "Other: Photodynamic Therapy (PDT) in Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00466232",
+            "excerpt": "Other: Phase I Study of Weekly Topotecan in Combination With Sorafenib in Treatment of Relapsed Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00568906",
+            "excerpt": "Other: Microarray Analysis of Gene Expression and Identification of Progenitor Cells in Lung Carcinoma"
+          },
+          {
+            "nct_id": "NCT00622349",
+            "excerpt": "Other: Randomised Study Comparing Three Chemotherapy Regimens in Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT01793155",
+            "excerpt": "Other: Effects of Inspiratory Muscle Training After Lung Cancer Surgery, a Randomized Controlled Trial"
+          },
+          {
+            "nct_id": "NCT02155426",
+            "excerpt": "Other: Prognostic and Dynamic Change of CTC Enumeration in Advanced NSCLC With Chemotherapy and Targeted Therapy"
+          },
+          {
+            "nct_id": "NCT03998189",
+            "excerpt": "Other: Metabolic and Microbial Profiling of Lung Cancer"
+          },
+          {
+            "nct_id": "NCT05745350",
+            "excerpt": "Other: First Line Pembrolizumab, Plinabulin Plus Etoposide and Platinum (EP) for ES-SCLC"
+          },
+          {
+            "nct_id": "NCT02348450",
+            "excerpt": "Other: Irinotecan Plus Cisplatin Compared With Etoposide Plus Cisplatin for Extensive Stage Small-cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT06771518",
+            "excerpt": "Other: Association of Thoraco-mediastinal Radiotherapy With Maintenance Immunotherapy Treatment With Atezolizumab"
+          },
+          {
+            "nct_id": "NCT05692713",
+            "excerpt": "Other: Polyomic Biomarker Verification in Adult Chronic Graft-Versus-Host Disease (ABLE3.0/CTTC2201)"
+          },
+          {
+            "nct_id": "NCT00585533",
+            "excerpt": "Other: A Phase 2 Study of Tarceva for Untreated, Good Prognosis Patients With Advanced Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04643847",
+            "excerpt": "Other: A Phase II Trial of Upfront Radiotherapy Plus Almonertinib for Epidermal Growth Factor Receptor(EGFR)-Mutant Non-small-cell Lung Cancer(NSCLC) Patients With Brain Metastases"
+          },
+          {
+            "nct_id": "NCT01660087",
+            "excerpt": "Other: Diagnosis of Lung Cancer From Exhaled Breath With Silicon Biophotonic Device"
+          },
+          {
+            "nct_id": "NCT03413449",
+            "excerpt": "Other: A Prospective Study Frailty for Esophagectomy and Lung Resection in Thoracic Surgery"
+          },
+          {
+            "nct_id": "NCT00908960",
+            "excerpt": "Other: Enoxaparin Thromboprophylaxis in Cancer Patients With Elevated Tissue Factor Bearing Microparticles"
+          },
+          {
+            "nct_id": "NCT04813068",
+            "excerpt": "Other: Lung Cancer Patients' Attitudes to a Second Course of Radiotherapy"
+          },
+          {
+            "nct_id": "NCT06540950",
+            "excerpt": "Other: Efficacy and Safety of Concurrent Chemoradiotherapy With Oral Vinorelbine in Patients With Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT06872723",
+            "excerpt": "Other: CPRIT: Patient Adherence to Lung Cancer Screening"
+          },
+          {
+            "nct_id": "NCT02362204",
+            "excerpt": "Other: Lung Cancer Nurse Model: a Phase II Study"
+          },
+          {
+            "nct_id": "NCT05207904",
+            "excerpt": "Other: Tislelizumab Plus Chemotherapy as First-Line Treatment for Advanced Squamous NSCLC With Brain Metastases"
+          },
+          {
+            "nct_id": "NCT00188526",
+            "excerpt": "Other: Computed Tomography (CT) Guided Lung Biopsy: Core or Fine Needle Aspiration"
+          },
+          {
+            "nct_id": "NCT03454685",
+            "excerpt": "Other: The Role of Microbiota on the Development of Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04153097",
+            "excerpt": "Other: Real World Observational Study of Pembrolizumab for Chinese Advanced NSCLC"
+          },
+          {
+            "nct_id": "NCT02457650",
+            "excerpt": "Other: T Cell Receptor-transduced T Cells Targeting NY-ESO-1 for Treatment of Patients With NY-ESO-1- Expressing Malignancies"
+          },
+          {
+            "nct_id": "NCT06749860",
+            "excerpt": "Other: Disitamab Vedotin in Combination with Tislelizumab and Bevacizumab in a Phase II Clinical Study of Locally Advanced or Metastatic Non-small Cell Lung Cancer with HER2 Mutation/amplification/expression"
+          },
+          {
+            "nct_id": "NCT07165691",
+            "excerpt": "Other: TELEhealth Shared Decision-making COaching for Lung Cancer Screening in Primary Care (TELESCOPE) for Hispanics"
+          },
+          {
+            "nct_id": "NCT04946968",
+            "excerpt": "Other: Phase-2 Dacomitinib Study on Patients With EGFR-Driven Advanced Solid Tumours With Low EGFR-AS1 IncRNA Expr or Other Novel Emerging Biomarkers"
+          },
+          {
+            "nct_id": "NCT04735068",
+            "excerpt": "Other: Binimetinib and Hydroxychloroquine in Patients With Advanced KRAS Mutant Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT01929720",
+            "excerpt": "Other: Cognitive-Behavioral Intervention for Worry, Uncertainty, and Insomnia for Cancer Survivors"
+          },
+          {
+            "nct_id": "NCT05351320",
+            "excerpt": "Other: WX-0593 Combined With Concurrent Chemoradiotherapy in Unresectable Locally Advanced NSCLC"
+          },
+          {
+            "nct_id": "NCT00216125",
+            "excerpt": "Other: Cisplatin/Etoposide/Radiotherapy +/- Consolidation Docetaxel in Advanced Stage III Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT05560776",
+            "excerpt": "Other: Optimizing Endobronchial Ultrasound Sampling for Molecular Markers for NSCLC"
+          },
+          {
+            "nct_id": "NCT05054218",
+            "excerpt": "Other: COVID-19 Immunogenicity of a Third Dose of mRNA-1273 Vaccine Among Cancer Patients"
+          },
+          {
+            "nct_id": "NCT01982123",
+            "excerpt": "Other: SPECT/CT in Measuring Lung Function in Patients With Cancer Undergoing Radiation Therapy"
+          },
+          {
+            "nct_id": "NCT01405079",
+            "excerpt": "Other: Gefitinib Versus Vinorelbine/Platinum as Adjuvant Treatment in Stage II-IIIA(N1-N2) NSCLC With EGFR Mutation"
+          },
+          {
+            "nct_id": "NCT03881410",
+            "excerpt": "Other: The Efficacy of Shear-wave Elastography-guided Aspiration and Biopsy for Diagnosis in Lung Tumor"
+          },
+          {
+            "nct_id": "NCT03582124",
+            "excerpt": "Other: Panitumumab-IRDye800 in Detecting Cancer in Participants With Lung Cancer During Surgery"
+          },
+          {
+            "nct_id": "NCT02018523",
+            "excerpt": "Other: Lenalidomide Maintenance Therapy in Stage IIIB/IV Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT07188480",
+            "excerpt": "Other: The Role of DNA and RNA in NGS Analyses for Advaced Stage NSCLC Patients"
+          },
+          {
+            "nct_id": "NCT04116918",
+            "excerpt": "Other: Efficacy and Safety of the Combination of Anlotinib and JS001 in EGFR-TKI Resistant T790M-Negative NSCLC"
+          },
+          {
+            "nct_id": "NCT04440124",
+            "excerpt": "Other: Does the Incremental Shuttle Walk Test Predict the Development of a Hospital Acquired Pneumonia in Patients Undergoing Elective Oesophagectomy: A Prospective Cohort Study"
+          },
+          {
+            "nct_id": "NCT01451359",
+            "excerpt": "Other: Endobronchial Valves in Persistent Air Leak"
+          },
+          {
+            "nct_id": "NCT01137162",
+            "excerpt": "Other: Clinical and Pathologic Studies of Patients Undergoing Treatment With EGFR Inhibitors"
+          },
+          {
+            "nct_id": "NCT06007261",
+            "excerpt": "Other: Validation of Rapid On-site Diagnostics in Early Stage Lung Cancer Sampling With a Higher Harmonic Generation Microscope"
+          },
+          {
+            "nct_id": "NCT00094562",
+            "excerpt": "Other: A Fish Oil Supplement to Maintain Body Weight in Patients With Disease-Related Weight Loss"
+          },
+          {
+            "nct_id": "NCT03275688",
+            "excerpt": "Other: NanoSpectrometer Biomarker Discovery and Confirmation Study"
+          },
+          {
+            "nct_id": "NCT05008861",
+            "excerpt": "Other: Gut Microbiota Reconstruction for NSCLC Immunotherapy"
+          },
+          {
+            "nct_id": "NCT06494046",
+            "excerpt": "Other: Defining Musical Toxicity and Its Effect on Patient Well-being"
+          },
+          {
+            "nct_id": "NCT04716946",
+            "excerpt": "Other: Treating Early-stage Non-Small Cell Lung Cancer With Durvalumab and Radiation Therapy"
+          },
+          {
+            "nct_id": "NCT06105346",
+            "excerpt": "Other: Prevalence of ENT Diseseas"
+          },
+          {
+            "nct_id": "NCT07042724",
+            "excerpt": "Other: Exercise and Nutrition on Early-stage NSCLC Outcomes: the STARLighT Study"
+          },
+          {
+            "nct_id": "NCT06289023",
+            "excerpt": "Other: HA-WBRT-SIB for Brain Metastasis of Lung Cancer"
+          },
+          {
+            "nct_id": "NCT07070362",
+            "excerpt": "Other: Digital Early Warning System for Acute Lung Injury in Liver Surgery"
+          },
+          {
+            "nct_id": "NCT01416961",
+            "excerpt": "Other: Integration of Neutron Therapy in the Treatment Plan for Stage III Non-Small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT05882513",
+            "excerpt": "Other: Serplulimab Combined With Chemotherapy in Patients With Resectable Non-small-cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT05290480",
+            "excerpt": "Other: Expiratory Muscle Training Versus Incentive Spirometry After Colorectal Surgery"
+          },
+          {
+            "nct_id": "NCT04933903",
+            "excerpt": "Other: BrUOG 397: NEO Rad (LOW): Neoadjuvant Low Dose Stereotactic Body Radiotherapy, Ipilimumab and Nivolumab"
+          },
+          {
+            "nct_id": "NCT06951646",
+            "excerpt": "Other: ctDNA-MRD Guided Escalation of Ivonescimab and Docetaxel in Advanced NSCLC With Long-Term Responses to First-line Immunotherapy (CR1STAL-Adaptive)"
+          },
+          {
+            "nct_id": "NCT02511288",
+            "excerpt": "Other: LIquid BIopsies in Patients Presenting Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT01722903",
+            "excerpt": "Other: Detection of CTCs in Patients Undergoing Surgery for Stage IV Colorectal Cancer"
+          },
+          {
+            "nct_id": "NCT01823003",
+            "excerpt": "Other: Risk Adapted SABR(SABR) in Stage I NSCLC And Lung Metastases"
+          },
+          {
+            "nct_id": "NCT05273827",
+            "excerpt": "Other: Effect of Neoadjuvant Anti-PD-1 Immunotherapy on Perioperative Analgesia and Postoperative Delirium"
+          },
+          {
+            "nct_id": "NCT02515760",
+            "excerpt": "Other: Tumor-specific T Cells in Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00049296",
+            "excerpt": "Other: Thalidomide and Docetaxel in Treating Patients With Advanced Cancer"
+          },
+          {
+            "nct_id": "NCT04393883",
+            "excerpt": "Other: A Study With Pembrolizumab for Non-small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT02399566",
+            "excerpt": "Other: Clinical Trial of Erlotinib and Pemetrexed for Maintenance Treatment in Lung Adenocarcinoma"
+          },
+          {
+            "nct_id": "NCT01963351",
+            "excerpt": "Other: Bevacizumab in Combination With Chemotherapy in Patients With Advanced or Recurrent Non-squamous NSCLC"
+          },
+          {
+            "nct_id": "NCT05838053",
+            "excerpt": "Other: Comparison of Segmentectomy Versus Lobectomy for Lung Adenocarcinoma ≤ 2cm"
+          },
+          {
+            "nct_id": "NCT01051037",
+            "excerpt": "Other: Stereotactic Body Radiotherapy and Radiofrequency Ablation for Lung Tumors Near Central Airways"
+          },
+          {
+            "nct_id": "NCT04199741",
+            "excerpt": "Other: PET/CT Imaging of Small Cell Lung Cancer Using 89Zr-DFO-SC16.56"
+          },
+          {
+            "nct_id": "NCT04538456",
+            "excerpt": "Other: Impact of COVID-19 on Lung Cancer Patients"
+          },
+          {
+            "nct_id": "NCT05815472",
+            "excerpt": "Other: Advanced Patient Monitoring and A.I. Supported Outcomes Assessment in Lung Cancer Using Internet of Things Technologies (A.I. - APALITT)"
+          },
+          {
+            "nct_id": "NCT00402766",
+            "excerpt": "Other: Cisplatin, Pemetrexed, and Imatinib Mesylate in Malignant Mesothelioma"
+          },
+          {
+            "nct_id": "NCT03724331",
+            "excerpt": "Other: Understanding the Post-Surgical Non-Small Cell Lung Cancer Patient's Symptom Experience"
+          },
+          {
+            "nct_id": "NCT02315053",
+            "excerpt": "Other: PET Response During Chemoradiation of Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00003154",
+            "excerpt": "Other: Chemotherapy in Treating Patients With Advanced Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02251353",
+            "excerpt": "Other: Intervention to Hepatic and Pulmonary Metastasis in Breast Cancer Patients"
+          },
+          {
+            "nct_id": "NCT01300429",
+            "excerpt": "Other: Molecular Determinants of Acquired Clinical Resistance to Crizotinib in Non-small Cell Lung Cancer Harboring a Translocation or Inversion Event Involving the ALK Gene Locus"
+          },
+          {
+            "nct_id": "NCT06079970",
+            "excerpt": "Other: Confocal Laser Endomicroscopy VERification"
+          },
+          {
+            "nct_id": "NCT03399669",
+            "excerpt": "Other: The Continuation of Gefitinib Treatment Beyond Progression in Non-small Cell Lung Cancer Patients With EGFR Mutation"
+          },
+          {
+            "nct_id": "NCT06747169",
+            "excerpt": "Other: Efficacy and Safety of Sintilimab Combined with Nab-PP Plus Rh-endostatin in Locally Advanced/advanced and Recurrent Metastatic Squamous Non-small Cell Lung Cancer: a Single-arm, Multicenter Clinical Study"
+          },
+          {
+            "nct_id": "NCT04076696",
+            "excerpt": "Other: Clinical Evaluation of Primary Sampling Scatter Correction for Chest Tomosynthesis"
+          },
+          {
+            "nct_id": "NCT03065062",
+            "excerpt": "Other: Study of the CDK4/6 Inhibitor Palbociclib (PD-0332991) in Combination With the PI3K/mTOR Inhibitor Gedatolisib (PF-05212384) for Patients With Advanced Squamous Cell Lung, Pancreatic, Head & Neck and Other Solid Tumors"
+          },
+          {
+            "nct_id": "NCT05754203",
+            "excerpt": "Other: Efficacy and Safety of Super-hyperfractionation Pulse Radiotherapy Combined With ICIs for Advanced NSCLC"
+          },
+          {
+            "nct_id": "NCT02090660",
+            "excerpt": "Other: Technique for Localization of Pulmonary Nodules Using Spy Thoracoscope System"
+          },
+          {
+            "nct_id": "NCT03293680",
+            "excerpt": "Other: Pembrolizumab in Elderly Patients With Advanced Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04682327",
+            "excerpt": "Other: Gut Microbiota and Cancer Immunotherapy Response"
+          },
+          {
+            "nct_id": "NCT06326086",
+            "excerpt": "Other: Differences in Rate of Decline in CT-defined Skeletal Muscle Mass and Physical Performance in Patients With Advanced Non-small Cell Lung Cancer Receiving Chemotherapy and Targeted Therapy/Immunotherapy, Before and After Treatment."
+          },
+          {
+            "nct_id": "NCT07359586",
+            "excerpt": "Other: Laryngopharyngeal Injury After Endotracheal Intubation Under General Anesthesia"
+          },
+          {
+            "nct_id": "NCT04397614",
+            "excerpt": "Other: Mobile Health Study and Enhanced Symptom Monitoring in COVID-19 Cancer Patients"
+          },
+          {
+            "nct_id": "NCT06757114",
+            "excerpt": "Other: A Study on the Efficacy of Immunotherapy, the Occurrence and Severity of Adverse Reactions in Patients with Non-small Cell Lung Cancer in High-altitude Areas"
+          },
+          {
+            "nct_id": "NCT04425616",
+            "excerpt": "Other: SafeFit Trial: Virtual Clinics to Deliver Universal Interventions in People With Cancer"
+          },
+          {
+            "nct_id": "NCT04916236",
+            "excerpt": "Other: Combination Therapy of RMC-4630 and LY3214996 in Metastatic KRAS Mutant Cancers"
+          },
+          {
+            "nct_id": "NCT02364804",
+            "excerpt": "Other: A Study to Evaluate the Efficacy of Anti-emetic Drug Upon the Combination Chemotherapy for Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT01702844",
+            "excerpt": "Other: Single Arm on the Tolerability of Weekly Nab-paclitaxel"
+          },
+          {
+            "nct_id": "NCT06480864",
+            "excerpt": "Other: Adebrelimab Plus Apatinib for Maintenance Therapy of Extensive Stage Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04042714",
+            "excerpt": "Other: TAS-102 in Extrapulmonary Neuroendocrine Carcinoma"
+          },
+          {
+            "nct_id": "NCT01015963",
+            "excerpt": "Other: Studying DNA in Tissue Samples From Caucasian and African-American Cancer Patients Who Received Docetaxel on Clinical Trial CLB-9871"
+          },
+          {
+            "nct_id": "NCT00056004",
+            "excerpt": "Other: Zileuton in Preventing Lung Cancer in Patients With Bronchial Dysplasia"
+          },
+          {
+            "nct_id": "NCT07478809",
+            "excerpt": "Other: A Retrospective Real-World Study Based on RATIONALE-307"
+          },
+          {
+            "nct_id": "NCT00588263",
+            "excerpt": "Other: Anonymous Testing of Pathology Specimens for BRCA Mutations in Ashkenazi Jewish Individuals Who Have Cancer"
+          },
+          {
+            "nct_id": "NCT00128999",
+            "excerpt": "Other: Study Using Induction Chemotherapy and Intensity-Modulated Radiation Therapy Guided by Combined CT and PET Imaging for Patients With Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04765215",
+            "excerpt": "Other: Investigation of the Effectiveness of CoronaVac Vaccine in Cancer Patients With Active Chemotherapy and Comparison With Healthy People."
+          },
+          {
+            "nct_id": "NCT06735508",
+            "excerpt": "Other: MRNA Neoantigen Vaccine in Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00005825",
+            "excerpt": "Other: Combination Chemotherapy in Treating Patients With Stage IIIB or Stage IV Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00793208",
+            "excerpt": "Other: Immunization of Patients With Non Small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT00489008",
+            "excerpt": "Other: SRS Study in Patients With Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT06743308",
+            "excerpt": "Other: Novel INPUT Screening Tool to Improve Illness Understanding in Patients With Metastatic or Incurable Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04345315",
+            "excerpt": "Other: Correlative Study on Cancer Patients and Healthcare Professionals Exposed to Infection by Severe Acute Respiratory Syndrome-Corona Virus-2 (SARS-Cov-2), COVID-19 Causative Agent."
+          },
+          {
+            "nct_id": "NCT00198393",
+            "excerpt": "Other: Randomized Phase 2 Study of 3 Therapeutic Modalities in PS 2/3 Patients With NSCLC Stage IIIB/IV"
+          },
+          {
+            "nct_id": "NCT06537804",
+            "excerpt": "Other: Project Lung Cancer Screening in Southern Denmark"
+          },
+          {
+            "nct_id": "NCT05131815",
+            "excerpt": "Other: The BurnAlong Pilot Study for Adolescent and Young Adult Cancer Survivors"
+          },
+          {
+            "nct_id": "NCT06514118",
+            "excerpt": "Other: Chemoimmunotherapy Plus Residual Lesion Irradiation for the Treatment of Extensive Stage Small-cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT03581708",
+            "excerpt": "Other: Venous Thromboembolism in Advanced Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00291850",
+            "excerpt": "Other: Phase II Trial of Dose-dense Paclitaxel and Cisplatin as Neo-adjuvant Chemotherapy for Operable Stage II and IIA NSCLC"
+          },
+          {
+            "nct_id": "NCT00581815",
+            "excerpt": "Other: Spectroscopy With Surface Coils and Decoupling"
+          },
+          {
+            "nct_id": "NCT02540174",
+            "excerpt": "Other: Alcohol and Tobacco Consumption in Patients With Head and Neck or Lung Cancer : Interest of an Addiction Treatment"
+          },
+          {
+            "nct_id": "NCT03574818",
+            "excerpt": "Other: Necitumumab in the Neoadjuvant Setting With Gemcitabine in Surgically Resectable - 14X-US-I001"
+          },
+          {
+            "nct_id": "NCT02596490",
+            "excerpt": "Other: Couple-Based Meditation for Metastatic Lung Cancer Patients and Their Partners"
+          }
+        ],
+        "sponsor_class": "Other",
+        "trial_count": 305
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT00802841",
+            "excerpt": "Industry: Randomized Phase Lll Study of Imatinib Dose Optimization vs Nilotinib in CML Patients With Suboptimal Response to Imatinib"
+          },
+          {
+            "nct_id": "NCT03745222",
+            "excerpt": "Industry: A Study of Tislelizumab (BGB-A317) Plus Chemoradiotherapy Followed by Tislelizumab Monotherapy in Newly Diagnosed, Stage III Subjects With Locally Advanced, Unresectable Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02289690",
+            "excerpt": "Industry: Dose Escalation and Double-blind Study of Veliparib in Combination With Carboplatin and Etoposide in Treatment-naive Extensive Stage Disease Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00876460",
+            "excerpt": "Industry: BIBF 1120 + Docetaxel (Japan) in Patients With Advanced Non-small-cell Lung Cancer, Phase I"
+          },
+          {
+            "nct_id": "NCT06698042",
+            "excerpt": "Industry: A Clinical Study of Pembrolizumab (+) Berahyaluronidase Alfa (MK-3475A) to Treat Newly-diagnosed Metastatic Non-small Cell Lung Cancer (MK-3475A-F84)"
+          },
+          {
+            "nct_id": "NCT02338583",
+            "excerpt": "Industry: Powered Surgical Stapler in VATS Lung Resection Procedures in China"
+          },
+          {
+            "nct_id": "NCT03195491",
+            "excerpt": "Industry: A Study of Non-Small Cell Lung Cancer (NSCLC) Patients Receiving Second-Line Nivolumab Monotherapy in Asia"
+          },
+          {
+            "nct_id": "NCT00034827",
+            "excerpt": "Industry: A Multicenter Phase 2 Study of CI-1040 in Patients With Advanced Nonsmall-Cell Lung, Breast, Colon and Pancreatic Cancer"
+          },
+          {
+            "nct_id": "NCT04136470",
+            "excerpt": "Industry: BioForte Technology for in Silico Identification of Candidates for a New Microbiome-based Therapeutics and Diagnostics"
+          },
+          {
+            "nct_id": "NCT05219162",
+            "excerpt": "Industry: Real-World Study on Gene Profile in Patients With Advanced NSCLC Who Progressed on First-Line Osimertinib Therapy(GPS)."
+          },
+          {
+            "nct_id": "NCT03517488",
+            "excerpt": "Industry: A Study of XmAb®20717 in Subjects With Selected Advanced Solid Tumors"
+          },
+          {
+            "nct_id": "NCT03937154",
+            "excerpt": "Industry: Study of Romiplostim for Chemotherapy-induced Thrombocytopenia in Adult Subjects With Non-small Cell Lung Cancer (NSCLC), Ovarian Cancer, or Breast Cancer"
+          },
+          {
+            "nct_id": "NCT07045103",
+            "excerpt": "Industry: A Multicenter Study in Bronchoscopy Combining Stimulated Raman Histology With Artificial Intelligence for Rapid Lung Cancer Detection - The ON-SITE Study"
+          },
+          {
+            "nct_id": "NCT05002270",
+            "excerpt": "Industry: JAB-21822 Activity in Adult Patients With Advanced Solid Tumors Harboring KRAS G12C Mutation"
+          },
+          {
+            "nct_id": "NCT06599502",
+            "excerpt": "Industry: A Phase I/IIa Study to Investigate the Safety, Tolerability, Pharmacokinetics, and Efficacy of AZD0022 as Monotherapy and in Combination With Anti-cancer Agents in Adult Participants With Tumours Harbouring a KRASG12D Mutation"
+          },
+          {
+            "nct_id": "NCT06238479",
+            "excerpt": "Industry: A Study of LY4101174 in Participants With Recurrent, Advanced or Metastatic Solid Tumors"
+          },
+          {
+            "nct_id": "NCT06961188",
+            "excerpt": "Industry: Clinical Study on Nanocrystalline Megestrol Acetate for Appetite Improvement and Weight Gain in Pre-Cachexia and Cachexia Stages Key Terminology Analysis"
+          },
+          {
+            "nct_id": "NCT05386888",
+            "excerpt": "Industry: A Trial of GFH018 and Toripalimab in Combination With Concurrent Chemoradiotherapy in Stage III NSCLC Chemoradiotherapy in Stage III NSCLC"
+          },
+          {
+            "nct_id": "NCT05632913",
+            "excerpt": "Industry: Alpha Radiation Emitters Device for the Treatment of Recurrent Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00172042",
+            "excerpt": "Industry: A Study to Evaluate the Safety and Efficacy of Zoledronic Acid in the Prevention or Delaying of Bone Metastasis in Patients With Stage IIIA and IIIB Non-small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT04770675",
+            "excerpt": "Industry: Post Market Study to Collect Data for Software Recognizing the Anatomical Structures During Bronchoscopy."
+          },
+          {
+            "nct_id": "NCT03371381",
+            "excerpt": "Industry: An Efficacy and Safety Study of JNJ-64041757, a Live Attenuated Listeria Monocytogenes Immunotherapy, in Combination With Nivolumab Versus Nivolumab Monotherapy in Participants With Advanced Adenocarcinoma of the Lung"
+          },
+          {
+            "nct_id": "NCT05419700",
+            "excerpt": "Industry: A Spanish Medical Record Review of Clinical Characteristics and Outcomes in Non-small Cell Lung Cancer Participants With EGFR Exon 20 Insertion"
+          },
+          {
+            "nct_id": "NCT00489983",
+            "excerpt": "Industry: Trial of Pemetrexed or Pemetrexed With Gemcitabine for Patients With Advanced Lung Cancer Who Are Not Eligible for Platinum-Based Chemotherapy and Have Not Previously Been Treated With Chemotherapy"
+          },
+          {
+            "nct_id": "NCT00496275",
+            "excerpt": "Industry: Phase I Combination With Vinorelbine or Gemcitabine Plus Cisplatin in Locally Advanced or Metastatic NSCLC"
+          },
+          {
+            "nct_id": "NCT05955105",
+            "excerpt": "Industry: A Study of ILB2109 and Toripalimab in Patients With Advanced Solid Malignancies"
+          },
+          {
+            "nct_id": "NCT02271139",
+            "excerpt": "Industry: Expanded Access Study of Alectinib for Participants With Anaplastic Lymphoma Kinase (ALK)-Rearranged Non-Small Cell Lung Cancer (NSCLC) After Disease Progression on or Intolerance to Prior ALK Tyrosine Kinase Inhibitor Therapy"
+          },
+          {
+            "nct_id": "NCT05863819",
+            "excerpt": "Industry: A Real World Study of Mobocertinib in Adults With Lung Cancer in China (MEANING)"
+          },
+          {
+            "nct_id": "NCT03318939",
+            "excerpt": "Industry: Phase 2 Study of Poziotinib in Participants With NSCLC Having EGFR or HER2 Exon 20 Insertion Mutation"
+          },
+          {
+            "nct_id": "NCT05136677",
+            "excerpt": "Industry: A Study to Evaluate Nivolumab in Combination With Ipilimumab Versus Pemetrexed With Cisplatin or Carboplatin for Unresectable Pleural Mesothelioma in Chinese Participants"
+          },
+          {
+            "nct_id": "NCT01976741",
+            "excerpt": "Industry: Dose Escalation Pan-FGFR (Fibroblast Growth Factor Receptor) Inhibitor (Rogaratinib)"
+          },
+          {
+            "nct_id": "NCT04981119",
+            "excerpt": "Industry: Solid Tumor Analysis for HLA Loss of Heterozygosity (LOH) and Apheresis for CAR T- Cell Manufacturing"
+          },
+          {
+            "nct_id": "NCT01516983",
+            "excerpt": "Industry: Icotinib Combined With WBRT For NSCLC Patients With Brain Metastases and EGFR Mutation"
+          },
+          {
+            "nct_id": "NCT06910657",
+            "excerpt": "Industry: IDOV-Immune for Advanced Solid Tumors"
+          },
+          {
+            "nct_id": "NCT06056128",
+            "excerpt": "Industry: Confirmation of Accuracy of the Tool-in-lesion Technology (TiLT) of the Galaxy System With Integrated TOMO Technology"
+          },
+          {
+            "nct_id": "NCT01342965",
+            "excerpt": "Industry: A Study of Erlotinib (Tarceva) Versus Gemcitabine/Cisplatin as First-line Treatment in Patients With Non-small Cell Lung Cancer With EGFR Mutations"
+          },
+          {
+            "nct_id": "NCT00102531",
+            "excerpt": "Industry: Inhalation SLIT Cisplatin (Liposomal) for the Treatment of Osteosarcoma Metastatic to the Lung"
+          },
+          {
+            "nct_id": "NCT05543629",
+            "excerpt": "Industry: A Study of BMS-986442 With Nivolumab With or Without Chemotherapy in Solid Tumors and Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT06934590",
+            "excerpt": "Industry: Evaluate Safety and Tolerability of RX001 in Patients With KRAS Mutant Advanced NSCLC"
+          },
+          {
+            "nct_id": "NCT06938880",
+            "excerpt": "Industry: Study of ZGGS18 in Combination With ZG005 in Patients With Advanced Solid Tumors"
+          },
+          {
+            "nct_id": "NCT03970746",
+            "excerpt": "Industry: Safety, Immunogenicity and Preliminary Clinical Activity Study of PDC*lung01 Cancer Vaccine in NSCLC"
+          },
+          {
+            "nct_id": "NCT04149691",
+            "excerpt": "Industry: Safety, Tolerability and Pharmacokinetics of Oral CPL304110, in Adult Subjects With Advanced Solid Malignancies"
+          },
+          {
+            "nct_id": "NCT05627960",
+            "excerpt": "Industry: First in Human Phase 1 Study of AG01 Anti-Progranulin/GP88 Antibody in Advanced Solid Tumor Malignancies"
+          },
+          {
+            "nct_id": "NCT00457782",
+            "excerpt": "Industry: A Phase I Safety, PK and PD Study of KW-2478 in Patients With Multiple Myeloma, Chronic Lymphocytic Leukaemia or B-cell Non-Hodgkin's Lymphoma"
+          },
+          {
+            "nct_id": "NCT05225259",
+            "excerpt": "Industry: Expanded Access for LOXO-260 in Participants With Cancer Caused by an Abnormal RET Gene That Did Not Respond/is no Longer Responding to Treatment With a Type of Drug Called a RET Inhibitor"
+          },
+          {
+            "nct_id": "NCT01024062",
+            "excerpt": "Industry: Phase II Study of Weekly Paclitaxel (BMS-181339) in Patient With Non-Small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT01177397",
+            "excerpt": "Industry: Study to Assess Safety, Pharmacokinetics, and Efficacy of Oral CC-223 for Patients With Advanced Solid Tumors, Non-Hodgkin Lymphoma or Multiple Myeloma"
+          },
+          {
+            "nct_id": "NCT03355079",
+            "excerpt": "Industry: Efficacy Study of Long-term Parenteral Nutrition With SmofKabiven® E in Lung Cancer Patients Under Anticancer Therapy"
+          },
+          {
+            "nct_id": "NCT02926768",
+            "excerpt": "Industry: Phase I/II Study of CK-101 in NSCLC Patients and Other Advanced Solid Tumors"
+          },
+          {
+            "nct_id": "NCT04415320",
+            "excerpt": "Industry: X-396 (Ensartinib) Capsules in ALK-Positive NSCLC Patients With Brain Metastases"
+          },
+          {
+            "nct_id": "NCT04313361",
+            "excerpt": "Industry: A Study of Smoking Cessation Patterns in Participants Undergoing Lung Surgery"
+          },
+          {
+            "nct_id": "NCT07218146",
+            "excerpt": "Industry: A Study of ZL-1310 Versus Investigator's Choice of Therapy in Participants With Relapsed Small Cell Lung Cancer (DLLEVATE)"
+          },
+          {
+            "nct_id": "NCT04825873",
+            "excerpt": "Industry: A Study to Assess Safety of Nivolumab in Routine Oncology Practice in China"
+          },
+          {
+            "nct_id": "NCT02066870",
+            "excerpt": "Industry: Icotinib and Arsenic Trioxide in Treating Non-small-cell Lung Cancer Patients With Resistance to EGFR-TKI"
+          },
+          {
+            "nct_id": "NCT03317496",
+            "excerpt": "Industry: Safety And Efficacy Study Of Avelumab Plus Chemotherapy With Or Without Other Anti-Cancer Immunotherapy Agents In Patients With Advanced Malignancies"
+          },
+          {
+            "nct_id": "NCT00766246",
+            "excerpt": "Industry: Phase II Avastin Trial for Stage IIIB/IV NSCLC"
+          },
+          {
+            "nct_id": "NCT02119650",
+            "excerpt": "Industry: Ruxolitinib in Combination With Pemetrexed/Cisplatin in Non Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02094560",
+            "excerpt": "Industry: CAP7.1 for the Treatment of Advanced Stage, Therapy Refractory Lung and Biliary Tract Tumors"
+          },
+          {
+            "nct_id": "NCT03533127",
+            "excerpt": "Industry: A Study of LY01008 and Bevacizumab Combined With Paclitaxel and Carboplatin for Treatment of Naïve Subjects With Metastatic or Recurrent Nonsquamous Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02093962",
+            "excerpt": "Industry: Study of TH-302 or Placebo in Combination With Pemetrexed in Patients With Non-squamous Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT05987189",
+            "excerpt": "Industry: Diagnostic Performance of Small RNA Blood Test in Patients Undergoing Follow-up Imaging After Positive Low Dose CT Screening for Cancer of the Lung"
+          },
+          {
+            "nct_id": "NCT06767046",
+            "excerpt": "Industry: KRAS-Specific Autologous TCR-T Cell Therapy for KRAS Mutation in Advanced Solid Tumors"
+          },
+          {
+            "nct_id": "NCT07174388",
+            "excerpt": "Industry: A Study in Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT07459751",
+            "excerpt": "Industry: A Global Phase II/III Clinical Study to Evaluate the Efficacy and Safety of HLX43 Monotherapy or HLX43 in Combination With HLX07 Versus Docetaxel in Advanced or Metastatic Squamous Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02009631",
+            "excerpt": "Industry: A Study to Evaluate the Effects of Veliparib on Heart Rhythms in Patients With Solid Tumors"
+          },
+          {
+            "nct_id": "NCT04975256",
+            "excerpt": "Industry: Adagrasib in Combination With BI 1701963 in Patients With Cancer (KRYSTAL 14)"
+          },
+          {
+            "nct_id": "NCT00424775",
+            "excerpt": "Industry: A Study of Carboplatin + Paclitaxel and MK0683 in Patients With Chemotherapy-naive Non-Small Cell Lung Cancer (NSCLC)(0683-066)"
+          },
+          {
+            "nct_id": "NCT06345729",
+            "excerpt": "Industry: A Study of Calderasib (MK-1084) Plus Pembrolizumab (MK-3475) in Participants With KRAS G12C Mutant Non-small Cell Lung Cancer (NSCLC) With Programmed Cell Death Ligand 1 (PD-L1) Tumor Proportion Score (TPS) ≥50% (MK-1084-004/KANDLELIT-004)"
+          },
+          {
+            "nct_id": "NCT06430437",
+            "excerpt": "Industry: A Study of SHR-A1811 in First-line Treatment of Patients With Advanced or Metastatic Non-small Cell Lung Cancer With HER2 Mutations"
+          },
+          {
+            "nct_id": "NCT03808701",
+            "excerpt": "Industry: Efficacy and Safety of SCT200 in Patients With Advanced Squamous Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT03607188",
+            "excerpt": "Industry: Study of Alkotinib in Patients With Advanced Non Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02178722",
+            "excerpt": "Industry: Study to Explore the Safety, Tolerability and Efficacy of MK-3475 in Combination With INCB024360 in Participants With Selected Cancers"
+          },
+          {
+            "nct_id": "NCT03267654",
+            "excerpt": "Industry: Gefitinib With Chemotherapy or Anti-angiogenesis in NSCLC Patients With Bim Deletion or Low EGFR Mutation Abundance"
+          },
+          {
+            "nct_id": "NCT04928846",
+            "excerpt": "Industry: A Study to Assess Disease Activity and Adverse Events of Intravenous (IV) Telisotuzumab Vedotin Compared to IV Docetaxel in Adult Participants With Previously Treated Non-Squamous Non-Small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT02409342",
+            "excerpt": "Industry: A Study of Atezolizumab (MPDL3280A) Compared With a Platinum Agent (Cisplatin or Carboplatin) + (Pemetrexed or Gemcitabine) in Participants With Stage IV Non-Squamous or Squamous Non-Small Cell Lung Cancer (NSCLC) [IMpower110]"
+          },
+          {
+            "nct_id": "NCT03911219",
+            "excerpt": "Industry: Impact of eHealth Monitoring on Overall Survival in Patients With Metastatic NSCLC / Extensive-stage SCLC / Advanced TNBC Under First-line Treatment With Atezolizumab Plus Chemotherapy"
+          },
+          {
+            "nct_id": "NCT05852002",
+            "excerpt": "Industry: A Clinical Study of Pain and Discomfort Associated With Advanced Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02810457",
+            "excerpt": "Industry: Evaluation of FKB238 and Avastin in Patients With Advanced/Recurrent Non-squamous Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT03761901",
+            "excerpt": "Industry: Study to Describe Treatment Patterns and Outcomes in EGFRm NSCLC Patients in Belgium"
+          },
+          {
+            "nct_id": "NCT05562895",
+            "excerpt": "Industry: A Multicenter Study to Evaluate the Cios Spin and the Ion Endoluminal System for Pulmonary Nodule Biopsy"
+          },
+          {
+            "nct_id": "NCT04311710",
+            "excerpt": "Industry: A Study Evaluating the Drug Levels of Iplimumab Given Under the Skin Alone and in Combination With Nivolumab in Multiple Tumor Types"
+          },
+          {
+            "nct_id": "NCT02552121",
+            "excerpt": "Industry: Tisotumab Vedotin (HuMax®-TF-ADC) Safety Study in Patients With Solid Tumors"
+          },
+          {
+            "nct_id": "NCT00096707",
+            "excerpt": "Industry: Dose Escalation Trial of 2-Deoxy-D-Glucose (2DG) in Subjects With Advanced Solid Tumors"
+          },
+          {
+            "nct_id": "NCT06210815",
+            "excerpt": "Industry: A Study of HLX42 in Advanced/Metastatic Solid Tumors"
+          },
+          {
+            "nct_id": "NCT01237171",
+            "excerpt": "Industry: A Study of Cesium-131 Brachytherapy Following Sub-Lobar Resection for Early Stage Non Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00055887",
+            "excerpt": "Industry: Chemotherapy and Radiation Therapy With or Without Efaproxiral in Treating Patients With Stage III Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT06943521",
+            "excerpt": "Industry: A Study of MT-4561 in Patients With Various Advanced Solid Tumors"
+          },
+          {
+            "nct_id": "NCT04416633",
+            "excerpt": "Industry: Study to Access Safety of Durvalumab in Indian Adult Patients With Locally Advanced NSCLC"
+          },
+          {
+            "nct_id": "NCT00826852",
+            "excerpt": "Industry: Weekly Docetaxel and Four Weekly Carboplatin in Non-small Cell Lung Cancer Carbo-Tax"
+          },
+          {
+            "nct_id": "NCT00243347",
+            "excerpt": "Industry: The Effects of AZD2171 in Patients With Non-Small Cell Lung Cancer or Head & Neck Cancer"
+          },
+          {
+            "nct_id": "NCT00701558",
+            "excerpt": "Industry: A Study of First Line Treatment With Tarceva (Erlotinib) in Combination With Gemcitabine in Patients With Unresectable Advanced and/or Metastatic Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00826878",
+            "excerpt": "Industry: An Open-Label Study of QD Oral Administration of Tivozanib (AV-951) in Subjects With Non-Small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT03066778",
+            "excerpt": "Industry: A Study of Pembrolizumab (MK-3475) in Combination With Etoposide/Platinum (Cisplatin or Carboplatin) for Participants With Extensive Stage Small Cell Lung Cancer (MK-3475-604/KEYNOTE-604)"
+          },
+          {
+            "nct_id": "NCT03394365",
+            "excerpt": "Industry: A Phase 3 Study of Tabelecleucel for Participants With Epstein-Barr Virus-Associated Post-Transplant Lymphoproliferative Disease After Failure With Rituximab or Rituximab and Chemotherapy"
+          },
+          {
+            "nct_id": "NCT00091663",
+            "excerpt": "Industry: A Study to Evaluate Tarceva in Patients With Advanced Non-Small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT01519804",
+            "excerpt": "Industry: A Study of Onartuzumab (MetMAb) Versus Placebo in Combination With Paclitaxel Plus Platinum in Patients With Squamous Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT05737849",
+            "excerpt": "Industry: A Study to Learn About the Tests Looking for a Gene Mutation in Adults With Lung Cancer in China (ELEGANT)"
+          },
+          {
+            "nct_id": "NCT06110663",
+            "excerpt": "Industry: A Study of HS-10241 Combined With Almonertinib Versus Platinum-based Chemotherapy in Treatment of Advanced NSCLC With MET Amplification After Failure of EGFR-TKI Therapy"
+          },
+          {
+            "nct_id": "NCT00397293",
+            "excerpt": "Industry: Study of AT-101 in Combination With Topotecan in Relapsed/Refractory Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04032704",
+            "excerpt": "Industry: A Study of Ladiratuzumab Vedotin in Advanced Solid Tumors"
+          },
+          {
+            "nct_id": "NCT04968548",
+            "excerpt": "Industry: Determination and Validation of a Multi-analyte Assay for Lung Cancer Screening"
+          },
+          {
+            "nct_id": "NCT00756847",
+            "excerpt": "Industry: Safety Study of XL147 (SAR245408), in Combination With Paclitaxel and Carboplatin in Adults With Solid Tumors"
+          },
+          {
+            "nct_id": "NCT06251310",
+            "excerpt": "Industry: SW-682 in Advanced Solid Tumors"
+          },
+          {
+            "nct_id": "NCT01893268",
+            "excerpt": "Industry: An Observational Study of Avastin (Bevacizumab) in Elderly Patients With Non-Squamous Non-Small Cell Lung Cancer in Clinical Practice"
+          },
+          {
+            "nct_id": "NCT02228382",
+            "excerpt": "Industry: Safety And Efficacy Study Of Bosutinib In Patients With Philadelphia Chromosome Positive Chronic Myeloid Leukemia Previously Treated With One Or More Tyrosine Kinase Inhibitors"
+          },
+          {
+            "nct_id": "NCT04564040",
+            "excerpt": "Industry: A Study in Healthy Subjects to Assess Bioavailability (Proportion of a Drug Which Enters the Circulation to Have an Active Effect) of Acalabrutinib Tablet and Protonpump Inhibitor Effect (Members of a Class of Medications That Inhibits in Gastric Acid Production) for Rabeprazole"
+          },
+          {
+            "nct_id": "NCT03477474",
+            "excerpt": "Industry: Registry of Guardant360® Use and Outcomes In People With Advanced Cancer"
+          },
+          {
+            "nct_id": "NCT02475720",
+            "excerpt": "Industry: Survey on the Treatment Reality of Patients With Epidermal Growth Factor Receptor (EGFR) Mutation-positive Non-small Cell Lung Cancer(NSCLC)"
+          },
+          {
+            "nct_id": "NCT00101413",
+            "excerpt": "Industry: BAY43-9006 - Phase II Study in Non-Small Cell Lung Carcinoma (NSCLC)"
+          },
+          {
+            "nct_id": "NCT00465725",
+            "excerpt": "Industry: A Study Comparing Oral Picoplatin With Intravenous Picoplatin in Subjects With Solid Tumors"
+          },
+          {
+            "nct_id": "NCT05303376",
+            "excerpt": "Industry: Phase 1&2 Study to Evaluate the Safety & Efficacy of Inhaled IBIO123 in Severe COVID-19 Illness"
+          },
+          {
+            "nct_id": "NCT06280196",
+            "excerpt": "Industry: A Study to Evaluate PK, Efficacy, and Safety of BAT3306 Plus Chemo and Compare With Keytruda®(EU/US) in Participants With IV nqNSCLC"
+          },
+          {
+            "nct_id": "NCT00380718",
+            "excerpt": "Industry: Chemotherapy for Patients With Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT05614518",
+            "excerpt": "Industry: Diagnostic Performance and Safety of 18F-NaF-PET/CT in Bone Metastases Compared With 99mTc⁃MDP-BS±SPECT"
+          },
+          {
+            "nct_id": "NCT05374603",
+            "excerpt": "Industry: Savolitinib Combine With Durvalumab in EGFR Wild-type Locally Advanced or Metastatic NSCLC"
+          },
+          {
+            "nct_id": "NCT07376382",
+            "excerpt": "Industry: A Phase Ⅲ Clinical Study of SYS6010 in Combination With Osimertinib in Patients With Locally Advanced or Metastatic NSCLC"
+          },
+          {
+            "nct_id": "NCT03175224",
+            "excerpt": "Industry: APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors"
+          },
+          {
+            "nct_id": "NCT07431827",
+            "excerpt": "Industry: MK-3475A±MK-1084 in Completely Resected Stage IIA-IIIB (N2) KRAS G12Cm NSCLC (MK-1084-013)"
+          },
+          {
+            "nct_id": "NCT00367679",
+            "excerpt": "Industry: Pazopanib As Pre-Surgical Therapy In Treatment-Naive Subjects With Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02047903",
+            "excerpt": "Industry: GIOTRIF in First Line Therapy of Advanced NSCLC With EGFR-mutations"
+          },
+          {
+            "nct_id": "NCT03653546",
+            "excerpt": "Industry: First Line Treatment in EGFR Mutation Positive Advanced NSCLC Patients With Central Nervous System (CNS) Metastases"
+          },
+          {
+            "nct_id": "NCT04181788",
+            "excerpt": "Industry: Sasanlimab (PF-06801591, PD-1 Inhibitor) in Participants With Advanced Malignancies"
+          },
+          {
+            "nct_id": "NCT03852823",
+            "excerpt": "Industry: Study of Recombinant Human Anti-PD-1 Monoclonal Antibody in Patients With Advanced Tumours"
+          },
+          {
+            "nct_id": "NCT05653882",
+            "excerpt": "Industry: A Study Evaluating AB248 Alone or in Combination With Pembrolizumab in Adult Patients With Solid Tumors"
+          },
+          {
+            "nct_id": "NCT06751524",
+            "excerpt": "Industry: Expanded Access Program (EAP) Designed to Provide Access to Botensilimab and Balstilimab Before Regulatory Approval"
+          },
+          {
+            "nct_id": "NCT06136923",
+            "excerpt": "Industry: An Exploratory Study to Evaluate Attention Biases in Adults With Multiple Sclerosis, Breast Cancer, and Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00700180",
+            "excerpt": "Industry: A Study of Avastin (Bevacizumab) in Combination With Carboplatin-Based Chemotherapy in Patients With Advanced or Recurrent Non-Squamous Non-Small Cell Lung Cancer."
+          },
+          {
+            "nct_id": "NCT00773188",
+            "excerpt": "Industry: A Feasibility Trial of Avastin (Bevacizumab) in Combination With Concomitant Chemoradiation (Cisplatin and Vinorelbine) in Patients With Locally Advanced Non-Squamous Non-Small Cell Lung Cancer."
+          },
+          {
+            "nct_id": "NCT00539383",
+            "excerpt": "Industry: A Phase 1, Open-Label, Dose Escalation Study of ANG1005 in Patients With Advanced Solid Tumors and Metastatic Brain Cancer"
+          },
+          {
+            "nct_id": "NCT06869122",
+            "excerpt": "Industry: Bronchoscopic Microwave Ablation of Lung Tissue in Surgical Candidates - UK"
+          },
+          {
+            "nct_id": "NCT02651441",
+            "excerpt": "Industry: D-CIK Combined With Chemotherapy for Non-Small Cell Lung Cancer(NSCLC)"
+          },
+          {
+            "nct_id": "NCT03271554",
+            "excerpt": "Industry: Treatment Registry of Alectinib in Anaplastic Lymphoma Kinase (ALK)-Positive, Locally Advanced or Metastatic Non-Small Cell Lung Cancer in Korea"
+          },
+          {
+            "nct_id": "NCT05180422",
+            "excerpt": "Industry: A Phase I/II Study of AMG 510 in Combination With MVASI in Patients With Advanced, Unresectable or Metastatic KRAS G12C Mutant NSCLC With Asymptomatic Brain Metastasis"
+          },
+          {
+            "nct_id": "NCT04047251",
+            "excerpt": "Industry: A Study of FF-10850 Topotecan Liposome Injection in Advanced Solid Tumors Including Merkel Cell Carcinoma"
+          },
+          {
+            "nct_id": "NCT06646016",
+            "excerpt": "Industry: EPIC- Extracorporeal Photopheresis (ECP) for Immune-related Colitis"
+          },
+          {
+            "nct_id": "NCT02567799",
+            "excerpt": "Industry: BIO 300 Non-Small Cell Lung Cancer Study"
+          },
+          {
+            "nct_id": "NCT05519293",
+            "excerpt": "Industry: Phase I/IIa Study of H002 in NSCLC With Active EGFR Mutation"
+          },
+          {
+            "nct_id": "NCT00051506",
+            "excerpt": "Industry: ALIMTA(Pemetrexed)/Cisplatin and ALIMTA(Pemetrexed)/Carboplatin in Extensive Stage Small Cell Lung Cancer."
+          },
+          {
+            "nct_id": "NCT05935384",
+            "excerpt": "Industry: SIBYL: obServation of Therapy Response With lIquid BiopsY evaLuation"
+          },
+          {
+            "nct_id": "NCT04058704",
+            "excerpt": "Industry: A Study to Determine the Efficiency For Brain Metastasis NSCLC Patients Treated With Icotinib Alone or Combined With Radiation Therapy"
+          },
+          {
+            "nct_id": "NCT04895709",
+            "excerpt": "Industry: A Study of BMS-986340 as Monotherapy and in Combination With Nivolumab or Docetaxel in Participants With Advanced Solid Tumors"
+          },
+          {
+            "nct_id": "NCT00885963",
+            "excerpt": "Industry: A Study of Oral Sapacitabine in Patients With Previously Treated Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04385368",
+            "excerpt": "Industry: Phase III Study to Determine the Efficacy of Durvalumab in Combination With Chemotherapy in Completely Resected Stage II-III Non-small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT02774278",
+            "excerpt": "Industry: A Study of Erlotinib (Tarceva) in Participants With Non-Small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT00931008",
+            "excerpt": "Industry: Study to Evaluate SID 530 Compared to Taxotere"
+          },
+          {
+            "nct_id": "NCT02318368",
+            "excerpt": "Industry: A Phase 2, Study of Ficlatuzumab Plus Erlotinib vs. Placebo Plus Erlotinib in Subjects With Previously Untreated Metastatic, EGFR-mutated NSCLC and BDX004 Positive Label"
+          },
+          {
+            "nct_id": "NCT02831491",
+            "excerpt": "Industry: A Study of Ramucirumab (LY3009806) in Combination With Weekly Docetaxel in Participants With Stage IV Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02088515",
+            "excerpt": "Industry: Nedaplatin (Jiebaishu®) Combined With Docetaxel for Advanced Lung Squamous Cell Carcinoma"
+          },
+          {
+            "nct_id": "NCT03334617",
+            "excerpt": "Industry: Phase II Umbrella Study of Novel Anti-cancer Agents in Participants With NSCLC Who Progressed on an Anti-PD-1/PD-L1 Containing Therapy"
+          },
+          {
+            "nct_id": "NCT02608268",
+            "excerpt": "Industry: Phase I-Ib/II Study of MBG453 as Single Agent and in Combination With PDR001 in Patients With Advanced Malignancies"
+          },
+          {
+            "nct_id": "NCT00527735",
+            "excerpt": "Industry: Phase II Study for Previously Untreated Subjects With Non Small Cell Lung Cancer (NSCLC) or Small Cell Lung Cancer (SCLC)"
+          },
+          {
+            "nct_id": "NCT04180176",
+            "excerpt": "Industry: Prospective Clinicogenomic Program"
+          },
+          {
+            "nct_id": "NCT02075840",
+            "excerpt": "Industry: A Study Comparing Alectinib With Crizotinib in Treatment-Naive Anaplastic Lymphoma Kinase-Positive Advanced Non-Small Cell Lung Cancer Participants"
+          }
+        ],
+        "sponsor_class": "Industry",
+        "trial_count": 153
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT03249766",
+            "excerpt": "Other Gov: Study of Prevalence of Ipsilateral Shoulder Pain in Patients After Thoracic Surgeries"
+          },
+          {
+            "nct_id": "NCT00364624",
+            "excerpt": "Other Gov: Adrenal Function in Patients With Newly Diagnosed Lung Cancer"
+          },
+          {
+            "nct_id": "NCT06232083",
+            "excerpt": "Other Gov: A Multi Tumor, Open Phase I Clinical Study on the Progression of First-line Anti-tumor Therapy Using Cardonizumab Combined With Pulsed Low-dose Rate External Irradiation (PLDR)"
+          },
+          {
+            "nct_id": "NCT05547737",
+            "excerpt": "Other Gov: Multicenter, Prospective, Real World Study of Camrelizumab in Cross-line Treatment of Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT03350802",
+            "excerpt": "Other Gov: Procalcitonin Test for Differentiation of the Cause of Pneumonia"
+          },
+          {
+            "nct_id": "NCT04382495",
+            "excerpt": "Other Gov: The Impact of COVID-19 Pandemic on Cancer Care"
+          },
+          {
+            "nct_id": "NCT05192681",
+            "excerpt": "Other Gov: Tislelizumab as Cross-line Treatment for Advanced NSCLC"
+          },
+          {
+            "nct_id": "NCT02405273",
+            "excerpt": "Other Gov: Pulmonary Resection And Intensive Rehabilitation"
+          },
+          {
+            "nct_id": "NCT00003159",
+            "excerpt": "Other Gov: Surgery With or Without Preoperative Chemotherapy in Treating Patients With Resectable Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT03412357",
+            "excerpt": "Other Gov: MesoTRAP: A Study Comparing Video-assisted Thoracoscopic Partial Pleurectomy/Decortication With Indwelling Pleural Catheter in Patients With Trapped Lung Due to Malignant Pleural Mesothelioma."
+          },
+          {
+            "nct_id": "NCT04901754",
+            "excerpt": "Other Gov: Camrelizumab Plus Apatinib as Maintenance Therapy in Extensive-stage Small-cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT06454890",
+            "excerpt": "Other Gov: Clinical Study of Trop2 CAR-NK in the Treatment of Relapsed/Refractory Non-Small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT00452803",
+            "excerpt": "Other Gov: Pre-operative Chemotherapy Versus Concurrent Chemoradiotherapy in N2 Positive IIIA Non Small Cell Lung Cancer (NSCLC)"
+          },
+          {
+            "nct_id": "NCT00859742",
+            "excerpt": "Other Gov: Endobronchial Ultrasound Guided Transbronchial Needle Aspiration (EBUS-TBNA) for Mediastinal Re-staging of Non-small Cell Lung Cancer(NSCLC)"
+          },
+          {
+            "nct_id": "NCT06760676",
+            "excerpt": "Other Gov: A Multiple Tumor Species, Open and Multi-center Clinical Study of Alpaloritovorelli Antibodies (QL-1706) Combined with Pulsed Low Dose Rate External Irradiation (PLDR) for Disease Progression After Previous Anti-tumor Therapy"
+          }
+        ],
+        "sponsor_class": "Other Gov",
+        "trial_count": 15
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT00085280",
+            "excerpt": "Nih: Erlotinib in Treating Patients With Stage IIIB, Stage IV, or Recurrent Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT01624090",
+            "excerpt": "Nih: Mithramycin for Lung, Esophagus, and Other Chest Cancers"
+          },
+          {
+            "nct_id": "NCT04402788",
+            "excerpt": "Nih: Testing the Addition of Radiation Therapy to the Usual Immune Therapy Treatment (Atezolizumab) for Extensive Stage Small Cell Lung Cancer, The RAPTOR Trial"
+          },
+          {
+            "nct_id": "NCT00341341",
+            "excerpt": "Nih: Impact of Lung Cancer Diagnosis on Relatives' Understanding of Genetic Risk and Receptivity to Quit Smoking"
+          },
+          {
+            "nct_id": "NCT00098254",
+            "excerpt": "Nih: BAY 43-9006 (Sorafenib) to Treat Relapsed Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00077922",
+            "excerpt": "Nih: Anti-Tac(Fv)-PE38 (LMB-2) to Treat Chronic Lymphocytic Leukemia"
+          },
+          {
+            "nct_id": "NCT00955305",
+            "excerpt": "Nih: Paclitaxel, Carboplatin, and Bevacizumab With or Without Cixutumumab in Treating Patients With Stage IV or Recurrent Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00066768",
+            "excerpt": "Nih: Suramin and Either Docetaxel or Gemcitabine in Treating Patients With Stage IIIB or Stage IV Platinum-Refractory Non-Small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT02306161",
+            "excerpt": "Nih: Combination Chemotherapy With or Without Ganitumab in Treating Patients With Newly Diagnosed Metastatic Ewing Sarcoma"
+          },
+          {
+            "nct_id": "NCT00004074",
+            "excerpt": "Nih: Interleukin-12 and Trastuzumab in Treating Patients With Cancer That Has High Levels of HER2/Neu"
+          },
+          {
+            "nct_id": "NCT03407040",
+            "excerpt": "Nih: Generation of Cancer Antigen-Specific T-cells From Human Induced Pluripotent Stem Cells (iPSC) for Research and Potential FutureTherapy"
+          },
+          {
+            "nct_id": "NCT00003240",
+            "excerpt": "Nih: Standard Therapy Given With or Without Combination Chemotherapy in Treating Patients With Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00321893",
+            "excerpt": "Nih: Budesonide in Treating Patients With Lung Nodules at High Risk of Developing Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00019435",
+            "excerpt": "Nih: LMB-9 Immunotoxin in Treating Patients With Advanced Solid Tumors"
+          }
+        ],
+        "sponsor_class": "Nih",
+        "trial_count": 14
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT00006470",
+            "excerpt": "Network: Vaccine Therapy Plus Radiation Therapy in Treating Patients With Non-small Cell Lung Cancer That Has Been Completely Removed in Surgery"
+          },
+          {
+            "nct_id": "NCT02580994",
+            "excerpt": "Network: Pembrolizumab in Untreated Extensive SCLC"
+          },
+          {
+            "nct_id": "NCT00920010",
+            "excerpt": "Network: S9925: Collecting and Storing Samples From Patients With Lung Cancer"
+          },
+          {
+            "nct_id": "NCT00003062",
+            "excerpt": "Network: Temozolomide in Patients With Progressive or Recurrent Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT05522660",
+            "excerpt": "Network: Immunotherapy or Targeted Therapy With or Without Stereotactic Radiosurgery for Patients With Brain Metastases From Melanoma or Non-small Cell Lung Cancer"
+          },
+          {
+            "nct_id": "NCT04394182",
+            "excerpt": "Network: Ultra Low Doses of Therapy With Radiation Applicated to COVID-19"
+          },
+          {
+            "nct_id": "NCT01721252",
+            "excerpt": "Network: Tarceva. ICORG 08-41"
+          },
+          {
+            "nct_id": "NCT06069115",
+            "excerpt": "Network: Radiotherapy Exposed Lung Injury: Effect on Functioning - Cohort"
+          },
+          {
+            "nct_id": "NCT00006082",
+            "excerpt": "Network: Nitrocamptothecin in Treating Patients With Advanced Small Cell Lung Cancer"
+          }
+        ],
+        "sponsor_class": "Network",
+        "trial_count": 9
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT01883986",
+            "excerpt": "Fed: Supportive Care for Patients Newly Diagnosed With Lung Cancer"
+          },
+          {
+            "nct_id": "NCT01754909",
+            "excerpt": "Fed: Mitigation of Radiation Pneumonitis and Fibrosis"
+          },
+          {
+            "nct_id": "NCT01710293",
+            "excerpt": "Fed: Intervention Protocol for Automated Point-of-Care Surveillance of Outpatient Delays in Cancer Diagnosis"
+          }
+        ],
+        "sponsor_class": "Fed",
+        "trial_count": 3
+      },
+      {
+        "citations": [
+          {
+            "nct_id": "NCT02642939",
+            "excerpt": "Indiv: Study of Oral Mifepristone as Salvage Therapy in Patients With Advanced or Metastatic Non-Small Cell Lung Cancer"
+          }
+        ],
+        "sponsor_class": "Indiv",
+        "trial_count": 1
+      }
+    ]
+  },
+  "meta": {
+    "filters": {
+      "query.cond": "Lung Cancer"
+    },
+    "sources": [
+      "clinicaltrials.gov"
+    ],
+    "notes": [],
+    "record_count": 500,
+    "generated_at": "2026-03-19T02:26:03"
+  }
+}
